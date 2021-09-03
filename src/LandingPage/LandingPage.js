@@ -1,3 +1,4 @@
+import './LandingPage.css'
 import React from 'react';
 import LandingCarousel from './Components/LandingCarousel';
 import Title from './Components/Title'

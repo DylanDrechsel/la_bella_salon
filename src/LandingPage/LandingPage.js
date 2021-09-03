@@ -1,9 +1,10 @@
 import React from 'react';
+import LandingCarousel from './Components/LandingCarousel';
 
 const LandingPage = () => {
     return (
         <div>
-            <h1> Hello from landing page </h1>
+            <LandingCarousel />
         </div>
     );
 };

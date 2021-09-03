@@ -12,7 +12,7 @@ const EnterButton = () => {
 
     return (
         <div className='EnterButtonDiv'>
-            <Button className='EnterButton' variant="outline-warning" size="lg" onClick={handleEnter}>Enter!</Button>{' '}
+            <Button className='EnterButton' variant="outline-dark" size="lg" onClick={handleEnter}>Enter!</Button>{' '}
         </div>
     );
 };

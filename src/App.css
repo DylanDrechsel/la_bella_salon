@@ -3,26 +3,3 @@
   height: 100vh;
   background-color: black;
 }
-
-/* IphoneX */
-@media only screen and (min-device-width: 375px) and (max-device-height: 812px)  {
-  .App {
-    /* background-color: white; */
-  }
-  .CarouselImage {
-  
-  }
-  .LandingCarouselDiv {
-    padding-top: 13vh;
-  }
-  .EnterButton {
-    width: 100%;
-  }
-  .EnterButtonDiv {
-    background-color: #B78C2A;
-    border-radius: 5px;
-    width: 100%;
-    position: absolute;
-    bottom: 10px;
-  }
-}

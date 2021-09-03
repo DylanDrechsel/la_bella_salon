@@ -3,6 +3,7 @@ import { useRecoilState } from 'recoil';
 import { websiteState } from './Recoil/atoms';
 import { Route } from 'react-router-dom'
 import LandingPage from './LandingPage/LandingPage'
+import Navigation from './Global/Navigation';
 
 function App() {
   const [website, setWebite] = useRecoilState(websiteState)
@@ -16,7 +17,7 @@ function App() {
   } else {
     return (
       <div className="App">
-        <h1> Passed landing page</h1>
+        <Navigation />
       </div>
     )
   }

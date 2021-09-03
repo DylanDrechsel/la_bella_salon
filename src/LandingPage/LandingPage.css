@@ -2,6 +2,11 @@
 @media only screen and (min-device-width: 375px) and (max-device-height: 812px)  {
     .LandingCarouselDiv {
       padding-top: 13vh;
+      height: 100vh;
+    }
+    .CarouselImage {
+      height: auto;
+      object-fit: fill;
     }
     .EnterButton {
       width: 100%;

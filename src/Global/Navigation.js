@@ -1,5 +1,6 @@
 import React from 'react';
 import './global.css'
+import { Link } from 'react-router-dom'
 import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap'
 
 const Navigation = () => {
@@ -7,12 +8,32 @@ const Navigation = () => {
         <div>
             <Navbar className='Navbar' /* bg="light" */ expand="lg">
                 <Container>
-                    <Navbar.Brand>La Bella's Salon & Spa</Navbar.Brand>
+                    <Navbar.Brand>
+                        <Link 
+                            to={'/'}
+                            style={{
+                                color: 'white',
+                                textDecoration: 'none'
+                            }}
+                        >
+                            La Bella's Salon & Spa
+                        </Link>
+                    </Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                             <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
-                                <Nav.Link>Home</Nav.Link>
-                                <Nav.Link>About</Nav.Link>
+                                {/* <Nav.Link>Home</Nav.Link> */}
+                                <Nav.Link>
+                                    <Link 
+                                        to={'/about'}
+                                        style={{
+                                            color: 'white',
+                                            textDecoration: 'none'
+                                        }}
+                                    >
+                                        About
+                                    </Link>
+                                </Nav.Link>
                                 <Nav.Link>Salon Etiquette</Nav.Link>
                                 
 

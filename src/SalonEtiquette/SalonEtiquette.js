@@ -4,7 +4,7 @@ import './SalonEtiquette.css'
 const SalonEtiquette = () => {
     return (
         <div className='SalonEtiquetteDiv'>
-            <h1 style={{color: 'white'}}> SALON jfgdhsjkghdfjkgdhfjkgfdhkjgfhgkjsdhgkjshdkj </h1>
+            {/* <h1 style={{color: 'white'}}> SALON jfgdhsjkghdfjkgdhfjkgfdhkjgfhgkjsdhgkjshdkj </h1> */}
         </div>
     );
 };

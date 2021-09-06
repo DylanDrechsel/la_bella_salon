@@ -1,12 +1,29 @@
-import React from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import './global.css'
 import { Link } from 'react-router-dom'
-import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap'
+import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap'
 
 const Navigation = () => {
+    const [navBackground, setNavBackground] = useState(false)
+    const navRef = useRef()
+    navRef.current = navBackground
+
+    useEffect(() => {
+    const handleScroll = () => {
+        const show = window.scrollY > 50
+        if (navRef.current !== show) {
+          setNavBackground(show)
+        }
+      }
+      document.addEventListener('scroll', handleScroll)
+      return () => {
+        document.removeEventListener('scroll', handleScroll)
+      }
+    }, [])
+
     return (
         <div>
-            <Navbar className='Navbar' /* bg="light" */ expand="lg">
+            <Navbar className='Navbar' expand="sm" fixed="top" /* style={{ transition: '1s ease',backgroundColor: navBackground ? 'black' : 'black'}} */>
                 <Container>
                     <Navbar.Brand>
                         <Link 
@@ -22,7 +39,7 @@ const Navigation = () => {
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                             <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
-                                {/* <Nav.Link>Home</Nav.Link> */}
+                                
                                 <Nav.Link>
                                     <Link 
                                         to={'/about'}

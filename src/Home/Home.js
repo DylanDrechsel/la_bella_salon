@@ -1,9 +1,11 @@
 import React from 'react';
+import './Home.css'
+import SlideOne from './SlideOne/SlideOne'
 
 const Home = () => {
     return (
         <div>
-            <h1> THIS IS THE HOME PAGE </h1>
+            <SlideOne />
         </div>
     );
 };

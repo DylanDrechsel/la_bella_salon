@@ -6,7 +6,7 @@ import EnterButton from './Components/EnterButton'
 
 const LandingPage = () => {
     return (
-        <div>
+        <div className='LandingPageMainDiv'>
             <Title />
             <LandingCarousel />
             <EnterButton />

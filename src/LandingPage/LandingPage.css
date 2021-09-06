@@ -1,21 +1,26 @@
 /* IphoneX */
 @media only screen and (min-device-width: 375px) and (max-device-height: 812px)  {
-    .LandingCarouselDiv {
-      padding-top: 13vh;
-      height: 100vh;
-    }
-    .CarouselImage {
-      height: auto;
-      object-fit: fill;
-    }
-    .EnterButton {
-      width: 100%;
-    }
-    .EnterButtonDiv {
-      background-color: #B78C2A;
-      border-radius: 5px;
-      width: 100%;
-      position: absolute;
-      bottom: 10px;
-    }
+  .LandingPageMainDiv {
+    background-color: #DCDC56;
+    /* background: rgb(11,9,11); */
+    background: linear-gradient(0deg, rgba(11,9,11,1) 0%, rgba(183,140,42,1) 74%, rgba(70,50,32,1) 100%);
+  }  
+  .LandingCarouselDiv {
+    padding-top: 13vh;
+    height: 100vh;
   }
+  .CarouselImage {
+    height: auto;
+    object-fit: fill;
+  }
+  .EnterButton {
+    width: 100%;
+  }
+  .EnterButtonDiv {
+    background-color: #B78C2A;
+    border-radius: 5px;
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+   }
+}

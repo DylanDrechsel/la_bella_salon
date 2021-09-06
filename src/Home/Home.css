@@ -1,0 +1,7 @@
+/* IphoneX */
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px)  {
+    .UpperDiv {
+        background-color: #0B090B;
+        height: 45vh;
+    }
+}

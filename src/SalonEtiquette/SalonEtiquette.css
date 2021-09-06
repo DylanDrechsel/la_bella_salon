@@ -1,7 +1,11 @@
 /* IphoneX */
 @media only screen and (min-device-width: 375px) and (max-device-height: 812px)  {
     .SalonEtiquetteDiv {
-        padding-top: 7vh;
-        height: 100vh;
+        margin-top: 8vh;
+        margin-left: 1vw;
+        /* padding-right: 5vw; */
+        height:92vh;
+        width:  98vw;
+        border: 1px white solid;
     }
 }

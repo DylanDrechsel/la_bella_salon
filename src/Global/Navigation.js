@@ -51,7 +51,17 @@ const Navigation = () => {
                                         About
                                     </Link>
                                 </Nav.Link>
-                                <Nav.Link>Salon Etiquette</Nav.Link>
+                                <Nav.Link>
+                                    <Link 
+                                        to={'/salon-etiquette'}
+                                        style={{
+                                            color: 'white',
+                                            textDecoration: 'none'
+                                        }}
+                                    >
+                                        Salon Etiquette
+                                    </Link>
+                                </Nav.Link>
                                 
 
                                 <NavDropdown title="Services" id="basic-nav-dropdown">

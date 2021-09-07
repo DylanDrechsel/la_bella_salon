@@ -3,6 +3,7 @@ import './SalonEtiquette.css'
 import Title from './Components/Title'
 import Arrival from './Components/Arrival';
 import Cancellations from './Components/Cancellations';
+import Children from './Components/Children';
 
 const SalonEtiquette = () => {
     return (
@@ -12,6 +13,7 @@ const SalonEtiquette = () => {
             <div className='SalonEtiquetteDiv'>
                 <Arrival />
                 <Cancellations />
+                <Children />
             </div>
         </div>
     );

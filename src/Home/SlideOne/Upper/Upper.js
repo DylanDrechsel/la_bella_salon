@@ -1,9 +1,10 @@
 import React from 'react';
+import LaBellaLogo from './Components/LaBellaLogo';
 
 const Upper = () => {
     return (
         <div className='UpperDiv'>
-            <h1> Hello </h1>
+            <LaBellaLogo />
         </div>
     );
 };

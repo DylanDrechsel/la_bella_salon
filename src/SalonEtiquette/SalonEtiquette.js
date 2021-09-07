@@ -4,6 +4,8 @@ import Title from './Components/Title'
 import Arrival from './Components/Arrival';
 import Cancellations from './Components/Cancellations';
 import Children from './Components/Children';
+import CellPhones from './Components/CellPhones';
+import GiftCertificates from './Components/GiftCertificates';
 
 const SalonEtiquette = () => {
     return (
@@ -14,6 +16,8 @@ const SalonEtiquette = () => {
                 <Arrival />
                 <Cancellations />
                 <Children />
+                <CellPhones />
+                <GiftCertificates />
             </div>
         </div>
     );

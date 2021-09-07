@@ -69,4 +69,19 @@
         margin-left: 18px;
         margin-bottom: 0px; 
     }
+    .CellPhonesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 36px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CellPhonesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px; 
+    }
 }

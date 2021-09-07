@@ -1,11 +1,17 @@
 /* IphoneX */
 @media only screen and (min-device-width: 375px) and (max-device-height: 812px)  {
     .UpperDiv {
+        margin-top: 6.9vh;
         background-color: #F5F5F5;
-        height: 50vh;
+        height: 25.5vh;
     }
     .BottomDiv {
         background-color: #0B090B;
-        height: 50vh;
+        height: 67.6vh;
+    }
+    .LaBellaLogo {
+        position: relative;
+        right: 27.5vw;
+        bottom: 25vh;
     }
 }

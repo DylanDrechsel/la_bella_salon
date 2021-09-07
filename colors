@@ -13,4 +13,9 @@ Cyan Process = #44ADDA
 
 Original website colors
 Background color = rgb(239, 220, 173);
-Brown text = rgb(127, 79, 21);
+Brown text = rgb(127, 79, 21); -------------------------------> DECIDED TO USE!!!!!!
+
+Fonts
+font-family: 'ZCOOL KuaiLe', cursive;
+font-family: 'Cookie', cursive;
+font-family: 'Raleway', sans-serif;

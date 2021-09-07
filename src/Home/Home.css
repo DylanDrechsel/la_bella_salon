@@ -15,3 +15,21 @@
         bottom: 25vh;
     }
 }
+
+/* IphoneXR */
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px)  {
+    .UpperDiv {
+        margin-top: 6.3vh;
+        background-color: #F5F5F5;
+        height: 22.5vh;
+    }
+    .BottomDiv {
+        background-color: #0B090B;
+        height: 71.2vh;
+    }
+    .LaBellaLogo {
+        position: relative;
+        right: 20.5vw;
+        bottom: 23vh;
+    }
+}

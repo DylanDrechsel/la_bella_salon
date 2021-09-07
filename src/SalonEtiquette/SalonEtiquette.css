@@ -8,4 +8,13 @@
         width:  97vw;
         border: 1px white solid;
     }
+    .EtiquetteTitle {
+        position: relative;
+        top: 7.5vh;
+        text-align: center;
+
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 48px;
+    }
 }

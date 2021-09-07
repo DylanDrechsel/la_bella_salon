@@ -19,3 +19,6 @@ Fonts
 font-family: 'ZCOOL KuaiLe', cursive;
 font-family: 'Cookie', cursive;
 font-family: 'Raleway', sans-serif;
+
+<------------------------- TO DO ------------------------->
+Navbar dropdown closes on click (Toggle State Change?)

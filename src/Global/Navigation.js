@@ -29,8 +29,10 @@ const Navigation = () => {
                         <Link 
                             to={'/'}
                             style={{
-                                color: 'white',
-                                textDecoration: 'none'
+                                color: '#F5F5F5',
+                                textDecoration: 'none',
+                                fontFamily: 'Cookie, cursive',
+                                fontSize: '24px'
                             }}
                         >
                             La Bella's Salon & Spa
@@ -44,7 +46,7 @@ const Navigation = () => {
                                     <Link 
                                         to={'/about'}
                                         style={{
-                                            color: 'white',
+                                            color: '#F5F5F5',
                                             textDecoration: 'none'
                                         }}
                                     >
@@ -55,7 +57,7 @@ const Navigation = () => {
                                     <Link 
                                         to={'/salon-etiquette'}
                                         style={{
-                                            color: 'white',
+                                            color: '#F5F5F5',
                                             textDecoration: 'none'
                                         }}
                                     >

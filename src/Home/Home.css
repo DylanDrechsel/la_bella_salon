@@ -39,4 +39,16 @@
         right: 20.5vw;
         bottom: -10vh;
     }
+    .SlideTwoDiv {
+        height: 20vh;
+        background-color: #0B090B;
+    }
+    .SlideTwoText {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 6vh;
+    }
 }

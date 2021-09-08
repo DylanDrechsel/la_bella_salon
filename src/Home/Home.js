@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import './Home.css'
 import SlideOne from './SlideOne/SlideOne'
+import SlideTwo from './SlideTwo/SlideTwo'
 
 document.documentElement.dataset.scroll = 0;
 
@@ -12,6 +13,7 @@ const Home = () => {
     return (
         <div>
             <SlideOne />
+            <SlideTwo />
         </div>
     );
 };

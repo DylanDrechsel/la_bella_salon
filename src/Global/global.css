@@ -1,3 +1,11 @@
-.Navbar {
+html:not([data-scroll='0']) .Navbar {
     background-color: #b78d2a;
 }
+
+.Navbar {
+    background-color: #b78d2a00;
+}
+
+/* html:not([data-scroll='1500']) .Navbar {
+    background-color: #b78d2a;
+} */

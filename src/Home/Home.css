@@ -17,7 +17,14 @@
 }
 
 /* IphoneXR */
-@media only screen and (min-device-width: 414px) and (max-device-height: 896px)  {
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) {
+    .SlideOneDiv {
+        /* background-color: black; */
+        height: 100vh;
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/bayalage-windowwall-salon-services.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
     .UpperDiv {
         margin-top: 6.3vh;
         background-color: #F5F5F5;

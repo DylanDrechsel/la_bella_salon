@@ -4,9 +4,9 @@ import Bottom from './Bottom/Bottom'
 
 const SlideOne = () => {
     return (
-        <div>
-            <Upper />
-            <Bottom />
+        <div className='SlideOneDiv'>
+            {/* <Upper /> */}
+            {/* <Bottom /> */}
         </div>
     );
 };

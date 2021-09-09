@@ -4,6 +4,9 @@ import { Link } from 'react-router-dom'
 import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap'
 
 const Navigation = () => {
+    const [dropdown, setDropdown] = useState({
+        showDropdown: false
+    })
     const [navBackground, setNavBackground] = useState(false)
     const navRef = useRef()
     navRef.current = navBackground
@@ -20,6 +23,14 @@ const Navigation = () => {
         document.removeEventListener('scroll', handleScroll)
       }
     }, [])
+
+    const toggleDropdown = () => {
+        if (dropdown.showDropdown) {
+            setDropdown({ showDropdown: false })
+        } else {
+            setDropdown({ showDropdown: true })
+        }
+    }
 
     return (
         <div>
@@ -41,7 +52,7 @@ const Navigation = () => {
                     </Navbar.Brand>
                         <Navbar.Toggle className='NavbarToggle' aria-controls="basic-navbar-nav" />
                             <Navbar.Collapse id="basic-navbar-nav">
-                            <Nav className="me-auto">
+                            <Nav className="me-auto" onClick={toggleDropdown}>
                                 
                                 <Nav.Link>
                                     <Link 

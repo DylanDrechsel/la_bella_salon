@@ -1,7 +1,8 @@
 html:not([data-scroll='0']) .Navbar {
     background-color: #b78d2a;
-    animation: fadeIn 1s ease-in;
+    animation: fadeIn .5s ease-in;
     height: 6vh;
+    /* overflow: hidden; */
 }
 
 html:not([data-scroll='0']) .NavbarTitle {

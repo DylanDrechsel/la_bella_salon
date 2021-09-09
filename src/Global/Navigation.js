@@ -68,8 +68,8 @@ const Navigation = () => {
                                 
 
                                 <NavDropdown title="Services" id="basic-nav-dropdown">
-                                <NavDropdown.Item href="#action/3.1">Salon</NavDropdown.Item>
-                                <NavDropdown.Item href="#action/3.2">Spa</NavDropdown.Item>
+                                <NavDropdown.Item href="/salon">Salon</NavDropdown.Item>
+                                <NavDropdown.Item href="/spa">Spa</NavDropdown.Item>
         
                                 </NavDropdown>
                             </Nav>

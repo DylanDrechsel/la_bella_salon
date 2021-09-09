@@ -7,6 +7,7 @@ import Navigation from './Global/Navigation';
 import Home from './Home/Home'
 import About from './About/About'
 import SalonEtiquette from './SalonEtiquette/SalonEtiquette';
+import Spa from './Spa/Spa';
 
 function App() {
   const [website, setWebite] = useRecoilState(websiteState)
@@ -27,6 +28,8 @@ function App() {
         <Route path='/about' exact component={About} />
 
         <Route path='/salon-etiquette' exact component={SalonEtiquette} />
+
+        <Route path='/spa' exact component={Spa} />
       </div>
     )
   }

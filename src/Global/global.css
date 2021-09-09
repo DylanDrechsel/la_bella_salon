@@ -2,8 +2,16 @@ html:not([data-scroll='0']) .Navbar {
     background-color: #b78d2a;
 }
 
+html:not([data-scroll='0']) .NavbarTitle {
+    display: inline;
+}
+
 .Navbar {
     background-color: #b78d2a00;
+}
+
+.NavbarTitle {
+    display: none;
 }
 
 /* html:not([data-scroll='1500']) .Navbar {

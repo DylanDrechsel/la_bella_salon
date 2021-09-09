@@ -7,7 +7,11 @@ document.documentElement.dataset.scroll = 0;
 
 const Home = () => {
     document.addEventListener("scroll", () => {
-        document.documentElement.dataset.scroll = window.scrollY;
+        if (window.scrollY > 150) {
+            document.documentElement.dataset.scroll = window.scrollY;
+        } else {
+            document.documentElement.dataset.scroll = 0;
+        }
       });
 
     return (

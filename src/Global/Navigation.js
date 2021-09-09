@@ -28,6 +28,7 @@ const Navigation = () => {
                     <Navbar.Brand>
                         <Link 
                             to={'/'}
+                            className='NavbarTitle'
                             style={{
                                 color: '#F5F5F5',
                                 textDecoration: 'none',

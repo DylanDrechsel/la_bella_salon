@@ -1,10 +1,19 @@
 html:not([data-scroll='0']) .Navbar {
     background-color: #b78d2a;
-    animation: fadeIn 2s ease-out;
+    animation: fadeIn 1s ease-in;
+    height: 6vh;
 }
 
 html:not([data-scroll='0']) .NavbarTitle {
     display: inline;
+    position: relative;
+    bottom: .5vh
+}
+
+html:not([data-scroll='0']) .NavbarToggle {
+    display: inline;
+    position: relative;
+    bottom: .5vh;
 }
 
 .Navbar {
@@ -14,6 +23,10 @@ html:not([data-scroll='0']) .NavbarTitle {
 .NavbarTitle {
     display: none;
 }
+
+/* .NavbarToggle {
+    display: none;
+} */
 
 @keyframes fadeIn {
     0%   { opacity: 0; }

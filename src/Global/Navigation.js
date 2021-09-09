@@ -28,6 +28,7 @@ const Navigation = () => {
                     <Navbar.Brand>
                         <Link 
                             to={'/'}
+                            className='NavbarTitle'
                             style={{
                                 color: '#F5F5F5',
                                 textDecoration: 'none',
@@ -38,7 +39,7 @@ const Navigation = () => {
                             La Bella's Salon & Spa
                         </Link>
                     </Navbar.Brand>
-                        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                        <Navbar.Toggle className='NavbarToggle' aria-controls="basic-navbar-nav" />
                             <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
                                 

@@ -7,7 +7,10 @@ import Children from './Components/Children';
 import CellPhones from './Components/CellPhones';
 import GiftCertificates from './Components/GiftCertificates';
 
+
 const SalonEtiquette = () => {
+    document.documentElement.dataset.scroll = 75;
+    
     return (
         <div className='EtiquetteMainDiv'>
             <Title />

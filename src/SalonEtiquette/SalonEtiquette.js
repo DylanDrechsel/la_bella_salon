@@ -11,7 +11,7 @@ const SalonEtiquette = () => {
     useEffect(() => {
         setTimeout(() => {
             document.documentElement.dataset.scroll = 10;
-        }, 500)
+        }, 250)
     }, [])
     
     return (

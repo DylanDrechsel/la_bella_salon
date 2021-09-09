@@ -1,28 +1,30 @@
 import React, { useEffect, useState, useRef } from 'react';
 import './global.css'
 import { Link } from 'react-router-dom'
-import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap'
+import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button, Dropdown } from 'react-bootstrap'
+import pic from '../Assets/transparent-la-bella-logo .png'
 
 const Navigation = () => {
-    const [dropdown, setDropdown] = useState({
-        showDropdown: false
-    })
     const [navBackground, setNavBackground] = useState(false)
     const navRef = useRef()
     navRef.current = navBackground
-
+    
     useEffect(() => {
-    const handleScroll = () => {
-        const show = window.scrollY > 50
-        if (navRef.current !== show) {
-          setNavBackground(show)
+        const handleScroll = () => {
+            const show = window.scrollY > 50
+            if (navRef.current !== show) {
+                setNavBackground(show)
+            }
         }
-      }
-      document.addEventListener('scroll', handleScroll)
-      return () => {
-        document.removeEventListener('scroll', handleScroll)
-      }
+        document.addEventListener('scroll', handleScroll)
+        return () => {
+            document.removeEventListener('scroll', handleScroll)
+        }
     }, [])
+
+    /* const [dropdown, setDropdown] = useState({
+        showDropdown: false
+    })
 
     const toggleDropdown = () => {
         if (dropdown.showDropdown) {
@@ -30,7 +32,21 @@ const Navigation = () => {
         } else {
             setDropdown({ showDropdown: true })
         }
-    }
+    } */
+
+    /* const CustomToggle = React.forwardRef(({ children, onClick }, ref) => (
+        <a
+          href={pic}
+          ref={ref}
+          onClick={e => {
+            e.preventDefault();
+            onClick(e);
+          }}
+        >
+          &#x25bc;
+          {children}
+        </a>
+      )) */;
 
     return (
         <div>
@@ -50,9 +66,25 @@ const Navigation = () => {
                             La Bella's Salon & Spa
                         </Link>
                     </Navbar.Brand>
+
+                    {/* <Dropdown>
+                        <Dropdown.Toggle as={CustomToggle} id="dropdown-custom-components">
+                        Custom toggle
+                        </Dropdown.Toggle>
+
+                        <Dropdown.Menu>
+                        <Dropdown.Item eventKey="1">Red</Dropdown.Item>
+                        <Dropdown.Item eventKey="2">Blue</Dropdown.Item>
+                        <Dropdown.Item eventKey="3" active>
+                            Orange
+                        </Dropdown.Item>
+                        <Dropdown.Item eventKey="1">Red-Orange</Dropdown.Item>
+                        </Dropdown.Menu>
+                    </Dropdown> */}
+
                         <Navbar.Toggle className='NavbarToggle' aria-controls="basic-navbar-nav" />
                             <Navbar.Collapse id="basic-navbar-nav">
-                            <Nav className="me-auto" onClick={toggleDropdown}>
+                            <Nav className="me-auto">
                                 
                                 <Nav.Link>
                                     <Link 

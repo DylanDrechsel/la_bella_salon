@@ -1,5 +1,6 @@
 html:not([data-scroll='0']) .Navbar {
     background-color: #b78d2a;
+    animation: fadeIn 2s ease-out;
 }
 
 html:not([data-scroll='0']) .NavbarTitle {
@@ -14,6 +15,7 @@ html:not([data-scroll='0']) .NavbarTitle {
     display: none;
 }
 
-/* html:not([data-scroll='1500']) .Navbar {
-    background-color: #b78d2a;
-} */
+@keyframes fadeIn {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+}

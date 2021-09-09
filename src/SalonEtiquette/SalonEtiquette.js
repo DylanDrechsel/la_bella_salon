@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './SalonEtiquette.css'
 import Title from './Components/Title'
 import Arrival from './Components/Arrival';
@@ -7,9 +7,12 @@ import Children from './Components/Children';
 import CellPhones from './Components/CellPhones';
 import GiftCertificates from './Components/GiftCertificates';
 
-
 const SalonEtiquette = () => {
-    document.documentElement.dataset.scroll = 75;
+    useEffect(() => {
+        setTimeout(() => {
+            document.documentElement.dataset.scroll = 10;
+        }, 500)
+    }, [])
     
     return (
         <div className='EtiquetteMainDiv'>

@@ -37,6 +37,25 @@ html:not([data-scroll='0']) .MenuImageDiv {
     top: -1vh;
 }
 
+.Modal {
+    margin-top: 10vh;
+}
+
+.MenuLink {
+    color: #F5F5F5;
+    text-decoration: none;
+    font-family: 'Cookie', cursive;
+    text-align: center;
+}
+
+.MenuText {
+    font-size: 36px;
+}
+
+.ModalBody {
+    background-color: rgb(127, 79, 21);
+}
+
 /* .MenuModal {
     position: relative;
     top: 5vh;

@@ -82,7 +82,7 @@ const Navigation = () => {
                         </Dropdown.Menu>
                     </Dropdown> */}
 
-                        <Navbar.Toggle className='NavbarToggle' aria-controls="basic-navbar-nav" />
+                        {/* <Navbar.Toggle className='NavbarToggle' aria-controls="basic-navbar-nav" />
                             <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
                                 
@@ -116,7 +116,7 @@ const Navigation = () => {
         
                                 </NavDropdown>
                             </Nav>
-                        </Navbar.Collapse>
+                        </Navbar.Collapse> */}
                 </Container>
             </Navbar>
         </div>

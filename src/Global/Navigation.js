@@ -26,7 +26,7 @@ const Navigation = () => {
     const [showMenu, setShowMenu] = useState(false)
 
     const handleMenuShow = () => {
-        console.log('hit')
+        setShowMenu(!showMenu)
     }
 
     /* const [dropdown, setDropdown] = useState({

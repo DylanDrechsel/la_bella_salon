@@ -76,7 +76,7 @@ const Navigation = () => {
                                 fontSize: '24px'
                             }}
                         >
-                            La Bella's Salon & Spa
+                            La Bella Salon & Spa
                         </Link>
                     </Navbar.Brand>
 

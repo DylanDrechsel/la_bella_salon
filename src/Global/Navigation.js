@@ -3,6 +3,7 @@ import './global.css'
 import { Link } from 'react-router-dom'
 import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button, Dropdown } from 'react-bootstrap'
 import MenuImage from'./DropdownButton'
+import MenuModal from './MenuModal/MenuModal';
 // import pic from '../Assets/transparent-la-bella-logo .png'
 
 const Navigation = () => {
@@ -23,10 +24,15 @@ const Navigation = () => {
         }
     }, [])
 
+    const [show, setShow] = useState(false);
+
+    const handleClose = () => setShow(false);
+    const handleShow = () => setShow(true);
+
     const [showMenu, setShowMenu] = useState(false)
 
     const handleMenuShow = () => {
-        setShowMenu(!showMenu)
+        setShow(!show)
     }
 
     /* const [dropdown, setDropdown] = useState({
@@ -75,8 +81,9 @@ const Navigation = () => {
                     </Navbar.Brand>
 
                     <MenuImage handleMenuShow={handleMenuShow}/>
+                    <MenuModal handleShow={handleShow} show={show} handleClose={handleClose}/>
 
-                    {showMenu ? <h1 style={{ color: 'white' }}>MENU IS SHOWING</h1> : null}
+                    {/* {showMenu ? <MenuModal /> : null} */}
 
                     {/* <Dropdown>
                         <Dropdown.Toggle as={CustomToggle} id="dropdown-custom-components">

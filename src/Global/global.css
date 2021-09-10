@@ -17,6 +17,12 @@ html:not([data-scroll='0']) .NavbarToggle {
     bottom: .5vh;
 }
 
+html:not([data-scroll='0']) .MenuImageDiv {
+    height: .01px;
+    position: relative;
+    top: -3vh;
+}
+
 .Navbar {
     background-color: #b78d2a00;
 }
@@ -24,6 +30,20 @@ html:not([data-scroll='0']) .NavbarToggle {
 .NavbarTitle {
     display: none;
 }
+
+.MenuImageDiv {
+    height: .01px;
+    position: relative;
+    top: -1vh;
+}
+
+/* .MenuModal {
+    position: relative;
+    top: 5vh;
+    background-color: #F5F5F5;
+    height: 15vh;
+    width: 15vw;
+} */
 
 /* .NavbarToggle {
     display: none;

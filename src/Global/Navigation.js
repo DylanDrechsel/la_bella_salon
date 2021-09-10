@@ -2,7 +2,9 @@ import React, { useEffect, useState, useRef } from 'react';
 import './global.css'
 import { Link } from 'react-router-dom'
 import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button, Dropdown } from 'react-bootstrap'
-import pic from '../Assets/transparent-la-bella-logo .png'
+import MenuImage from'./DropdownButton'
+import MenuModal from './MenuModal/MenuModal';
+// import pic from '../Assets/transparent-la-bella-logo .png'
 
 const Navigation = () => {
     const [navBackground, setNavBackground] = useState(false)
@@ -21,6 +23,17 @@ const Navigation = () => {
             document.removeEventListener('scroll', handleScroll)
         }
     }, [])
+
+    const [show, setShow] = useState(false);
+
+    const handleClose = () => setShow(false);
+    const handleShow = () => setShow(true);
+
+    const [showMenu, setShowMenu] = useState(false)
+
+    const handleMenuShow = () => {
+        setShow(!show)
+    }
 
     /* const [dropdown, setDropdown] = useState({
         showDropdown: false
@@ -67,6 +80,11 @@ const Navigation = () => {
                         </Link>
                     </Navbar.Brand>
 
+                    <MenuImage handleMenuShow={handleMenuShow}/>
+                    <MenuModal handleShow={handleShow} show={show} handleClose={handleClose}/>
+
+                    {/* {showMenu ? <MenuModal /> : null} */}
+
                     {/* <Dropdown>
                         <Dropdown.Toggle as={CustomToggle} id="dropdown-custom-components">
                         Custom toggle
@@ -82,7 +100,7 @@ const Navigation = () => {
                         </Dropdown.Menu>
                     </Dropdown> */}
 
-                        <Navbar.Toggle className='NavbarToggle' aria-controls="basic-navbar-nav" />
+                        {/* <Navbar.Toggle className='NavbarToggle' aria-controls="basic-navbar-nav" />
                             <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
                                 
@@ -116,7 +134,7 @@ const Navigation = () => {
         
                                 </NavDropdown>
                             </Nav>
-                        </Navbar.Collapse>
+                        </Navbar.Collapse> */}
                 </Container>
             </Navbar>
         </div>

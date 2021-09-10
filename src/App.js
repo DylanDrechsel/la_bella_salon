@@ -3,7 +3,7 @@ import { useRecoilState } from 'recoil';
 import { websiteState } from './Recoil/atoms';
 import { Route } from 'react-router-dom'
 import LandingPage from './LandingPage/LandingPage'
-import Navigation from './Global/NavDropdown';
+import Navigation from './Global/Navigation';
 import Home from './Home/Home'
 import About from './About/About'
 import SalonEtiquette from './SalonEtiquette/SalonEtiquette';

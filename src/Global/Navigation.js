@@ -2,6 +2,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import './global.css'
 import { Link } from 'react-router-dom'
 import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button, Dropdown } from 'react-bootstrap'
+import MenuImage from'./DropdownButton'
 // import pic from '../Assets/transparent-la-bella-logo .png'
 
 const Navigation = () => {
@@ -66,6 +67,8 @@ const Navigation = () => {
                             La Bella's Salon & Spa
                         </Link>
                     </Navbar.Brand>
+
+                    <MenuImage />
 
                     {/* <Dropdown>
                         <Dropdown.Toggle as={CustomToggle} id="dropdown-custom-components">

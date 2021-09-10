@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import MenuImage from '../Assets/transparent_white_menu_button.jpg'
+import MenuImage from '../Assets/transparent_black_menu_button.png'
 
 const DropdownButton = () => {
     return (
-        <div>
-           <img src={MenuImage} height='500' width='500' /> 
+        <div className='MenuImageDiv'>
+           <img src={MenuImage} height='40' width='40' /> 
         </div>
     );
 };

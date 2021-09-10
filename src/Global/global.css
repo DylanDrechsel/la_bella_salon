@@ -25,6 +25,18 @@ html:not([data-scroll='0']) .NavbarToggle {
     display: none;
 }
 
+html:not([data-scroll='0']) .MenuImageDiv {
+    height: .01px;
+    position: relative;
+    top: -3vh;
+}
+
+.MenuImageDiv {
+    height: .01px;
+    position: relative;
+    top: -1vh;
+}
+
 /* .NavbarToggle {
     display: none;
 } */

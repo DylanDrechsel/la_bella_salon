@@ -17,18 +17,18 @@ html:not([data-scroll='0']) .NavbarToggle {
     bottom: .5vh;
 }
 
+html:not([data-scroll='0']) .MenuImageDiv {
+    height: .01px;
+    position: relative;
+    top: -3vh;
+}
+
 .Navbar {
     background-color: #b78d2a00;
 }
 
 .NavbarTitle {
     display: none;
-}
-
-html:not([data-scroll='0']) .MenuImageDiv {
-    height: .01px;
-    position: relative;
-    top: -3vh;
 }
 
 .MenuImageDiv {

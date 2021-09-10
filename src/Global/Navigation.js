@@ -23,6 +23,12 @@ const Navigation = () => {
         }
     }, [])
 
+    const [showMenu, setShowMenu] = useState(false)
+
+    const handleMenuShow = () => {
+        console.log('hit')
+    }
+
     /* const [dropdown, setDropdown] = useState({
         showDropdown: false
     })
@@ -68,7 +74,9 @@ const Navigation = () => {
                         </Link>
                     </Navbar.Brand>
 
-                    <MenuImage />
+                    <MenuImage handleMenuShow={handleMenuShow}/>
+
+                    {showMenu ? <h1 style={{ color: 'white' }}>MENU IS SHOWING</h1> : null}
 
                     {/* <Dropdown>
                         <Dropdown.Toggle as={CustomToggle} id="dropdown-custom-components">

@@ -7,8 +7,8 @@
         background-size: cover;
     }
     .SpaSlideOneTitle {
-        position: relative;
-        top: 27.5vh;
+        /* position: relative; */
+        padding-top: 27.5vh;
         text-align: center;
         font-family: 'Cookie', cursive;
         color: #0B090B;
@@ -17,5 +17,19 @@
     .SpaSlideTwoDiv {
         height: 25vh;
         background-color: #0B090B;
+    }
+    .SpaSildeTwoTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        padding-top: 4.5vh;
+        font-size: 72px;
+    }
+    .SpaSlideTwoText {
+        font-family: 'Raleway', sans-serif;
+        color: #F5F5F5;
+        text-align: center;
+        /* padding-top: 2.5vh; */
+        font-size: 24px;
     }
 }

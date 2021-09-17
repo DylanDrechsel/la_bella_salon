@@ -1,11 +1,15 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import './Spa.css'
+import SlideOne from './SlideOne/SlideOne';
 
 const Spa = () => {
-    document.documentElement.dataset.scroll = 6;
+    useEffect(() => {
+            document.documentElement.dataset.scroll = 1;
+    }, [])
 
     return (
         <div className='SpaDiv'>
-            
+            <SlideOne />
         </div>
     );
 };

@@ -7,8 +7,6 @@ const SlideOne = () => {
     return (
         <div className='SlideOneDiv'>
             <LaBellaLogo />
-            {/* <Upper /> */}
-            {/* <Bottom /> */}
         </div>
     );
 };

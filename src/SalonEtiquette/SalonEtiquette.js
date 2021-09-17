@@ -9,9 +9,9 @@ import GiftCertificates from './Components/GiftCertificates';
 
 const SalonEtiquette = () => {
     useEffect(() => {
-        setTimeout(() => {
-            document.documentElement.dataset.scroll = 10;
-        }, 250)
+        // setTimeout(() => {
+            document.documentElement.dataset.scroll = 1;
+        // }, 250)
     }, [])
     
     return (

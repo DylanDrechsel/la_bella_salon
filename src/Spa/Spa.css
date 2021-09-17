@@ -1,0 +1,17 @@
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) {
+    .SpaSlideOneDiv {
+        /* background-color: black; */
+        height: 75vh;
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/stock-photo-spa-treatment-process.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .SpaSlideOneTitle {
+        position: relative;
+        top: 27.5vh;
+        text-align: center;
+        font-family: 'Cookie', cursive;
+        color: #0B090B;
+        font-size: 96px;
+    }
+}

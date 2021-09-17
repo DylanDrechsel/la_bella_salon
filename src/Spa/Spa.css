@@ -32,4 +32,14 @@
         /* padding-top: 2.5vh; */
         font-size: 24px;
     }
+    .SpaSlideThreeDiv {
+        height: 61.2vh;
+        background-image: url(../Assets/spa_room_la_bella.jpg);
+        background-position-y: center;
+        background-size: contain;
+    }
+    /* .SpaRoomImage {
+        height: 65vh;
+        width: auto;
+    } */
 }

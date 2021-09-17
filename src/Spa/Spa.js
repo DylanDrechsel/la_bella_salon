@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import './Spa.css'
 import SlideOne from './SlideOne/SlideOne';
+import SlideTwo from './SlideTwo/SlideTwo';
 
 const Spa = () => {
     document.addEventListener("scroll", () => {
@@ -14,6 +15,7 @@ const Spa = () => {
     return (
         <div className='SpaDiv'>
             <SlideOne />
+            <SlideTwo />
         </div>
     );
 };

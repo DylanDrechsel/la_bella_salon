@@ -3,9 +3,13 @@ import './Spa.css'
 import SlideOne from './SlideOne/SlideOne';
 
 const Spa = () => {
-    useEffect(() => {
-            document.documentElement.dataset.scroll = 1;
-    }, [])
+    document.addEventListener("scroll", () => {
+        if (window.scrollY > 0) {
+            document.documentElement.dataset.scroll = window.scrollY;
+        } else {
+            document.documentElement.dataset.scroll = 0;
+        }
+      });
 
     return (
         <div className='SpaDiv'>

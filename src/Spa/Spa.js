@@ -4,6 +4,7 @@ import SlideOne from './SlideOne/SlideOne';
 import SlideTwo from './SlideTwo/SlideTwo';
 import SlideThree from './SlideThree/SlideThree';
 import SlideFour from './SlideFour/SlideFour';
+import SlideFive from './SlideFive/SlideFive';
 
 const Spa = () => {
     document.addEventListener("scroll", () => {
@@ -20,6 +21,7 @@ const Spa = () => {
             <SlideTwo />
             <SlideThree />
             <SlideFour />
+            <SlideFive />
         </div>
     );
 };

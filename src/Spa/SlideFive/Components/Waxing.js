@@ -8,13 +8,13 @@ const Waxing = () => {
             
             <div className='WaxingPrices'>
                 <Row>
-                    <Col>
+                    <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
                             <b> Eye </b>
                         </p>
                     </Col>
 
-                    <Col>
+                    <Col className='WaxingCol'>
                         <p className='WaxingTextRight'>
                             <b> $16 </b>
                         </p>
@@ -22,19 +22,46 @@ const Waxing = () => {
                 </Row>
 
                 <Row>
-                    <Col>
+                    <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
                             <b> Lip or Chin </b>
                         </p>
                     </Col>
 
-                    <Col>
+                    <Col className='WaxingCol'>
                         <p className='WaxingTextRight'>
                             <b> $14 </b>
                         </p>
                     </Col>
                 </Row>
 
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextLeft'>
+                            <b> Face </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $35 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextLeft'>
+                            <b> Bikini </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $30 </b>
+                        </p>
+                    </Col>
+                </Row>
             </div>
 
         </div>

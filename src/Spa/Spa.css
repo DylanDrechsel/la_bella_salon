@@ -53,6 +53,7 @@
         background-color: #0B090B;
         height: 100vh;
         width:  100vw;
+        padding-top: 1vh;
     }
     .SpaServiceDiv {
         /* margin-top: 10vh; */
@@ -61,14 +62,14 @@
         /* Testing with BackgroundColor Change */
         background-color: #221f22;
         
-        height: 99vh;
+        height: 98vh;
         width:  97vw;
         border: 1px #B78C2A solid;
     }
     .WaxingCol {
         line-height: 10px !important;
     }
-    .WaxingTitle {
+    .SpaServiceTitle {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -81,7 +82,7 @@
         font-family: 'Raleway', sans-serif;
         text-align: left;
         font-size: 20px;
-        padding-left: 9.2vw;
+        padding-left: 3vw;
         position: relative;
         bottom: 1vh;
         margin-bottom: 0;
@@ -91,8 +92,51 @@
         font-family: 'Raleway', sans-serif;
         text-align:right;
         font-size: 20px;
-        padding-right: 9.2vw;
+        padding-right: 3vw;
         position: relative;
         bottom: 1vh;
+    }
+
+    .WaxingTextMiddle {
+        position: relative;
+        bottom: 2vh;
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align:right;
+        font-size: 20px;  
+    }
+
+    .SpaServicesTextLeft {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align: left;
+        font-size: 20px;
+        padding-left: 3vw;
+        position: relative;
+        bottom: 1vh;
+        margin-bottom: 0;
+    }
+
+    .SpaServicesTextRight {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align:right;
+        font-size: 20px;
+        padding-right: 3vw;
+        position: relative;
+        bottom: 1vh;
+    }
+
+    .SpaServicesTextMiddle {
+        position: relative;
+        bottom: 1vh;
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align:right;
+        font-size: 20px; 
+    }
+
+    .SpaServicesCol {
+        line-height: 10px !important;
     }
 }

@@ -4,9 +4,9 @@ import { Row, Col } from 'react-bootstrap'
 const Waxing = () => {
     return (
         <div className='WaxingDiv'>
-            <h1 className='WaxingTitle'> <b> ~Waxing~ from...</b> </h1>
+            <h1 className='SpaServiceTitle'> <b> ~Waxing~ from...</b> </h1>
             
-            <div className='WaxingPrices'>
+            <div className='Prices'>
                 <Row>
                     <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>

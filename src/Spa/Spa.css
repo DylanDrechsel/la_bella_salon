@@ -49,4 +49,47 @@
         padding-top: 4.5vh;
         font-size: 72px;
     }
+    .SpaSlideFiveDiv {
+        background-color: #0B090B;
+        height: 100vh;
+        width:  100vw;
+    }
+    .SpaServiceDiv {
+        /* margin-top: 10vh; */
+        margin-left: 1.5vw;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: 99vh;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .WaxingTitle {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 60px;
+        text-decoration: underline;
+    }
+    .WaxingTextLeft {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align: left;
+        font-size: 20px;
+        padding-left: 9.2vw;
+        position: relative;
+        bottom: 2vh;
+        margin-bottom: 0;
+    }
+    .WaxingTextRight {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align:right;
+        font-size: 20px;
+        padding-right: 9.2vw;
+        position: relative;
+        bottom: 2vh;
+    }
 }

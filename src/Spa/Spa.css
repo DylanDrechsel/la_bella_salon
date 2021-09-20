@@ -65,6 +65,9 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
+    .WaxingCol {
+        line-height: 10px !important;
+    }
     .WaxingTitle {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -80,7 +83,7 @@
         font-size: 20px;
         padding-left: 9.2vw;
         position: relative;
-        bottom: 2vh;
+        bottom: 1vh;
         margin-bottom: 0;
     }
     .WaxingTextRight {
@@ -90,6 +93,6 @@
         font-size: 20px;
         padding-right: 9.2vw;
         position: relative;
-        bottom: 2vh;
+        bottom: 1vh;
     }
 }

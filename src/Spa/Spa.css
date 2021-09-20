@@ -38,8 +38,15 @@
         background-position-y: center;
         background-size: contain;
     }
-    /* .SpaRoomImage {
-        height: 65vh;
-        width: auto;
-    } */
+    .SpaSlideFourDiv {
+        height: 20vh;
+        background-color: #0B090B;
+    }
+    .SpaSildeFourTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        padding-top: 4.5vh;
+        font-size: 72px;
+    }
 }

@@ -136,6 +136,15 @@
         font-size: 20px; 
     }
 
+    .SpaServiceSubTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        font-size: 24px; 
+        text-align: center;
+        position: relative;
+        bottom: 1.5vh
+    }
+
     .SpaServicesCol {
         line-height: 10px !important;
     }

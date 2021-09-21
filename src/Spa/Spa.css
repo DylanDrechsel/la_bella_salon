@@ -96,7 +96,6 @@
         position: relative;
         bottom: 1vh;
     }
-
     .WaxingTextMiddle {
         position: relative;
         bottom: 2vh;
@@ -105,7 +104,6 @@
         text-align:right;
         font-size: 20px;  
     }
-
     .SpaServicesTextLeft {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
@@ -116,7 +114,6 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-
     .SpaServicesTextRight {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
@@ -126,7 +123,6 @@
         position: relative;
         bottom: 1vh;
     }
-
     .SpaServicesTextMiddle {
         position: relative;
         bottom: 1vh;
@@ -135,7 +131,6 @@
         text-align:right;
         font-size: 20px; 
     }
-
     .SpaServiceSubTitle {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
@@ -144,8 +139,18 @@
         position: relative;
         bottom: 1.5vh
     }
-
     .SpaServicesCol {
         line-height: 10px !important;
+    }
+    .SpaSlideSixDiv {
+        height: 20vh;
+        background-color: #0B090B;
+    }
+    .SpaSildeSixTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        padding-top: 4.5vh;
+        font-size: 72px;
     }
 }

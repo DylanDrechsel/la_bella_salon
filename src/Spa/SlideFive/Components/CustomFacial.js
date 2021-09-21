@@ -37,7 +37,7 @@ const CustomFacial = () => {
                     </Col>
 
                     <Col className='SpaServicesCol'>
-                        <p className='SpaServicesTextMiddle' style={{ paddingRight: '35.5px'}}>
+                        <p className='SpaServicesTextMiddle' style={{ paddingRight: '35.5px' }}>
                             <b> 45 Min. </b>
                         </p>
                     </Col>

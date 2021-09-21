@@ -51,7 +51,7 @@
     }
     .SpaSlideFiveDiv {
         background-color: #0B090B;
-        height: 100vh;
+        height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
@@ -62,7 +62,7 @@
         /* Testing with BackgroundColor Change */
         background-color: #221f22;
         
-        height: 98vh;
+        height: auto;
         width:  97vw;
         border: 1px #B78C2A solid;
     }

@@ -153,4 +153,40 @@
         padding-top: 4.5vh;
         font-size: 72px;
     }
+    .SpaSlideSevenDiv {
+        height: auto;
+        background-color: #0B090B;
+    }
+    .UltimateSpaFacialDiv {
+       /* margin-top: 10vh; */
+       margin-left: 1.5vw;
+
+       /* Testing with BackgroundColor Change */
+       background-color: #221f22;
+       
+       height: auto;
+       width:  97vw;
+       border: 1px #B78C2A solid; 
+    }
+    .SpaSildeSevenTitle {
+        /* font-family: 'Raleway', sans-serif; */
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 48px;
+        text-decoration: underline;
+    }
+    .SpaSildeSevenText {
+        font-family: 'Raleway', sans-serif;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        font-size: 24px;
+    }
+    .SpaSildeSevenInfoText {
+        font-family: 'Raleway', sans-serif;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        font-size: 20px;
+    }
 }

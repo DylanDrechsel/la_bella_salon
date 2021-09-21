@@ -3,6 +3,7 @@ import Waxing from './Components/Waxing';
 import SkinCare from './Components/SkinCare';
 import CustomFacial from './Components/CustomFacial';
 import FacialTreatments from './Components/FacialTreatments';
+import EnhanceYourExperience from './Components/EnhanceYourExperience';
 
 const SlideFive = () => {
     return (
@@ -12,6 +13,7 @@ const SlideFive = () => {
                 <SkinCare />
                 <CustomFacial />
                 <FacialTreatments />
+                <EnhanceYourExperience />
             </div>
         </div>
     );

@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import './Spa.css'
 import SlideOne from './SlideOne/SlideOne';
 import SlideTwo from './SlideTwo/SlideTwo';
@@ -7,6 +7,7 @@ import SlideFour from './SlideFour/SlideFour';
 import SlideFive from './SlideFive/SlideFive';
 import SlideSix from './SlideSix/SlideSix';
 import SlideSeven from './SlideSeven/SlideSeven';
+import SlideEight from './SlideEight/SlideEight';
 
 const Spa = () => {
     document.addEventListener("scroll", () => {
@@ -26,6 +27,7 @@ const Spa = () => {
             <SlideFive />
             <SlideSix />
             <SlideSeven />
+            <SlideEight />
         </div>
     );
 };

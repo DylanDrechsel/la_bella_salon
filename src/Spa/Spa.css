@@ -153,4 +153,15 @@
         padding-top: 4.5vh;
         font-size: 72px;
     }
+    .SpaSlideSevenDiv {
+        height: 20vh;
+        background-color: #0B090B;
+    }
+    .SpaSildeSevenTitle {
+        font-family: 'Raleway', sans-serif;
+        color: #F5F5F5;
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 36px;
+    }
 }

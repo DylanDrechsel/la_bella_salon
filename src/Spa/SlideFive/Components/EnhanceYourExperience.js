@@ -4,7 +4,7 @@ import { Row, Col } from 'react-bootstrap'
 const EnhanceYourExperience = () => {
     return (
         <div className='CustomFacialDiv'>
-            <h1 className='SpaServiceTitle' style={{ fontSize: '36px'}}> <b> ~Enhance Your Experience~ from...</b> </h1>
+            <h1 className='SpaServiceTitleEnhance'> <b> ~Enhance Your Experience~ from...</b> </h1>
 
             <div className='Prices'>
                 <Row>

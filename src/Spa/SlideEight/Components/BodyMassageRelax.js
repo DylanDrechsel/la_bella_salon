@@ -8,7 +8,7 @@ const BodyMassageRelax = () => {
 
             <div className='Prices' style={{ paddingTop: '5px'}}>
                 <Row>
-                    <Col className='SpaServicesCol' xs={5}>
+                    <Col className='SpaServicesCol' xs={4}>
                         <p className='SpaServicesTextLeft'>
                             <b> Chair Massage </b>
                         </p>
@@ -28,7 +28,7 @@ const BodyMassageRelax = () => {
                 </Row> 
             
                 <Row>
-                    <Col className='SpaServicesCol' xs={5}>
+                    <Col className='SpaServicesCol' xs={4}>
                         <p className='SpaServicesTextLeft' style={{ fontSize: '14px'}}>
                             <b> Back Neck Shoulder </b>
                         </p>

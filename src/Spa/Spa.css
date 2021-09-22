@@ -1,4 +1,4 @@
-@media only screen and (min-device-width: 414px) and (max-device-height: 896px) {
+@media only screen and (width: 414px) and (height: 896px) {
     .SpaSlideOneDiv {
         /* background-color: black; */
         height: 75vh;
@@ -191,7 +191,7 @@
     }
 }
 
-@media only screen and (min-device-width: 375px) and (max-device-height: 812px) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
     .SpaSlideOneDiv {
         /* background-color: black; */
         height: 75vh;

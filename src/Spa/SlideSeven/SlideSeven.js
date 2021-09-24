@@ -14,7 +14,7 @@ const SlideSeven = () => {
                     </Col>
 
                     <Col xs={3}>
-                        <p className='SpaSildeSevenInfoText' /* style={{ paddingLeft: '150px'}} */> <b> $125 </b> </p>
+                        <p className='SpaSildeSevenInfoText'> <b> $125 </b> </p>
                     </Col>
                 </Row>
 

@@ -485,4 +485,18 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
+    .SpaServiceTitleSwedishMassage {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 46px;
+        text-decoration: underline;
+    }
+    .SpaSildeSevenTextSwedishMassage {
+        font-family: 'Raleway', sans-serif;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        font-size: 18px;
+    }
 }

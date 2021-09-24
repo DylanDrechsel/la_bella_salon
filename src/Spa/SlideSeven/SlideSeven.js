@@ -9,12 +9,12 @@ const SlideSeven = () => {
                 <p className='SpaSildeSevenText'> <b> Relax & Enjoy A Custom Facial with A Back ~~ Neck ~~ Shoulder Rub  </b> </p>
 
                 <Row>
-                    <Col xs={5}>
+                    <Col xs={7}>
                         <p className='SpaSildeSevenInfoText'> <b> ~1 Hr. 15 Min.~ </b> </p>
                     </Col>
 
-                    <Col xs={7}>
-                        <p className='SpaSildeSevenInfoText' style={{ paddingLeft: '150px'}}> <b> $125 </b> </p>
+                    <Col xs={3}>
+                        <p className='SpaSildeSevenInfoText' /* style={{ paddingLeft: '150px'}} */> <b> $125 </b> </p>
                     </Col>
                 </Row>
 

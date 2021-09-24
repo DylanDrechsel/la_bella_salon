@@ -4,37 +4,37 @@ import { Row, Col } from 'react-bootstrap'
 const BodyMassageRelax = () => {
     return (
         <div className='MassageDiv'>
-            <h1 className='SpaServiceTitle' style={{ fontSize: '52px'}}> <b> ~Body~Massage~Relax~</b> </h1>
+            <h1 className='SpaServiceTitleBodyMassage'> <b> ~Body~Massage~Relax~</b> </h1>
 
             <div className='Prices' style={{ paddingTop: '5px'}}>
                 <Row>
-                    <Col className='SpaServicesCol' xs={4}>
-                        <p className='SpaServicesTextLeft'>
+                    <Col className='SpaServicesCol' xs={5}>
+                        <p className='SpaServicesTextLeftBodyMassage'>
                             <b> Chair Massage </b>
                         </p>
                     </Col>
 
-                    <Col className='SpaServicesCol'>
-                        <p className='SpaServicesTextMiddle' style={{ paddingRight: '35.5px' }}>
+                    <Col className='SpaServicesCol' xs={3}>
+                        <p className='SpaServicesTextMiddleBodyMassage' /* style={{ paddingRight: '35.5px' }} */>
                             <b> 15 Min. </b>
                         </p>
                     </Col>
 
-                    <Col xs={3} className='SpaServicesCol'>
-                        <p className='SpaServicesTextRight'>
+                    <Col xs={4} className='SpaServicesCol'>
+                        <p className='SpaServicesTextRightBodyMassage'>
                             <b> $20 </b>
                         </p>
                     </Col>
                 </Row> 
             
                 <Row>
-                    <Col className='SpaServicesCol' xs={4}>
-                        <p className='SpaServicesTextLeft' style={{ fontSize: '14px'}}>
+                    <Col className='SpaServicesCol' xs={5}>
+                        <p className='SpaServicesTextLeftBodyMassage' >
                             <b> Back Neck Shoulder </b>
                         </p>
                     </Col>
 
-                    <Col className='SpaServicesCol'>
+                    <Col className='SpaServicesCol' xs={4}>
                         <p className='SpaServicesTextMiddle' style={{ paddingRight: '35.5px' }}>
                             <b> 1/2 Hr. </b>
                         </p>

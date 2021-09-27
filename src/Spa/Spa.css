@@ -498,6 +498,8 @@
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 18px;
+        margin-left: 1vw;
+        margin-right: 1vw;
     }
     .SpaServiceTitleDeepTissue {
         font-family: 'Cookie', cursive;

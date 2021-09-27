@@ -34,4 +34,12 @@
     .ContactButtonText {
         padding-top: .8vh;
     }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-left: 25.5vw;
+    }
+    .TeamButtonText {
+        padding-top: 1vh;
+        font-size: 18px;
+    }
 }

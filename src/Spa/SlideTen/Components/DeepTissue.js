@@ -1,11 +1,11 @@
 import React from 'react';
-import { Row, Col } from 'react-bootstrap'
+import { Col, Row } from 'react-bootstrap';
 
-const Swedish = () => {
+const DeepTissue = () => {
     return (
         <div>
-            <h1 className='SpaServiceTitleSwedishMassage'> <b> ~Swedish~Massage~ </b> </h1>
-            <p className='SpaSildeSevenTextSwedishMassage'> <b> Swedish Massage Is A Light To Medium Pressure, A Gentle Touch To Relax!   </b> </p>
+            <h1 className='SpaServiceTitleDeepTissue'> <b> ~Deep~Tissue~ </b> </h1>
+            <p className='SpaSildeSevenTextSwedishMassage'> <b> Deep Tissue Massage Reduces Stress And Anxiety To Reduce Muscle Aches! </b> </p>
 
                 <div className='Prices' style={{ paddingTop: '5px'}}>
                     <Row>
@@ -17,7 +17,7 @@ const Swedish = () => {
 
                         <Col xs={3} className='SpaServicesCol'>
                             <p className='SpaServicesTextRight'>
-                                <b> $75 </b>
+                                <b> $85 </b>
                             </p>
                         </Col>
                     </Row> 
@@ -31,7 +31,7 @@ const Swedish = () => {
 
                         <Col xs={3} className='SpaServicesCol'>
                             <p className='SpaServicesTextRight'>
-                                <b> $95 </b>
+                                <b> $100 </b>
                             </p>
                         </Col>
                     </Row> 
@@ -40,4 +40,4 @@ const Swedish = () => {
     );
 };
 
-export default Swedish;
+export default DeepTissue;

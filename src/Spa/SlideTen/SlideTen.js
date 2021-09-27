@@ -1,14 +1,14 @@
 import React from 'react';
-import Swedish from './Components/Swedish';
+import DeepTissue from './Components/DeepTissue';
 
-const SlideNine = () => {
+const SlideTen = () => {
     return (
         <div className='SpaSlideSevenDiv' style={{ paddingTop: '10px'}}>
             <div className="SpaServiceDiv">
-                <Swedish />
+                <DeepTissue />
             </div>
         </div>
     );
 };
 
-export default SlideNine;
+export default SlideTen;

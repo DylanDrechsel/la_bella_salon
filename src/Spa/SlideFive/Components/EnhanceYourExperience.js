@@ -9,7 +9,7 @@ const EnhanceYourExperience = () => {
             <div className='Prices'>
                 <Row>
                     <Col className='SpaServicesCol'>
-                        <p className='SpaServicesTextLeft' style={{ fontSize: '20px'}}>
+                        <p className='SpaServicesTextLeft' >
                             <b> Eye or Lip Collagen </b>
                         </p>
                     </Col>

@@ -12,6 +12,7 @@ import SlideNine from './SlideNine/SlideNine';
 import SlideTen from './SlideTen/SlideTen';
 import SlideEleven from './SlideEleven/SlideEleven';
 import SlideTwelve from './SlideTwelve/SlideTwelve';
+import SlideThirteen from './SlideThirteen/SlideThirteen';
 
 const Spa = () => {
     document.addEventListener("scroll", () => {
@@ -36,6 +37,7 @@ const Spa = () => {
             <SlideTen />
             <SlideEleven />
             <SlideTwelve />
+            <SlideThirteen />
         </div>
     );
 };

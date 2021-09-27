@@ -26,6 +26,12 @@
     }
     .ContactButtonDiv {
         padding-top: 5vh;
-        padding-left: 31vw;
+        padding-left: 27.5vw;
+    }
+    .ContactButton {
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: .8vh;
     }
 }

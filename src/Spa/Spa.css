@@ -512,7 +512,7 @@
         text-decoration: underline;
     }
     .FooterThreeDiv {
-        height: 100vh;
+        height: 95vh;
         background-color: #0B090B;
     }
     .FooterThreeHours {
@@ -520,5 +520,15 @@
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
+        padding-bottom: 2vh;
+    }
+    .HoursText {
+        color: #F5F5F5;
+        font-family: 'Raleway', sans-serif;
+        padding-left: 22.5vw;
+    }
+    .LocationPin {
+        height: 5vh;
+        padding-left: 15vw;;
     }
 }

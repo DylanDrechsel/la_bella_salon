@@ -1,5 +1,6 @@
 import React from 'react';
 import LocationPin from '../../Assets/location_pin.png'
+import { Row, Col } from 'react-bootstrap'
 
 const SlideThree = () => {
     return (
@@ -17,7 +18,16 @@ const SlideThree = () => {
 
             <div className='VisitUsDiv'>
                 <h1 className='FooterThreeHours'> <b> Visit Us </b> </h1>
-                <img className='LocationPin' src={LocationPin}/>
+
+                <Row style={{ paddingLeft: '25vw'}}>
+                    <Col xs={2}>
+                        <img className='LocationPin' src={LocationPin}/>
+                    </Col>
+
+                    <Col xs={7}>
+                        <p className='VisitUsText'> 1237 US-22, Lebanon, NJ 08833 </p>
+                    </Col>
+                </Row>
             </div>
         </div>
     );

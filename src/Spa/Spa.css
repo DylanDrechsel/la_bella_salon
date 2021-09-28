@@ -529,6 +529,13 @@
     }
     .LocationPin {
         height: 5vh;
-        padding-left: 15vw;;
+        /* padding-top: 1vh; */
+        /* padding-left: 15vw !important; */
+    }
+    .VisitUsText {
+        color: #F5F5F5;
+        font-family: 'Raleway', sans-serif;
+        position: relative;
+        bottom: .5vh;
     }
 }

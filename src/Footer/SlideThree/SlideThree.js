@@ -50,6 +50,10 @@ const SlideThree = () => {
                         <p className='PhoneText'> 908-236-0866 </p>
                     </Col>
                 </Row>
+
+                <div className='FallowUsDiv'>
+                <h1 className='FooterThreeHours'> <b> Follow Us </b> </h1>
+                </div>
             </div>
         </div>
     );

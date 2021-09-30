@@ -532,6 +532,11 @@
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
+    .EmailIcon {
+        height: 3vh;
+        position: relative;
+        right: 1.5vw;
+    }
     .VisitUsText {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;

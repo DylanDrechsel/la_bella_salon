@@ -17,7 +17,7 @@
 }
 
 /* IphoneXR */
-@media only screen and (min-device-width: 414px) and (max-device-height: 896px) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
     .SlideOneDiv {
         /* background-color: black; */
         height: 100vh;
@@ -25,18 +25,9 @@
         background-position-y: center;
         background-size: cover;
     }
-    /* .UpperDiv {
-        margin-top: 6.3vh;
-        background-color: #F5F5F5;
-        height: 22.5vh;
-    }
-    .BottomDiv {
-        background-color: #0B090B;
-        height: 71.2vh;
-    } */
     .LaBellaLogo {
         position: relative;
-        right: 20.5vw;
+        /* right: 15vw; */
         bottom: -10vh;
     }
     .SlideTwoDiv {
@@ -47,8 +38,8 @@
         color: #F5F5F5;
         font-family: 'Cookie', cursive;
         text-align: center;
-        font-size: 60px;
+        font-size: 58px;
         position: relative;
-        top: 6vh;
+        top: 1vh;
     }
 }

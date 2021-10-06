@@ -35,6 +35,7 @@ const Navigation = () => {
         setShow(!show)
     }
 
+
     /* const [dropdown, setDropdown] = useState({
         showDropdown: false
     })
@@ -80,7 +81,7 @@ const Navigation = () => {
                         </Link>
                     </Navbar.Brand>
 
-                    <MenuImage handleMenuShow={handleMenuShow}/>
+                    <MenuImage handleMenuShow={handleMenuShow} />
                     <MenuModal handleShow={handleShow} show={show} handleClose={handleClose}/>
 
                     {/* {showMenu ? <MenuModal /> : null} */}

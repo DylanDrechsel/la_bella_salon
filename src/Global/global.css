@@ -34,7 +34,7 @@ html:not([data-scroll='0']) .MenuImageDiv {
 .MenuImageDiv {
     height: .01px;
     position: relative;
-    top: -1vh;
+    top: -3.20vh !important;
 }
 
 .Modal {

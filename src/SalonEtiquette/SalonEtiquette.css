@@ -102,11 +102,11 @@
 }
 
 /* IphoneXR */
-@media only screen and (min-device-width: 414px) and (max-device-height: 896px)  {
+@media only screen and (min-device-width: 375px) and (max-device-width: 414px) and (min-device-height: 812px) and (max-device-height: 896px)  {
     .EtiquetteMainDiv {
         background-color: #0B090B;
-        height: 100vh;
-        width:  100vw;
+        height: auto;
+        width:  auto;
     }
     .SalonEtiquetteDiv {
         margin-top: 10vh;
@@ -115,7 +115,7 @@
         /* Testing with BackgroundColor Change */
         background-color: #221f22;
         
-        height: 80vh;
+        height: auto;
         width:  97vw;
         border: 1px #B78C2A solid;
     }

@@ -7,7 +7,6 @@ const DropdownButton = ({ handleMenuShow }) => {
 
     document.addEventListener("scroll", () => {
         yPosition = window.scrollY
-        console.log(yPosition)
       });
     // useEffect(() => {
     //     const scrollY = window.scrollY
@@ -16,7 +15,7 @@ const DropdownButton = ({ handleMenuShow }) => {
 
 
     return (
-        <div className={yPosition > 50 ? 'MenuImageDiv' : null } onClick={handleMenuShow}>
+        <div /* className={yPosition > 50 ? 'MenuImageDiv' : null } */ className='MenuImageDiv' onClick={handleMenuShow}>
            <img src={MenuImage} height='40' width='40' /> 
         </div>
     );

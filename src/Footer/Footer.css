@@ -42,4 +42,14 @@
         padding-top: 1vh;
         font-size: 18px;
     }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    }
 }

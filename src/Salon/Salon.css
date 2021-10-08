@@ -17,4 +17,40 @@
         color: #0B090B;
         font-size: 96px;
     }
+    .DescriptionSlide {
+        height: 65vh;
+        background-color: #F5F5F5
+    }
+    .DescriptionText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 7.5vh;
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
+    .DescriptionSubText {
+        color: #0B090B;
+        /* text-align: center; */
+        padding-top: 35vh;
+        margin-left: 5vw;
+        margin-right: 5vw;
+        font-size: 18px;
+    }
+    .ulist {
+        display: table;
+        margin: 0 auto;
+    }
+    /* ul {
+        list-style-image: url(../Assets/phone_icon.png);
+        height: 5vh !important;
+        width: 5vw !important;
+      } */
+    /* ul li::before {
+        content: "\2022";
+        color: red;
+        font-weight: bold;
+        display: inline-block; 
+        width: 1em;
+        margin-left: -1em;
+      } */
 }

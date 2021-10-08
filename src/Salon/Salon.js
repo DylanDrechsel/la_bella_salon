@@ -1,6 +1,7 @@
 import React from 'react';
 import './Salon.css'
 import LandingSlide from './Components/LandingSlide';
+import DescriptionSlide from './Components/DescriptionSlide';
 
 const Salon = () => {
     document.addEventListener("scroll", () => {
@@ -14,6 +15,7 @@ const Salon = () => {
     return (
         <div className='SalonDiv'>
             <LandingSlide />
+            <DescriptionSlide />
         </div>
     );
 };

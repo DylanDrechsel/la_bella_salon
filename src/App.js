@@ -8,6 +8,7 @@ import Home from './Home/Home'
 import About from './About/About'
 import SalonEtiquette from './SalonEtiquette/SalonEtiquette';
 import Spa from './Spa/Spa';
+import Salon from './Salon/Salon';
 
 function App() {
   const [website, setWebite] = useRecoilState(websiteState)
@@ -30,6 +31,8 @@ function App() {
         <Route path='/salon-etiquette' exact component={SalonEtiquette} />
 
         <Route path='/spa' exact component={Spa} />
+
+        <Route path='/salon' exact component={Salon} />
       </div>
     )
   }

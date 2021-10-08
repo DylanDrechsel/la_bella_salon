@@ -2,6 +2,8 @@ import React from 'react';
 import LocationPin from '../../Assets/location_pin.png'
 import EmailIcon from '../../Assets/email_icon.png'
 import PhoneIcon from '../../Assets/phone_icon.png'
+import InstagramLogo from '../../Assets/instagram-transparent-logo-white.png'
+import FacebookLogo from '../../Assets/facebook_logo-transparent.png'
 import { Row, Col } from 'react-bootstrap'
 
 const SlideThree = () => {
@@ -53,6 +55,20 @@ const SlideThree = () => {
 
                 <div className='FallowUsDiv'>
                     <h1 className='FooterThreeHours'> <b> Follow Us </b> </h1>
+
+                    <Row style={{ paddingLeft: '22vw'}}>
+                        <Col xs={2}>
+                            <a href=''>
+                                <img className='InstagramIcon' src={InstagramLogo}/>
+                            </a>
+                        </Col>
+
+                        <Col xs={9}>
+                            <a href=''>
+                                <img className='FacebookIcon' src={FacebookLogo}/>
+                            </a>
+                        </Col>
+                    </Row>
                 </div>
             </div>
         </div>

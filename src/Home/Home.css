@@ -1,5 +1,5 @@
 /* IphoneX */
-@media only screen and (min-device-width: 375px) and (max-device-height: 812px)  {
+/* @media only screen and (min-device-width: 375px) and (max-device-height: 812px)  {
     .UpperDiv {
         margin-top: 6.9vh;
         background-color: #F5F5F5;
@@ -14,7 +14,7 @@
         right: 27.5vw;
         bottom: 25vh;
     }
-}
+} */
 
 /* IphoneXR */
 @media only screen and (min-device-width: 375px) and (max-device-width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
@@ -27,7 +27,7 @@
     }
     .LaBellaLogo {
         position: relative;
-        /* right: 15vw; */
+        right: 27.5vw;
         bottom: -10vh;
     }
     .SlideTwoDiv {

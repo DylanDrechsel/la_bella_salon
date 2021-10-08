@@ -18,7 +18,7 @@
         font-size: 96px;
     }
     .DescriptionSlide {
-        height: 65vh;
+        height: 60vh;
         background-color: #F5F5F5
     }
     .DescriptionText {
@@ -39,6 +39,14 @@
     .ulist {
         display: table;
         margin: 0 auto;
+    }
+    .carousel {
+        margin-left: 1vh;
+        margin-right: 1vh;
+        margin-bottom: 1vh;
+    }
+    .carousel-div {
+        background-color: #F5F5F5;
     }
     /* ul {
         list-style-image: url(../Assets/phone_icon.png);

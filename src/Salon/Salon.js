@@ -1,9 +1,11 @@
 import React from 'react';
 import './Salon.css'
+import './../Spa/Spa.css'
 import Footer from '../Footer/Footer';
 import LandingSlide from './Components/LandingSlide';
 import DescriptionSlide from './Components/DescriptionSlide';
 import CarouselSlide from './Components/CarouselSlide';
+import MenuSlide from './Components/MenuSlide';
 
 const Salon = () => {
     document.addEventListener("scroll", () => {
@@ -19,6 +21,7 @@ const Salon = () => {
             <LandingSlide />
             <DescriptionSlide />
             <CarouselSlide />
+            <MenuSlide />
             <Footer />
         </div>
     );

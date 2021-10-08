@@ -52,7 +52,7 @@ const SlideThree = () => {
                 </Row>
 
                 <div className='FallowUsDiv'>
-                <h1 className='FooterThreeHours'> <b> Follow Us </b> </h1>
+                    <h1 className='FooterThreeHours'> <b> Follow Us </b> </h1>
                 </div>
             </div>
         </div>

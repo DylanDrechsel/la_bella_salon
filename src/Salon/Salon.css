@@ -61,7 +61,7 @@
         color: rgb(127, 79, 21);
         text-align: center;
         padding-top: 1vh;
-        font-size: 36px;
+        font-size: 48px;
         text-decoration: underline;
     }
     .color-highlight-text {
@@ -90,6 +90,14 @@
         text-align: center;
         padding-top: 1vh;
         font-size: 32px;
+        text-decoration: underline;
+    }
+    .haircut-title-big {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 48px;
         text-decoration: underline;
     }
     /* ul {

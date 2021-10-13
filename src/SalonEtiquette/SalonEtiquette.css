@@ -107,10 +107,12 @@
         background-color: #0B090B;
         height: auto;
         width:  auto;
+        padding-bottom: 2vh;
     }
     .SalonEtiquetteDiv {
         margin-top: 10vh;
         margin-left: 1.5vw;
+        padding-bottom: 1vh;
 
         /* Testing with BackgroundColor Change */
         background-color: #221f22;

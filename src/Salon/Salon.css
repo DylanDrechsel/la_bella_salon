@@ -48,6 +48,14 @@
     .carousel-div {
         background-color: #F5F5F5;
     }
+    .haircut-title {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 36px;
+        text-decoration: underline;
+    }
     /* ul {
         list-style-image: url(../Assets/phone_icon.png);
         height: 5vh !important;

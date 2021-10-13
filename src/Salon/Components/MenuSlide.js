@@ -371,8 +371,8 @@ const MenuSlide = () => {
                 </Row>
             </div>
 
-            <div className='perms-bodywaves-div'>
-                <h1 className='haircut-title'> <b> ~Manicuress~ from...</b> </h1>
+            <div className='manicures-div'>
+                <h1 className='haircut-title'> <b> ~Manicures~ from...</b> </h1>
 
                 <Row>
                     <Col className='WaxingCol'>
@@ -514,6 +514,67 @@ const MenuSlide = () => {
                     </Col>
                 </Row>
 
+
+            </div>
+
+            <div className='Pedicures-div'>
+                <h1 className='haircut-title'> <b> ~Padicures~ from...</b> </h1>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='color-highlight-text-18'>
+                            <b> Pedicure (Mini) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $32 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='color-highlight-text-18'>
+                            <b> Pedicure (Full) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $42 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text'>
+                            <b> Pedicure Spa (Mask/Booties) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $52 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text'>
+                            <b> Jelli-Pedi (Detox or Hydrate) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $52 </b>
+                        </p>
+                    </Col>
+                </Row>
 
             </div>
 

@@ -56,6 +56,34 @@
         font-size: 36px;
         text-decoration: underline;
     }
+    .color-highlight-title {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 36px;
+        text-decoration: underline;
+    }
+    .color-highlight-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align: left;
+        font-size: 16px;
+        padding-left: 3vw;
+        position: relative;
+        bottom: 1vh;
+        margin-bottom: 0;
+    }
+    .color-highlight-text-18 {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align: left;
+        font-size: 18px;
+        padding-left: 3vw;
+        position: relative;
+        bottom: 1vh;
+        margin-bottom: 0;
+    }
     /* ul {
         list-style-image: url(../Assets/phone_icon.png);
         height: 5vh !important;

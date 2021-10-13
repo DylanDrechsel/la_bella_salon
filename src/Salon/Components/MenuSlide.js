@@ -325,6 +325,53 @@ const MenuSlide = () => {
 
             </div>
 
+            <div className='perms-bodywaves-div'>
+                <h1 className='haircut-title-32'> <b> ~Perms & Body Waves~ from...</b> </h1>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextLeft'>
+                            <b> Partial Perm </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $60 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextLeft'>
+                            <b> Perms/Body </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $85 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextLeft'>
+                            <b> Smoothing/Keratin </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $130/350 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+            </div>
+
             </div>
         </div>
     </div>

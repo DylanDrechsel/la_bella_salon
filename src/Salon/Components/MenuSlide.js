@@ -153,7 +153,7 @@ const MenuSlide = () => {
             </div>
 
             <div className='color-highlight-prices'>
-                <h1 className='color-highlight-title'> <b> ~Color & Highlights~ from...</b> </h1>
+                <h1 className='color-highlight-title'> <b> ~Color & Highlights~ </b> </h1>
 
                 <Row>
                     <Col className='WaxingCol' xs={8}>
@@ -326,7 +326,7 @@ const MenuSlide = () => {
             </div>
 
             <div className='perms-bodywaves-div'>
-                <h1 className='haircut-title-32'> <b> ~Perms & Body Waves~ from...</b> </h1>
+                <h1 className='haircut-title'> <b> ~Perms & Body Waves~ </b> </h1>
 
                 <Row>
                     <Col className='WaxingCol'>
@@ -372,7 +372,7 @@ const MenuSlide = () => {
             </div>
 
             <div className='manicures-div'>
-                <h1 className='haircut-title'> <b> ~Manicures~ from...</b> </h1>
+                <h1 className='haircut-title-big'> <b> ~Manicures~ </b> </h1>
 
                 <Row>
                     <Col className='WaxingCol'>
@@ -518,7 +518,7 @@ const MenuSlide = () => {
             </div>
 
             <div className='Pedicures-div'>
-                <h1 className='haircut-title'> <b> ~Padicures~ from...</b> </h1>
+                <h1 className='haircut-title-big'> <b> ~Padicures~ </b> </h1>
 
                 <Row>
                     <Col className='WaxingCol'>
@@ -576,6 +576,38 @@ const MenuSlide = () => {
                     </Col>
                 </Row>
 
+            </div>
+
+            <div className='add-on-div'>
+                <h1 className='haircut-title-big'> <b> ~Add On~ </b> </h1>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='color-highlight-text-18'>
+                            <b> Callus Buster </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $5 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='color-highlight-text-18'>
+                            <b> Hot Rocks </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $5 </b>
+                        </p>
+                    </Col>
+                </Row>
             </div>
 
             </div>

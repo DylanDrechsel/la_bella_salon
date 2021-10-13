@@ -330,7 +330,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='color-highlight-text-18t'>
+                        <p className='color-highlight-text-18'>
                             <b> Partial Perm </b>
                         </p>
                     </Col>
@@ -369,6 +369,151 @@ const MenuSlide = () => {
                         </p>
                     </Col>
                 </Row>
+            </div>
+
+            <div className='perms-bodywaves-div'>
+                <h1 className='haircut-title'> <b> ~Manicuress~ from...</b> </h1>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='color-highlight-text-18'>
+                            <b> Manicure </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $20 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='color-highlight-text-18'>
+                            <b> Manicure (French) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $25 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Manicure Spa (w/Mask) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $28 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Man-E-Cure (for Men) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $18 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Polish Change (Hand) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $12 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Polish Change (Feet) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $14 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Shellac </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $35 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Vinylux </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $25 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> LCN Gels Fills </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $45 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> LCN French Gels Fills </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $60 </b>
+                        </p>
+                    </Col>
+                </Row>
+
 
             </div>
 

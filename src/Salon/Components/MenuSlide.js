@@ -7,20 +7,20 @@ const MenuSlide = () => {
         <div className='SpaSlideFiveDiv'>
             <div className="SpaServiceDiv">
 
-            <div className='WaxingDiv'>
-                <h1 className='SpaServiceTitle'> <b> ~Waxing~ from...</b> </h1>
+            <div className='haircut-div'>
+                <h1 className='haircut-title'> <b> ~Haircuts & Styles~ from...</b> </h1>
             
             <div className='Prices'>
                 <Row>
                     <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
-                            <b> Eye </b>
+                            <b> Women </b>
                         </p>
                     </Col>
 
                     <Col className='WaxingCol'>
                         <p className='WaxingTextRight'>
-                            <b> $16 </b>
+                            <b> $50/60 </b>
                         </p>
                     </Col>
                 </Row>
@@ -28,35 +28,7 @@ const MenuSlide = () => {
                 <Row>
                     <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
-                            <b> Lip or Chin </b>
-                        </p>
-                    </Col>
-
-                    <Col className='WaxingCol'>
-                        <p className='WaxingTextRight'>
-                            <b> $14 </b>
-                        </p>
-                    </Col>
-                </Row>
-
-                <Row>
-                    <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
-                            <b> Face </b>
-                        </p>
-                    </Col>
-
-                    <Col className='WaxingCol'>
-                        <p className='WaxingTextRight'>
-                            <b> $35 </b>
-                        </p>
-                    </Col>
-                </Row>
-
-                <Row>
-                    <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
-                            <b> Bikini </b>
+                            <b> Men </b>
                         </p>
                     </Col>
 
@@ -66,17 +38,31 @@ const MenuSlide = () => {
                         </p>
                     </Col>
                 </Row>
-            
+
                 <Row>
                     <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
-                            <b> Brazilian </b>
+                            <b> Bangs </b>
                         </p>
                     </Col>
 
                     <Col className='WaxingCol'>
                         <p className='WaxingTextRight'>
-                            <b> $50 </b>
+                            <b> $12 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextLeft'>
+                            <b> Girls (11-12) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $35 </b>
                         </p>
                     </Col>
                 </Row>
@@ -84,27 +70,13 @@ const MenuSlide = () => {
                 <Row>
                     <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
-                            <b> Legs (Full) </b>
+                            <b> Boys (11-12) </b>
                         </p>
                     </Col>
 
                     <Col className='WaxingCol'>
                         <p className='WaxingTextRight'>
-                            <b> $75 </b>
-                        </p>
-                    </Col>
-                </Row>
-
-                <Row>
-                    <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
-                            <b> Legs (Upper or Lower) </b>
-                        </p>
-                    </Col>
-
-                    <Col xs={4} className='WaxingCol'>
-                        <p className='WaxingTextRight'>
-                            <b> $48 </b>
+                            <b> $25 </b>
                         </p>
                     </Col>
                 </Row>
@@ -112,41 +84,13 @@ const MenuSlide = () => {
                 <Row>
                     <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
-                            <b> Legs (Full with Bikini) </b>
+                            <b> Blowdry </b>
                         </p>
                     </Col>
 
-                    <Col xs={4} className='WaxingCol'>
-                        <p className='WaxingTextRight'>
-                            <b> $95 </b>
-                        </p>
-                    </Col>
-                </Row>
-            
-                <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
-                            <b> Back or Chest </b>
-                        </p>
-                    </Col>
-
-                    <Col xs={4} className='WaxingCol'>
                         <p className='WaxingTextRight'>
-                            <b> $48 </b>
-                        </p>
-                    </Col>
-                </Row>
-            
-                <Row>
-                    <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
-                            <b> Arms 1/2 </b>
-                        </p>
-                    </Col>
-
-                    <Col xs={4} className='WaxingCol'>
-                        <p className='WaxingTextRight'>
-                            <b> $32 </b>
+                            <b> $30 </b>
                         </p>
                     </Col>
                 </Row>
@@ -154,13 +98,27 @@ const MenuSlide = () => {
                 <Row>
                     <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
-                            <b> Arms (Full) </b>
+                            <b> Blowdry/Straight </b>
                         </p>
                     </Col>
 
-                    <Col xs={4} className='WaxingCol'>
+                    <Col className='WaxingCol'>
                         <p className='WaxingTextRight'>
-                            <b> $45 </b>
+                            <b> $38 </b>
+                        </p>
+                    </Col>
+                </Row>               
+
+                <Row>
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextLeft'>
+                            <b> Elegant Styles </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $65 </b>
                         </p>
                     </Col>
                 </Row>
@@ -168,13 +126,13 @@ const MenuSlide = () => {
                 <Row>
                     <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
-                            <b> Underarm </b>
+                            <b> Elegant Up-Do </b>
                         </p>
                     </Col>
 
-                    <Col xs={4} className='WaxingCol'>
+                    <Col className='WaxingCol'>
                         <p className='WaxingTextRight'>
-                            <b> $28 </b>
+                            <b> $85 </b>
                         </p>
                     </Col>
                 </Row>
@@ -182,19 +140,24 @@ const MenuSlide = () => {
                 <Row>
                     <Col className='WaxingCol'>
                         <p className='WaxingTextLeft'>
-                            <b> Body Spot Wax </b>
+                            <b> Bridal Design </b>
                         </p>
                     </Col>
 
-                    <Col xs={4} className='WaxingCol'>
+                    <Col className='WaxingCol'>
                         <p className='WaxingTextRight'>
-                            <b> $18 </b>
+                            <b> $30 </b>
                         </p>
                     </Col>
                 </Row>
-
             </div>
 
+            <div className='color-highlight-prices'>
+                <h1 className='haircut-title'> <b> ~Haircuts & Styles~ from...</b> </h1>
+
+
+                
+            </div>
 
             </div>
         </div>

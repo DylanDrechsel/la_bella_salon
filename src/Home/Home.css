@@ -48,4 +48,10 @@
         width: 100vw;
         background-color: #F5F5F5;
     }
+    .home-picture-slide {
+        height: 60vh;
+        background-image: url(../Assets/Carousel-one.JPG);
+        background-position-y: center;
+        background-size: cover;
+    }
 }

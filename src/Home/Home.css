@@ -43,4 +43,9 @@
         position: relative;
         top: 1vh;
     }
+    .home-description-slide {
+        height: auto;
+        width: 100vw;
+        background-color: #F5F5F5;
+    }
 }

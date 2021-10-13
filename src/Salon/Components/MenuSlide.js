@@ -153,10 +153,176 @@ const MenuSlide = () => {
             </div>
 
             <div className='color-highlight-prices'>
-                <h1 className='haircut-title'> <b> ~Haircuts & Styles~ from...</b> </h1>
+                <h1 className='color-highlight-title'> <b> ~Color & Highlights~ from...</b> </h1>
 
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text'>
+                            <b> Color-Roots w/ Other Service </b>
+                        </p>
+                    </Col>
 
-                
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $50/60 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Color-Roots No Finish </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $60 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Color-Roots/Ends </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $80 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Clear Color/Glaze </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $48 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Toners/Power Dose </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $28 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Hilite-Face Frame </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $65 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Hi or Lowlites Partial </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $98 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Hi or Lowlites Full </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $128 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Hi/Low Combo Partial </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $115 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Hi/Low Combo Full </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $160 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Organic Roots </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $65 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='WaxingCol' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Organic Roots & Ends </b>
+                        </p>
+                    </Col>
+
+                    <Col className='WaxingCol'>
+                        <p className='WaxingTextRight'>
+                            <b> $85 </b>
+                        </p>
+                    </Col>
+                </Row>
+
             </div>
 
             </div>

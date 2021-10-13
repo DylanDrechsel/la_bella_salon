@@ -43,4 +43,15 @@
         position: relative;
         top: 1vh;
     }
+    .home-description-slide {
+        height: auto;
+        width: 100vw;
+        background-color: #F5F5F5;
+    }
+    .home-picture-slide {
+        height: 60vh;
+        background-image: url(../Assets/Carousel-one.JPG);
+        background-position-y: center;
+        background-size: cover;
+    }
 }

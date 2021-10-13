@@ -13,7 +13,7 @@ const MenuSlide = () => {
             <div className='Prices'>
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Women </b>
                         </p>
                     </Col>
@@ -27,7 +27,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Men </b>
                         </p>
                     </Col>
@@ -41,7 +41,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Bangs </b>
                         </p>
                     </Col>
@@ -55,7 +55,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Girls (11-12) </b>
                         </p>
                     </Col>
@@ -69,7 +69,7 @@ const MenuSlide = () => {
             
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Boys (11-12) </b>
                         </p>
                     </Col>
@@ -83,7 +83,7 @@ const MenuSlide = () => {
             
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Blowdry </b>
                         </p>
                     </Col>
@@ -97,7 +97,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Blowdry/Straight </b>
                         </p>
                     </Col>
@@ -111,7 +111,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Elegant Styles </b>
                         </p>
                     </Col>
@@ -125,7 +125,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Elegant Up-Do </b>
                         </p>
                     </Col>
@@ -139,7 +139,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Bridal Design </b>
                         </p>
                     </Col>
@@ -330,7 +330,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18t'>
                             <b> Partial Perm </b>
                         </p>
                     </Col>
@@ -344,7 +344,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Perms/Body </b>
                         </p>
                     </Col>
@@ -358,7 +358,7 @@ const MenuSlide = () => {
 
                 <Row>
                     <Col className='WaxingCol'>
-                        <p className='WaxingTextLeft'>
+                        <p className='color-highlight-text-18'>
                             <b> Smoothing/Keratin </b>
                         </p>
                     </Col>

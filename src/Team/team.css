@@ -1,0 +1,12 @@
+@media only screen and (min-device-width: 375px) and (max-device-width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
+    .team-div {
+        height: 100vh;
+        width: 100vw;
+    }
+    .team-title {
+        padding-top: 25vh;
+        font-size: 108px;
+        text-align: center;
+        font-family: 'Cookie', cursive;
+    }
+}

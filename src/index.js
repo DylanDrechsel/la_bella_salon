@@ -7,6 +7,8 @@ import { RecoilRoot } from 'recoil';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter } from 'react-router-dom';
 
+require('dotenv').config();
+
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>

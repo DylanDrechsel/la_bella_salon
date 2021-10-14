@@ -17,7 +17,7 @@
 } */
 
 /* IphoneXR */
-@media only screen and (min-device-width: 375px) and (max-device-width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
+@media only screen /* and (min-device-width: 375px) */ and (width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
     .SlideOneDiv {
         /* background-color: black; */
         height: 100vh;
@@ -29,7 +29,8 @@
         position: relative;
         /* right: 27.5vw; */
         right: 20vw;
-        bottom: -10vh;
+        /* bottom: -10vh; */
+        margin-bottom: 10vh;
     }
     .SlideTwoDiv {
         height: 25vh;

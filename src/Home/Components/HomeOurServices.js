@@ -10,6 +10,14 @@ const HomeOurServices = () => {
             <div className='home-hair-photo'>
                 <h1 className='home-photo-title'> <b> Hair </b> </h1>
             </div>
+
+            <div className='home-mani-photo'>
+                <h1 className='home-mani-title'> <b> Manicures <br /> & <br /> Pedicures </b> </h1>
+            </div>
+
+            <div className='home-spa-photo'>
+                <h1 className='home-photo-title'> <b> Spa </b> </h1>
+            </div>
         </div>
     );
 };

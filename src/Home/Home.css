@@ -74,12 +74,34 @@
         background-position-y: center;
         background-size: cover;
     }
+    .home-mani-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/mani-pedi-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-spa-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-spa-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
     .home-photo-title {
         color: #F5F5F5;
         font-family: 'Cookie', cursive;
         text-align: center;
-        font-size: 72px;
+        font-size: 60px;
         position: relative;
         top: 15vh;
+    }
+    .home-mani-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 6vh;
     }
 }

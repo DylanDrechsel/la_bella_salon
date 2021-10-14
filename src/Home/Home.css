@@ -104,4 +104,15 @@
         position: relative;
         top: 6vh;
     }
+    .marker {
+        color: #F5F5F5;
+    }
+    .map-pin {
+        /* position: absolute; */
+        height: 5vh;
+        margin-left: 50px;
+    }
+    /* .map-pin::after {
+        transform: translate(-20 / 2px, -20px)
+    } */
 }

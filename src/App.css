@@ -3,4 +3,5 @@
   height: auto;
   /* background-color: #0B090B; */
   overflow-y: hidden;
+  overflow-x: hidden;
 }

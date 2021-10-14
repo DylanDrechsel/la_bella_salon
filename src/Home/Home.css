@@ -115,4 +115,24 @@
     /* .map-pin::after {
         transform: translate(-20 / 2px, -20px)
     } */
+    .description-title {
+        color: #0B090B;
+        padding-left: 10vw;
+        padding-right: 10vw;
+        padding-top: 5vh;
+        font-size: 32px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .description-text {
+        color: #0B090B;
+        padding-left: 10vw;
+        padding-right: 10vw;
+        padding-top: 5vh;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
 }

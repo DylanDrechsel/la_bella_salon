@@ -32,7 +32,7 @@ const HomeMapSlide = () => {
                         </a> 
                     </div>
 
-                    {viewport.zoom > 18 ?
+                    {viewport.zoom >= 18 ?
                         <a href='https://www.google.com/maps/dir//La+Bella+Salon+%26+Spa+by+Regina,+U.S.+22,+Lebanon,+NJ/@40.6438651,-74.8609446,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89c38c527b5bf88f:0x9fcf36c61f41b355!2m2!1d-74.8259239!2d40.6437973'> 
                             <img style={{transform: `translate(${SIZE/2 + UNIT}, ${SIZE/2 + UNIT}`}} className='map-pin' src={MapPin} />
                         </a>  

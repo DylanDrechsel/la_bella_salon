@@ -136,4 +136,8 @@
         font-weight: 700;
         font-family: 'Raleway', sans-serif;
     }
+    .home-main-div {
+        height: auto;
+        overflow-y: hidden;
+    }
 }

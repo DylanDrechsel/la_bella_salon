@@ -5,7 +5,6 @@ import { Route } from 'react-router-dom'
 import LandingPage from './LandingPage/LandingPage'
 import Navigation from './Global/Navigation';
 import Home from './Home/Home'
-import About from './About/About'
 import SalonEtiquette from './SalonEtiquette/SalonEtiquette';
 import Spa from './Spa/Spa';
 import Salon from './Salon/Salon';
@@ -27,8 +26,6 @@ function App() {
         <Navigation />
 
         <Route path='/' exact component={Home} />
-
-        <Route path='/about' exact component={About} />
 
         <Route path='/salon-etiquette' exact component={SalonEtiquette} />
 

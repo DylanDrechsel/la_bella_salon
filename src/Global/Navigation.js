@@ -1,10 +1,9 @@
 import React, { useEffect, useState, useRef } from 'react';
 import './global.css'
 import { Link } from 'react-router-dom'
-import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button, Dropdown } from 'react-bootstrap'
+import { Navbar, Container } from 'react-bootstrap'
 import MenuImage from'./DropdownButton'
 import MenuModal from './MenuModal/MenuModal';
-// import pic from '../Assets/transparent-la-bella-logo .png'
 
 const Navigation = () => {
     const [navBackground, setNavBackground] = useState(false)

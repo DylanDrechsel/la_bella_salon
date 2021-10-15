@@ -13,15 +13,6 @@ const SalonEtiquette = () => {
             document.documentElement.dataset.scroll = 1;
         }, 250)
     }, [])
-
-
-    /* document.addEventListener("scroll", () => {
-        if (window.scrollY < 10) {
-            document.documentElement.dataset.scroll = 1000;
-        } else {
-            document.documentElement.dataset.scroll = 1000;
-        }
-      }); */
     
     return (
         <div className='EtiquetteMainDiv'>

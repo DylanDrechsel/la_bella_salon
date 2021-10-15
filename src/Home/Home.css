@@ -139,5 +139,6 @@
     .home-main-div {
         height: auto;
         overflow-y: hidden;
+        overflow-x: hidden;
     }
 }

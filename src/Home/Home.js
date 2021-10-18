@@ -10,6 +10,7 @@ import Footer from '../Footer/Footer'
 
 const Home = () => {
     useEffect(() => {
+        window.scrollTo(0, 0);
         document.documentElement.dataset.scroll = 0;
     }, [])
 

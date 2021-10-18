@@ -5,6 +5,8 @@ import Footer from '../Footer/Footer';
 
 const ContactUs = () => {
     useEffect(() => {
+        window.scrollTo(0, 0);
+
         setTimeout(() => {
             document.documentElement.dataset.scroll = 10;
         }, 250)

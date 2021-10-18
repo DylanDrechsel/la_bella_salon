@@ -1,5 +1,115 @@
-/* IphoneXR */
+/* iPhoneXR */
 @media only screen and (width: 414px) and (min-device-height: 812px) and (max-device-height: 896px)  {
+    .EtiquetteMainDiv {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .SalonEtiquetteDiv {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .EtiquetteTitle {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 72px;
+    }
+    .ArrivalTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ArrivalText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .CancellationsTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CancellationsText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .ChildrenTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ChildrenText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .CellPhonesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CellPhonesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .GiftCertificatesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .GiftCertificatesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+/* Iphone 6+, 7+, 8+ */
+@media only screen and (width: 414px) and (min-device-height: 700px) and (max-device-height: 800px)  {
     .EtiquetteMainDiv {
         background-color: #0B090B;
         height: auto;

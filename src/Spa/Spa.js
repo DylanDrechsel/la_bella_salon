@@ -17,6 +17,7 @@ import Footer from '../Footer/Footer';
 
 const Spa = () => {
     useEffect(() => {
+        window.scrollTo(0, 0);
         document.documentElement.dataset.scroll = 0;
     }, [])
 

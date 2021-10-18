@@ -7,8 +7,9 @@ import DescriptionSlide from './Components/DescriptionSlide';
 import CarouselSlide from './Components/CarouselSlide';
 import MenuSlide from './Components/MenuSlide';
 
-const Salon = () => {
+const Salon = () => { 
     useEffect(() => {
+        window.scrollTo(0, 0);
         document.documentElement.dataset.scroll = 0;
     }, [])
 

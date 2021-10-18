@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './Spa.css'
 import SlideOne from './SlideOne/SlideOne';
 import SlideTwo from './SlideTwo/SlideTwo';
@@ -16,6 +16,10 @@ import SlideThirteen from './SlideThirteen/SlideThirteen';
 import Footer from '../Footer/Footer';
 
 const Spa = () => {
+    useEffect(() => {
+        document.documentElement.dataset.scroll = 0;
+    }, [])
+
     document.addEventListener("scroll", () => {
         if (window.scrollY > 0) {
             document.documentElement.dataset.scroll = window.scrollY;

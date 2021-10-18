@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './Salon.css'
 import './../Spa/Spa.css'
 import Footer from '../Footer/Footer';
@@ -8,6 +8,10 @@ import CarouselSlide from './Components/CarouselSlide';
 import MenuSlide from './Components/MenuSlide';
 
 const Salon = () => {
+    useEffect(() => {
+        document.documentElement.dataset.scroll = 0;
+    }, [])
+
     document.addEventListener("scroll", () => {
         if (window.scrollY > 0) {
             document.documentElement.dataset.scroll = window.scrollY;

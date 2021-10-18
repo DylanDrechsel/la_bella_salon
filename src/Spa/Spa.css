@@ -400,7 +400,7 @@
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
-        padding-top: 4.5vh;
+        padding-top: 3vh;
         font-size: 72px;
     }
     .SpaSlideTwoText {
@@ -425,7 +425,7 @@
         width: 100%;
     }
     .SpaSlideFourDiv {
-        height: 20vh;
+        height: 24vh;
         background-color: #0B090B;
     }
     .SpaSildeFourTitle {

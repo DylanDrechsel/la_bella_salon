@@ -16,7 +16,7 @@ const DropdownButton = ({ handleMenuShow }) => {
 
     return (
         <div className={yPosition > 50 ? 'MenuImageDiv' : null } className='MenuImageDiv' onClick={handleMenuShow}>
-           <img src={MenuImage} height='40' width='40' /> 
+           <img src={MenuImage} className='menu-button' height='40' width='40' /> 
         </div>
     );
 };

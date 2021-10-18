@@ -1,72 +1,112 @@
-html:not([data-scroll='0']) .Navbar {
-    background-color: #b78d2a;
-    animation: fadeIn .5s ease-in;
-    height: 6vh;
-    /* overflow: hidden; */
+/* iPhoneXR */
+@media only screen and (width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 6vh;
+        /* overflow: hidden; */
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+        bottom: .5vh
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        top: -3vh;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        bottom: .8vh !important;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        bottom: .2vh !important;
+    }
 }
 
-html:not([data-scroll='0']) .NavbarTitle {
-    display: inline;
-    position: relative;
-    bottom: .5vh
+/* iPhone 6+, 7+, 8+ */
+@media only screen and (width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 6vh;
+        /* overflow: hidden; */
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+        bottom: 1vh
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        top: -3vh;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        bottom: .8vh !important;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        bottom: 1vh !important;
+    }
 }
-
-html:not([data-scroll='0']) .NavbarToggle {
-    display: inline;
-    position: relative;
-    bottom: .5vh;
-}
-
-html:not([data-scroll='0']) .MenuImageDiv {
-    height: .01px;
-    position: relative;
-    top: -3vh;
-}
-
-.Navbar {
-    background-color: #b78d2a00;
-}
-
-.NavbarTitle {
-    display: none;
-}
-
-.MenuImageDiv {
-    height: .01px;
-    position: relative;
-    bottom: .8vh !important;
-}
-
-.Modal {
-    margin-top: 10vh;
-}
-
-.MenuLink {
-    color: #F5F5F5;
-    text-decoration: none;
-    font-family: 'Cookie', cursive;
-    text-align: center;
-}
-
-.MenuText {
-    font-size: 36px;
-}
-
-.ModalBody {
-    background-color: rgb(127, 79, 21);
-}
-
-/* .MenuModal {
-    position: relative;
-    top: 5vh;
-    background-color: #F5F5F5;
-    height: 15vh;
-    width: 15vw;
-} */
-
-/* .NavbarToggle {
-    display: none;
-} */
 
 @keyframes fadeIn {
     0%   { opacity: 0; }

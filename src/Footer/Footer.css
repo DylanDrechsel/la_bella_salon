@@ -1,4 +1,5 @@
-@media only screen and (min-device-width: 375px) and (max-device-width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
+/* IphoneXR */
+@media only screen and (width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
     .FooterOneDiv {
         height: 27.75vh;
         background-color: #0B090B;

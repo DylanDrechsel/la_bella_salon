@@ -8,9 +8,11 @@ import HomeOurServices from './Components/HomeOurServices';
 import HomeMapSlide from './Components/HomeMapSlide';
 import Footer from '../Footer/Footer'
 
-document.documentElement.dataset.scroll = 0;
-
 const Home = () => {
+    useEffect(() => {
+        document.documentElement.dataset.scroll = 0;
+    }, [])
+
     document.addEventListener("scroll", () => {
         if (window.scrollY > 0) {
             document.documentElement.dataset.scroll = window.scrollY;

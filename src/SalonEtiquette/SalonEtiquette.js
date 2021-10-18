@@ -13,6 +13,8 @@ const SalonEtiquette = () => {
             document.documentElement.dataset.scroll = 1;
         }, 250)
     }, [])
+
+    window.scrollY = 1;
     
     return (
         <div className='EtiquetteMainDiv'>

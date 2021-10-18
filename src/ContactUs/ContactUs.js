@@ -10,6 +10,7 @@ const ContactUs = () => {
         }, 250)
     }, [])
 
+    window.scrollY = 1;
 
     return (
         <div className='contact-us-main-div'>

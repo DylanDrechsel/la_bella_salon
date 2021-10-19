@@ -26,3 +26,18 @@
         font-size: 72px;
     }
 }
+
+/* iPhone 6, 6S, 7, and 8 (Small Cell Phone) */
+@media only screen and (min-device-width: 300px) and (max-device-width: 413px) {
+    .contact-us-title {
+        height: 30vh;
+        background-color: #0B090B;
+    }
+    .contact-us-title-text {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5 ;
+        padding-top: 13vh;
+        text-align: center;
+        font-size: 72px;
+    }
+}

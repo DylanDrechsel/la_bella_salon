@@ -1,3 +1,130 @@
+/* iPhone 12 Pro */
+@media only screen and (width: 390px) and (min-device-height: 812px) and (max-device-height: 896px) {
+    .SlideOneDiv {
+        /* background-color: black; */
+        height: 100vh;
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/bayalage-windowwall-salon-services.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .LaBellaLogo {
+        position: relative;
+        /* right: 27.5vw; */
+        right: 20vw;
+        /* bottom: -10vh; */
+        margin-bottom: 10vh;
+    }
+    .SlideTwoDiv {
+        height: 25vh;
+        background-color: #0B090B;
+    }
+    .SlideTwoText {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .home-description-slide {
+        height: auto;
+        width: 100vw;
+        background-color: #F5F5F5;
+        padding-bottom: 5vh;
+    }
+    .home-picture-slide {
+        height: 60vh;
+        background-image: url(../Assets/Carousel-one.JPG);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .our-services-title-div {
+        height: 12vh;
+        background-color: #0B090B;
+    }
+    .our-services-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .home-hair-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-hair-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-mani-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/mani-pedi-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-spa-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-spa-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-photo-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 15vh;
+    }
+    .home-mani-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 6vh;
+    }
+    .marker {
+        color: #F5F5F5;
+    }
+    .map-pin {
+        /* position: absolute; */
+        height: 5vh;
+        margin-left: 50px;
+    }
+    /* .map-pin::after {
+        transform: translate(-20 / 2px, -20px)
+    } */
+    .description-title {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 36px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .description-text {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .home-main-div {
+        height: auto;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+}
+
 /* iPhoneXR */
 @media only screen and (width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
     .SlideOneDiv {

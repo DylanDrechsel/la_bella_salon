@@ -1,3 +1,8 @@
+/* iPhone 12 Pro */
+@media only screen and (width: 390) and (min-device-height: 812px) and (max-device-height: 896px)  {
+    
+}
+
 /* iPhoneXR */
 @media only screen and (width: 414px) and (min-device-height: 812px) and (max-device-height: 896px)  {
     .EtiquetteMainDiv {

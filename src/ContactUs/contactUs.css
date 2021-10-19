@@ -1,6 +1,16 @@
 /* iPhone 12 Pro */
-@media only screen and (width: 390) and (min-device-height: 812px) and (max-device-height: 896px)  {
-    
+@media only screen and (width: 390px) and (min-device-height: 812px) and (max-device-height: 896px)  {
+    .contact-us-title {
+        height: 30vh;
+        background-color: #0B090B;
+    }
+    .contact-us-title-text {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5 ;
+        padding-top: 13vh;
+        text-align: center;
+        font-size: 72px;
+    }
 }
 
 /* iPhoneXR */

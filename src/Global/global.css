@@ -1,6 +1,56 @@
 /* iPhone 12 Pro */
-@media only screen and (width: 390) and (min-device-height: 812px) and (max-device-height: 896px)  {
-    
+@media only screen and (width: 390px) and (min-device-height: 812px) and (max-device-height: 896px)  {
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 6vh;
+        /* overflow: hidden; */
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+        /* bottom: .5vh */
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        top: -3vh;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        bottom: .8vh !important;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        top: .25vh !important;
+    }    
 }
 
 /* iPhoneXR */

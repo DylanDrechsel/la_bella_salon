@@ -115,7 +115,7 @@
 }
 
 /* iPhone 6, 6S, 7, and 8 (Small Cell Phone) */
-@media only screen and (min-device-width: 300px) and (max-device-width: 413px) { 
+@media only screen and (min-device-width: 300px) and (max-device-width: 389px) { 
     .FooterOneDiv {
         height: 32vh;
         background-color: #0B090B;

@@ -1,6 +1,106 @@
 /* iPhone 12 Pro */
-@media only screen and (width: 390) and (min-device-height: 812px) and (max-device-height: 896px)  {
-    
+@media only screen and (width: 390px) and (min-device-height: 812px) and (max-device-height: 896px)  {
+    .SalonDiv {
+        height: auto;
+    }
+    .SalonSlideOneDiv {
+        /* background-color: black; */
+        height: 100vh;
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/salon-landing-page-photo.JPG);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .SalonSlideOneTitle {
+        /* position: relative; */
+        padding-top: 40vh;
+        text-align: center;
+        font-family: 'Cookie', cursive;
+        color: #0B090B;
+        font-size: 96px;
+    }
+    .DescriptionSlide {
+        height: 55vh;
+        background-color: #F5F5F5
+    }
+    .DescriptionText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 7.5vh;
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
+    .DescriptionSubText {
+        color: #0B090B;
+        /* text-align: center; */
+        padding-top: 35vh;
+        margin-left: 5vw;
+        margin-right: 5vw;
+        font-size: 18px;
+    }
+    .ulist {
+        display: table;
+        margin: 0 auto;
+    }
+    .carousel {
+        margin-left: 1vh;
+        margin-right: 1vh;
+        margin-bottom: 1vh;
+    }
+    .carousel-div {
+        background-color: #F5F5F5;
+    }
+    .haircut-title {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 36px;
+        text-decoration: underline;
+    }
+    .color-highlight-title {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 48px;
+        text-decoration: underline;
+    }
+    .color-highlight-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align: left;
+        font-size: 16px;
+        padding-left: 3vw;
+        position: relative;
+        bottom: 1vh;
+        margin-bottom: 0;
+    }
+    .color-highlight-text-18 {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align: left;
+        font-size: 18px;
+        padding-left: 3vw;
+        position: relative;
+        bottom: 1vh;
+        margin-bottom: 0;
+    }
+    .haircut-title-32 {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 32px;
+        text-decoration: underline;
+    }
+    .haircut-title-big {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 48px;
+        text-decoration: underline;
+    }
 }
 
 /* iPhoneXR */

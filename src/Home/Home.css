@@ -3,7 +3,7 @@
     .SlideOneDiv {
         /* background-color: black; */
         height: 844px;
-        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/bayalage-windowwall-salon-services.jpg);
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
         background-position-y: center;
         background-size: cover;
     }
@@ -33,7 +33,7 @@
     }
     .home-picture-slide {
         height: 60vh;
-        background-image: url(../Assets/Carousel-one.JPG);
+        background-image: url(../assets/Carousel-one.JPG);
         background-position-y: center;
         background-size: cover;
     }
@@ -52,21 +52,21 @@
     .home-hair-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-hair-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-hair-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-mani-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/mani-pedi-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/mani-pedi-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-spa-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-spa-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-spa-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
@@ -132,7 +132,7 @@
 @media only screen and (width: 375px) and (min-device-height: 812px) and (max-device-height: 896px) {
     .SlideOneDiv {
         height: 812px;
-        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/bayalage-windowwall-salon-services.jpg);
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
         background-position-y: center;
         background-size: cover;
     }
@@ -162,7 +162,7 @@
     }
     .home-picture-slide {
         height: 60vh;
-        background-image: url(../Assets/Carousel-one.JPG);
+        background-image: url(../assets/Carousel-one.JPG);
         background-position-y: center;
         background-size: cover;
     }
@@ -181,21 +181,21 @@
     .home-hair-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-hair-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-hair-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-mani-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/mani-pedi-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/mani-pedi-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-spa-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-spa-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-spa-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
@@ -258,7 +258,7 @@
     .SlideOneDiv {
         /* background-color: black; */
         height: 100vh;
-        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/bayalage-windowwall-salon-services.jpg);
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
         background-position-y: center;
         background-size: cover;
     }
@@ -289,7 +289,7 @@
     }
     .home-picture-slide {
         height: 60vh;
-        background-image: url(../Assets/Carousel-one.JPG);
+        background-image: url(../assets/Carousel-one.JPG);
         background-position-y: center;
         background-size: cover;
     }
@@ -308,21 +308,21 @@
     .home-hair-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-hair-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-hair-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-mani-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/mani-pedi-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/mani-pedi-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-spa-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-spa-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-spa-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
@@ -385,7 +385,7 @@
     .SlideOneDiv {
         /* background-color: black; */
         height: 100vh;
-        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/bayalage-windowwall-salon-services.jpg);
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
         background-position-y: center;
         background-size: cover;
     }
@@ -416,7 +416,7 @@
     }
     .home-picture-slide {
         height: 60vh;
-        background-image: url(../Assets/Carousel-one.JPG);
+        background-image: url(../assets/Carousel-one.JPG);
         background-position-y: center;
         background-size: cover;
     }
@@ -435,21 +435,21 @@
     .home-hair-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-hair-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-hair-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-mani-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/mani-pedi-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/mani-pedi-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-spa-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-spa-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-spa-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
@@ -512,7 +512,7 @@
     .SlideOneDiv {
         /* background-color: black; */
         height: 100vh;
-        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/bayalage-windowwall-salon-services.jpg);
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
         background-position-y: center;
         background-size: cover;
     }
@@ -544,7 +544,7 @@
     }
     .home-picture-slide {
         height: 60vh;
-        background-image: url(../Assets/Carousel-one.JPG);
+        background-image: url(../assets/Carousel-one.JPG);
         background-position-y: center;
         background-size: cover;
     }
@@ -563,21 +563,21 @@
     .home-hair-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-hair-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-hair-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-mani-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/mani-pedi-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/mani-pedi-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .home-spa-photo {
         height: 40vh;
         background: rgb(0, 0, 0);
-        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../Assets/home-spa-photo.jpg);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-spa-photo.jpg);
         background-position-y: center;
         background-size: cover;
     }

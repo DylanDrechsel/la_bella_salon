@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ReactMapGL, { Marker } from 'react-map-gl'
-import MapPin from '../../Assets/map-pin.png'
+import MapPin from '../../assets/map-pin.png'
 
 const SIZE = 20;
 const UNIT = "px";

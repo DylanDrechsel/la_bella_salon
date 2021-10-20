@@ -6,7 +6,7 @@
     .SalonSlideOneDiv {
         /* background-color: black; */
         height: 100vh;
-        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/salon-landing-page-photo.JPG);
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/salon-landing-page-photo.JPG);
         background-position-y: center;
         background-size: cover;
     }
@@ -116,7 +116,7 @@
     .SalonSlideOneDiv {
         /* background-color: black; */
         height: 100vh;
-        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/salon-landing-page-photo.JPG);
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/salon-landing-page-photo.JPG);
         background-position-y: center;
         background-size: cover;
     }
@@ -212,7 +212,7 @@
         text-decoration: underline;
     }
     /* ul {
-        list-style-image: url(../Assets/phone_icon.png);
+        list-style-image: url(../assets/phone_icon.png);
         height: 5vh !important;
         width: 5vw !important;
       } */
@@ -234,7 +234,7 @@
     .SalonSlideOneDiv {
         /* background-color: black; */
         height: 100vh;
-        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/salon-landing-page-photo.JPG);
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/salon-landing-page-photo.JPG);
         background-position-y: center;
         background-size: cover;
     }
@@ -339,7 +339,7 @@
     .SalonSlideOneDiv {
         /* background-color: black; */
         height: 100vh;
-        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../Assets/salon-landing-page-photo.JPG);
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/salon-landing-page-photo.JPG);
         background-position-y: center;
         background-size: cover;
     }

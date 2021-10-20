@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../../../../Assets/transparent-la-bella-logo__575x600.png'
+import Logo from '../../../../assets/transparent-la-bella-logo__575x600.png'
 import ContactButton from '../../../../Footer/Components/ContactButton';
 
 const LaBellaLogo = () => {

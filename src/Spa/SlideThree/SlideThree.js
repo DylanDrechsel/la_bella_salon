@@ -1,5 +1,5 @@
 import React from 'react';
-import SpaRoom from '../../Assets/spa_room_la_bella.jpg'
+import SpaRoom from '../../assets/spa_room_la_bella.jpg'
 
 const SlideThree = () => {
     return (

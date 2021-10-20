@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import MenuImage from '../Assets/transparent_black_menu_button.png'
+import MenuImage from '../assets/transparent_black_menu_button.png'
 
 let yPosition = 0
 

@@ -1,8 +1,8 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap'
-import MassageRoom from '../../Assets/massage_room.jpg'
-import SalonFloor from '../../Assets/salon_floor.jpg'
-import WaitingArea from '../../Assets/waiting_area.jpg'
+import MassageRoom from '../../assets/massage_room.jpg'
+import SalonFloor from '../../assets/salon_floor.jpg'
+import WaitingArea from '../../assets/waiting_area.jpg'
 
 const LandingCarousel = () => {
     return (

@@ -1,9 +1,9 @@
 import React from 'react';
-import LocationPin from '../../Assets/location_pin.png'
-import EmailIcon from '../../Assets/email_icon.png'
-import PhoneIcon from '../../Assets/phone_icon.png'
-import InstagramLogo from '../../Assets/instagram-transparent-logo-white.png'
-import FacebookLogo from '../../Assets/facebook_logo-transparent.png'
+import LocationPin from '../../assets/location_pin.png'
+import EmailIcon from '../../assets/email_icon.png'
+import PhoneIcon from '../../assets/phone_icon.png'
+import InstagramLogo from '../../assets/instagram-transparent-logo-white.png'
+import FacebookLogo from '../../assets/facebook_logo-transparent.png'
 import { Row, Col } from 'react-bootstrap'
 
 const SlideThree = () => {

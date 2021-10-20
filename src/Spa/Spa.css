@@ -1,4 +1,4 @@
-/* iPhone 12 Pro */
+/* iPhone 12 Pro / iPhone 12 / iPhone 13 */
 @media only screen and (width: 390px) and (min-device-height: 812px) and (max-device-height: 896px)  {
     .SpaSlideOneDiv {
         /* background-color: black; */
@@ -48,8 +48,9 @@
         width: 100%;
     }
     .SpaSlideFourDiv {
-        height: 20vh;
+        height: auto;
         background-color: #0B090B;
+        padding-bottom: 1vh;
     }
     .SpaSildeFourTitle {
         font-family: 'Cookie', cursive;
@@ -83,7 +84,7 @@
         color: rgb(127, 79, 21);
         text-align: center;
         padding-top: 1vh;
-        font-size: 48px;
+        font-size: 42px;
         text-decoration: underline;
     }
     .WaxingTextLeft {
@@ -232,14 +233,14 @@
         color: rgb(127, 79, 21);
         text-align: center;
         padding-top: 1vh;
-        font-size: 42px;
+        font-size: 36px;
         text-decoration: underline;
     }
     .SpaServicesTextLeftFacialTreatment {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
-        font-size: 16px;
+        font-size: 14px;
         padding-left: 3vw;
         position: relative;
         bottom: 1vh;
@@ -268,7 +269,7 @@
         color: rgb(127, 79, 21);
         text-align: center;
         padding-top: 1vh;
-        font-size: 30px;
+        font-size: 26px;
         text-decoration: underline;
     }
     .SpaServiceTitleBodyMassage {
@@ -331,8 +332,9 @@
         text-decoration: underline;
     }
     .FooterThreeDiv {
-        height: 95vh;
+        height: auto;
         background-color: #0B090B;
+        padding-bottom: 5vh;
     }
     .FooterThreeHours {
         color: #F5F5F5;
@@ -752,7 +754,7 @@
     }
 }
 
-/* iPhoneXR */
+/* iPhoneXR / iPhone 11 Pro Max / iPhone Xs Max / iPhone 11 */
 @media only screen and (width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
     .SpaSlideOneDiv {
         /* background-color: black; */

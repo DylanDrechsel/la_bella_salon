@@ -1134,14 +1134,12 @@
 /* iPhone 6+, 7+, 8+ */
 @media only screen and (width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
     .SpaSlideOneDiv {
-        /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
     .SpaSlideOneTitle {
-        /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
         font-family: 'Cookie', cursive;
@@ -1163,7 +1161,6 @@
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
-        /* padding-top: 2.5vh; */
         font-size: 24px;
         margin-left: 1.25vw;
         margin-right: 1.25vw;
@@ -1171,9 +1168,6 @@
     .SpaSlideThreeDiv {
         height: auto;
         width: 100%;
-        /* background-image: url(../assets/spa_room_la_bella.jpg);
-        background-position-y: center;
-        background-size: contain; */
     }
     .SpaRoomPicture {
         background-position-y: center;
@@ -1198,12 +1192,8 @@
         padding-top: 1vh;
     }
     .SpaServiceDiv {
-        /* margin-top: 10vh; */
         margin-left: 1.5vw;
-
-        /* Testing with BackgroundColor Change */
         background-color: #221f22;
-        
         height: auto;
         width:  97vw;
         border: 1px #B78C2A solid;
@@ -1300,18 +1290,13 @@
         background-color: #0B090B;
     }
     .UltimateSpaFacialDiv {
-       /* margin-top: 10vh; */
        margin-left: 1.5vw;
-
-       /* Testing with BackgroundColor Change */
        background-color: #221f22;
-       
        height: auto;
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
     .SpaSildeSevenTitle {
-        /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1348,8 +1333,7 @@
         font-size: 16px;
         padding-right: 3vw;
         position: relative;
-        bottom: 1vh;
-        
+        bottom: 1vh; 
     }
     .SpaServicesTextMiddleCustomFacials {
         position: relative;
@@ -1482,8 +1466,6 @@
     }
     .LocationPin {
         height: 5vh;
-        /* padding-top: 1vh; */
-        /* padding-left: 15vw !important; */
     }
     .EmailIcon {
         height: 3vh;

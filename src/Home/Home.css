@@ -383,7 +383,6 @@
 /* iPhone 6+, 7+, 8+ */
 @media only screen and (width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
     .SlideOneDiv {
-        /* background-color: black; */
         height: 100vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
         background-position-y: center;
@@ -391,13 +390,11 @@
     }
     .LaBellaLogo {
         position: relative;
-        /* right: 27.5vw; */
         right: 20vw;
-        /* bottom: -10vh; */
         margin-bottom: 10vh;
     }
     .SlideTwoDiv {
-        height: 25vh;
+        height: 27vh;
         background-color: #0B090B;
     }
     .SlideTwoText {
@@ -412,7 +409,6 @@
         height: auto;
         width: 100vw;
         background-color: #F5F5F5;
-        padding-bottom: 5vh;
     }
     .home-picture-slide {
         height: 60vh;
@@ -473,13 +469,9 @@
         color: #F5F5F5;
     }
     .map-pin {
-        /* position: absolute; */
         height: 5vh;
         margin-left: 50px;
     }
-    /* .map-pin::after {
-        transform: translate(-20 / 2px, -20px)
-    } */
     .description-title {
         color: #0B090B;
         padding-left: 5vw;
@@ -495,6 +487,7 @@
         padding-left: 5vw;
         padding-right: 5vw;
         padding-top: 5vh;
+        padding-bottom: 50px;
         font-size: 18px;
         text-align: center;
         font-weight: 700;

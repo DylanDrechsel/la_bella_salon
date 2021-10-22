@@ -235,7 +235,7 @@
 }
 
 /* iPhone 6, 6S, 7, and 8 (Small Cell Phone) */
-@media only screen and (min-device-width: 300px) and (max-device-width: 389px) { 
+@media only screen and (min-device-width: 300px) and (max-device-width: 399px) and (min-device-height: 600px) and (max-device-height: 700px) { 
     .FooterOneDiv {
         height: 32vh;
         background-color: #0B090B;
@@ -263,22 +263,23 @@
     }
     .ContactButtonDiv {
         /* padding-top: 5vh; */
-        padding-left: 15vw;
+        padding-left: 10vw;
     }
     .ContactButton {
         position: relative;
-        bottom: 22.5vh;
+        bottom: 20vh;
         height: 7vh;
+        width: 300px
     }
     .ContactButtonText {
-        padding-top: .8vh;
-        font-size: 12px;
+        padding-top: .5vh;
+        font-size: 16px;
     }
     .TeamButtonDiv {
         position: relative;
         top: 20vh;
         padding-top: 20vh;
-        padding-left: 22vw;
+        padding-left: 10vw;
     }
     .TeamButtonText {
         padding-top: .5vh;

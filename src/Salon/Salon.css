@@ -329,7 +329,7 @@
 }
 
 /* iPhone 6, 6S, 7, and 8 (Small Cell Phone) */
-@media only screen and (min-device-width: 300px) and (max-device-width: 389px) { 
+@media only screen and (min-device-width: 300px) and (max-device-width: 399px) and (min-device-height: 600px) and (max-device-height: 700px) { 
     .SalonDiv {
         height: auto;
     }

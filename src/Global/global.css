@@ -167,17 +167,15 @@
 }
 
 /* iPhone 6, 6S, 7, and 8 (Small Cell Phone) */
-@media only screen and (min-device-width: 300px) and (max-device-width: 389px) {
+@media only screen and (min-device-width: 300px) and (max-device-width: 399px) and (min-device-height: 600px) and (max-device-height: 700px) {
     html:not([data-scroll='0']) .Navbar {
         background-color: #b78d2a;
         animation: fadeIn .5s ease-in;
         height: 8vh;
-        /* overflow: hidden; */
     }
     html:not([data-scroll='0']) .NavbarTitle {
         display: inline;
         position: relative;
-        bottom: 1vh
     }
     html:not([data-scroll='0']) .NavbarToggle {
         display: inline;
@@ -187,7 +185,7 @@
     html:not([data-scroll='0']) .MenuImageDiv {
         height: .01px;
         position: relative;
-        top: -3vh;
+        top: -2vh;
     }
     .Navbar {
         background-color: #b78d2a00;
@@ -198,7 +196,6 @@
     .MenuImageDiv {
         height: .01px;
         position: relative;
-        bottom: .8vh !important;
     }
     .Modal {
         margin-top: 10vh;

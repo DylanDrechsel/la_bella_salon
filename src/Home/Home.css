@@ -501,7 +501,7 @@
 }
 
 /* iPhone 6, 6S, 7, and 8 (Small Cell Phone) */
-@media only screen and (min-device-width: 300px) and (max-device-width: 375px) and (min-device-height: 600px) and (max-device-height: 700px) { 
+@media only screen and (min-device-width: 300px) and (max-device-width: 399px) and (min-device-height: 600px) and (max-device-height: 700px) { 
     .SlideOneDiv {
         /* background-color: black; */
         height: 100vh;
@@ -603,8 +603,8 @@
     } */
     .description-title {
         color: #0B090B;
-        padding-left: 5vw;
-        padding-right: 5vw;
+        padding-left: 3vw;
+        padding-right: 3vw;
         padding-top: 5vh;
         font-size: 36px;
         text-align: center;

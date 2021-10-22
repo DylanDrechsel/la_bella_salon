@@ -1,5 +1,124 @@
+/* iPhone 12 Pro Max / iPhone 13 Pro Max */
+@media only screen and (min-device-width: 415px) and (max-device-width: 430px) and (min-device-height: 897px) and (max-device-height: 940px) {
+    .SalonDiv {
+        height: auto;
+    }
+    .SalonSlideOneDiv {
+        /* background-color: black; */
+        height: 100vh;
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/salon-landing-page-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .SalonSlideOneTitle {
+        /* position: relative; */
+        padding-top: 40vh;
+        text-align: center;
+        font-family: 'Cookie', cursive;
+        color: #0B090B;
+        font-size: 96px;
+    }
+    .DescriptionSlide {
+        height: 60vh;
+        background-color: #F5F5F5
+    }
+    .DescriptionText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 7.5vh;
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
+    .DescriptionSubText {
+        color: #0B090B;
+        /* text-align: center; */
+        padding-top: 35vh;
+        margin-left: 5vw;
+        margin-right: 5vw;
+        font-size: 18px;
+    }
+    .ulist {
+        display: table;
+        margin: 0 auto;
+    }
+    .carousel {
+        margin-left: 1vh;
+        margin-right: 1vh;
+        margin-bottom: 1vh;
+    }
+    .carousel-div {
+        background-color: #F5F5F5;
+    }
+    .haircut-title {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 36px;
+        text-decoration: underline;
+    }
+    .color-highlight-title {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 48px;
+        text-decoration: underline;
+    }
+    .color-highlight-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align: left;
+        font-size: 16px;
+        padding-left: 3vw;
+        position: relative;
+        bottom: 1vh;
+        margin-bottom: 0;
+    }
+    .color-highlight-text-18 {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        text-align: left;
+        font-size: 18px;
+        padding-left: 3vw;
+        position: relative;
+        bottom: 1vh;
+        margin-bottom: 0;
+    }
+    .haircut-title-32 {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 32px;
+        text-decoration: underline;
+    }
+    .haircut-title-big {
+        font-family: 'Cookie', cursive;
+        color: rgb(127, 79, 21);
+        text-align: center;
+        padding-top: 1vh;
+        font-size: 48px;
+        text-decoration: underline;
+    }
+    /* ul {
+        list-style-image: url(../assets/phone_icon.png);
+        height: 5vh !important;
+        width: 5vw !important;
+      } */
+    /* ul li::before {
+        content: "\2022";
+        color: red;
+        font-weight: bold;
+        display: inline-block; 
+        width: 1em;
+        margin-left: -1em;
+      } */    
+}
+
+
 /* iPhone 12 Pro / iPhone 12 / iPhone 13 */
-@media only screen and (width: 390px) and (min-device-height: 812px) and (max-device-height: 896px)  {
+@media only screen and (min-device-width: 389px) and (max-device-width: 399px) and (min-device-height: 801px) and (max-device-height: 896px) {
     .SalonDiv {
         height: auto;
     }
@@ -104,7 +223,7 @@
 }
 
 /* iPhone 11 Pro */
-@media only screen and (width: 375px) and (min-device-height: 812px) and (max-device-height: 896px)  {
+@media only screen and (min-device-width: 375px) and (max-device-width: 389px) and (min-device-height: 801px) and (max-device-height: 896px) {
     .SalonDiv {
         height: auto;
     }
@@ -210,7 +329,7 @@
 }
 
 /* iPhoneXR / iPhone 11 Pro Max / iPhone Xs Max / iPhone 11 */
-@media only screen and (width: 414px) and (min-device-height: 812px) and (max-device-height: 896px) {
+@media only screen and (min-device-width: 400px) and (max-device-width: 414px) and (min-device-height: 801px) and (max-device-height: 896px) {
     .SalonDiv {
         height: auto;
     }

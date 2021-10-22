@@ -87,3 +87,88 @@
         font-size: 72px;
     }
 }
+
+/* Andriod */
+@media only screen and (min-width: 415px) and (max-width: 430px) and (min-height: 897px) and (max-height: 940px) {
+    .contact-us-title {
+        height: 30vh;
+        background-color: #0B090B;
+    }
+    .contact-us-title-text {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5 ;
+        padding-top: 13vh;
+        text-align: center;
+        font-size: 72px;
+    }
+}
+
+@media only screen and (min-width: 389px) and (max-width: 399px) and (min-height: 801px) and (max-height: 896px) {
+    .contact-us-title {
+        height: 30vh;
+        background-color: #0B090B;
+    }
+    .contact-us-title-text {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5 ;
+        padding-top: 13vh;
+        text-align: center;
+        font-size: 72px;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 389px) and (min-height: 801px) and (max-height: 896px) {
+    .contact-us-title {
+        height: 30vh;
+        background-color: #0B090B;
+    }
+    .contact-us-title-text {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5 ;
+        padding-top: 13vh;
+        text-align: center;
+        font-size: 72px;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 801px) and (max-height: 896px) {
+    .contact-us-title {
+        height: 30vh;
+        background-color: #0B090B;
+    }
+    .contact-us-title-text {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5 ;
+        padding-top: 13vh;
+        text-align: center;
+        font-size: 72px;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 700px) and (max-height: 800px) {
+    .contact-us-title {
+        height: 30vh;
+        background-color: #0B090B;
+    }
+    .contact-us-title-text {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5 ;
+        padding-top: 13vh;
+        text-align: center;
+        font-size: 72px;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 399px) and (min-height: 600px) and (max-height: 700px) {
+    .contact-us-title {
+        height: 30vh;
+        background-color: #0B090B;
+    }
+    .contact-us-title-text {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5 ;
+        padding-top: 13vh;
+        text-align: center;
+        font-size: 72px;
+    }
+}

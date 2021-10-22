@@ -656,3 +656,657 @@
         font-size: 17px; 
     }
 }
+
+/* Andriod */
+@media only screen and (min-width: 415px) and (max-width: 430px) and (min-height: 897px) and (max-height: 940px) {
+    .EtiquetteMainDiv {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .SalonEtiquetteDiv {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .EtiquetteTitle {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 72px;
+    }
+    .ArrivalTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ArrivalText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .CancellationsTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CancellationsText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .ChildrenTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ChildrenText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .CellPhonesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CellPhonesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .GiftCertificatesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .GiftCertificatesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 389px) and (max-width: 399px) and (min-height: 801px) and (max-height: 896px) {
+    .EtiquetteMainDiv {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .SalonEtiquetteDiv {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .EtiquetteTitle {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 72px;
+    }
+    .ArrivalTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ArrivalText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .CancellationsTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CancellationsText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .ChildrenTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ChildrenText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .CellPhonesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CellPhonesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .GiftCertificatesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .GiftCertificatesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 389px) and (min-height: 801px) and (max-height: 896px) {
+    .EtiquetteMainDiv {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .SalonEtiquetteDiv {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .EtiquetteTitle {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 60px;
+        text-decoration: underline;
+    }
+    .ArrivalTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ArrivalText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .CancellationsTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CancellationsText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .ChildrenTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ChildrenText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .CellPhonesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CellPhonesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .GiftCertificatesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .GiftCertificatesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 801px) and (max-height: 896px)  {
+    .EtiquetteMainDiv {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .SalonEtiquetteDiv {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .EtiquetteTitle {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 72px;
+    }
+    .ArrivalTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ArrivalText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .CancellationsTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CancellationsText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .ChildrenTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ChildrenText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .CellPhonesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CellPhonesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .GiftCertificatesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .GiftCertificatesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 700px) and (max-height: 800px) {
+    .EtiquetteMainDiv {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .SalonEtiquetteDiv {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+        background-color: #221f22;
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .EtiquetteTitle {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 72px;
+    }
+    .ArrivalTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ArrivalText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .CancellationsTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CancellationsText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .ChildrenTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ChildrenText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .CellPhonesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CellPhonesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .GiftCertificatesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .GiftCertificatesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 399px)  and (min-height: 600px) and (max-height: 700px) {
+    .EtiquetteMainDiv {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .SalonEtiquetteDiv {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .EtiquetteTitle {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 60px;
+        text-decoration: underline;
+    }
+    .ArrivalTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ArrivalText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .CancellationsTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CancellationsText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .ChildrenTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .ChildrenText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .CellPhonesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .CellPhonesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .GiftCertificatesTitle {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .GiftCertificatesText {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}

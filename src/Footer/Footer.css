@@ -294,7 +294,364 @@
 }
 
 /* iPhone 6, 6S, 7, and 8 (Small Cell Phone) */
-@media only screen and (min-device-width: 300px) and (max-device-width: 399px) and (min-device-height: 600px) and (max-device-height: 700px) { 
+@media only screen and (min-width: 300px) and (max-width: 399px) and (min-height: 600px) and (max-height: 700px) { 
+    .FooterOneDiv {
+        height: 32vh;
+        background-color: #0B090B;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 52px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 70vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        /* padding-top: 5vh; */
+        padding-left: 10vw;
+    }
+    .ContactButton {
+        position: relative;
+        bottom: 20vh;
+        height: 7vh;
+        width: 300px
+    }
+    .ContactButtonText {
+        padding-top: .5vh;
+        font-size: 16px;
+    }
+    .TeamButtonDiv {
+        position: relative;
+        top: 20vh;
+        padding-top: 20vh;
+        padding-left: 10vw;
+    }
+    .TeamButtonText {
+        padding-top: .5vh;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    }
+    .FooterThreeDiv {
+        height: auto !important;
+        padding-bottom: 5vh;
+    }
+}
+
+/* Andriod */
+@media only screen and (min-width: 415px) and (max-width: 430px) and (min-height: 897px) and (max-height: 940px) {
+    .FooterOneDiv {
+        height: 27.75vh;
+        background-color: #0B090B;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 60vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        padding-top: 5vh;
+        padding-left: 9vw;
+    }
+    .ContactButton {
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: .8vh;
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-left: 28vw;
+    }
+    .TeamButtonText {
+        padding-top: 1vh;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    }
+}
+
+@media only screen and (min-width: 389px) and (max-width: 399px) and (min-height: 801px) and (max-height: 896px) {
+    .FooterOneDiv {
+        height: auto;
+        background-color: #0B090B;
+        padding-bottom: 2vh;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 60vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        padding-top: 5vh;
+        padding-left: 7vw;
+    }
+    .ContactButton {
+        height: 50px;
+    }
+    .ContactButtonText {
+        padding-top: 3px;
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-left: 28vw;
+    }
+    .TeamButtonText {
+        padding-top: 5px;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 389px) and (min-height: 801px) and (max-height: 896px) {
+    .FooterOneDiv {
+        height: auto;
+        background-color: #0B090B;
+        padding-bottom: 20px;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 66px !important;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: auto !important;
+        background-color: #F5F5F5;
+        padding-bottom: 20px;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        position: relative;
+        right: 5.5vw;
+        padding-left: 13.5vw !important;
+    }
+    .ContactButton {
+        height: 7vh;
+        /* width: 42vh !important; */
+    }
+    .ContactButtonText {
+        padding-top: .8vh;
+        font-size: 18px !important;
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh !important;
+        padding-left: 25vw !important;
+        padding-bottom: 5vh !important;
+    }
+    .TeamButtonText {
+        padding-top: 1vh !important;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 801px) and (max-height: 896px) {
+    .FooterOneDiv {
+        height: 27.75vh;
+        background-color: #0B090B;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 60vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        padding-top: 5vh;
+        padding-left: 9vw;
+    }
+    .ContactButton {
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: .8vh;
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-left: 28vw;
+    }
+    .TeamButtonText {
+        padding-top: 1vh;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 700px) and (max-height: 800px) {
+    .FooterOneDiv {
+        height: 32vh;
+        background-color: #0B090B;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 60vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        padding-bottom: 25px;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        padding-top: 5vh;
+        padding-left: 9.5vw;
+    }
+    .ContactButton {
+        position: relative;
+        bottom: 10vh;
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: .5vh;
+    }
+    .TeamButtonDiv {
+        padding-top: 10vh;
+        padding-left: 28vw;
+    }
+    .TeamButtonText {
+        padding-top: .75vh;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 399px) and (min-height: 600px) and (max-height: 700px) { 
     .FooterOneDiv {
         height: 32vh;
         background-color: #0B090B;

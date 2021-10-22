@@ -325,3 +325,321 @@
     0%   { opacity: 0; }
     100% { opacity: 1; }
 }
+
+/* Andriod */
+@media only screen and (min-width: 415px) and (max-width: 430px) and (min-height: 897px) and (max-height: 940px) {
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 50px;
+        /* overflow: hidden; */
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+        /* bottom: 50px */
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        bottom: 18px !important;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        bottom: .8vh !important;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        bottom: .2vh !important;
+    }
+}
+
+@media only screen and (min-width: 389px) and (max-width: 399px) and (min-height: 801px) and (max-height: 896px) {
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 50px;
+        /* overflow: hidden; */
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+        /* bottom: .5vh */
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        top: -25px;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        bottom: .8vh !important;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        top: .25vh !important;
+    }    
+}
+
+@media only screen and (min-width: 375px) and (max-width: 389px) and (min-height: 801px) and (max-height: 896px) {
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 50px;
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+        /* bottom: 1vh; */
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        top: -10px !important;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        bottom: 1.25vh !important;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 801px) and (max-height: 896px) {
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 50px;
+        /* overflow: hidden; */
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+        /* bottom: 50px */
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        bottom: 18px !important;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        bottom: .8vh !important;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        bottom: .2vh !important;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 700px) and (max-height: 800px) {
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 6vh;
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        top: -2vh;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        bottom: .8vh !important;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        bottom: 1vh !important;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 399px) and (min-height: 600px) and (max-height: 700px) {
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 8vh;
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        top: -2vh;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        bottom: 1.25vh !important;
+    }
+}

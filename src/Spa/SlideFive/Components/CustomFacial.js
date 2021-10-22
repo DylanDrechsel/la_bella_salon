@@ -4,7 +4,7 @@ import { Row, Col } from 'react-bootstrap'
 const CustomFacial = () => {
     return (
         <div className='CustomFacialDiv'>
-            <h1 className='SpaServiceTitle' /* style={{ fontSize: '52px'}} */> <b> ~Custom Facial~ from...</b> </h1>
+            <h1 className='SpaServiceTitle SpaServiceTitleCustomFacial' /* style={{ fontSize: '52px'}} */> <b> ~Custom Facial~ from...</b> </h1>
 
             <h3 className='SpaServiceSubTitle'> <b> ~~Tailored to your Skin Type~~ <br /> ~Sensitive~Firm~Tone~Hydrating~ <br /> ~Anti Aging~Blemish~Microderm~ </b> </h3>
 

@@ -59,8 +59,9 @@
 /* iPhone 11 Pro */
 @media only screen and (width: 375px) and (min-device-height: 812px) and (max-device-height: 896px)  {
     .FooterOneDiv {
-        height: 27.75vh;
+        height: auto;
         background-color: #0B090B;
+        padding-bottom: 20px;
     }
     .FooterOneTitle {
         font-family: 'Cookie', cursive;
@@ -71,8 +72,9 @@
         margin-right: 2vw;
     }
     .FooterTwoDiv {
-        height: 55vh !important;
-        background-color: #F5F5F5 ;
+        height: auto !important;
+        background-color: #F5F5F5;
+        padding-bottom: 20px;
     }
     .FooterTwoText {
         color: #0B090B;
@@ -86,8 +88,7 @@
     .ContactButtonDiv {
         position: relative;
         right: 5.5vw;
-        padding-top: 25vh;
-        padding-left: 10vw !important;
+        padding-left: 13.5vw !important;
     }
     .ContactButton {
         height: 7vh;
@@ -95,11 +96,12 @@
     }
     .ContactButtonText {
         padding-top: .8vh;
-        font-size: 20px !important;
+        font-size: 18px !important;
     }
     .TeamButtonDiv {
         padding-top: 5vh !important;
         padding-left: 25vw !important;
+        padding-bottom: 5vh !important;
     }
     .TeamButtonText {
         padding-top: 1vh !important;
@@ -175,7 +177,7 @@
 }
 
 /* iPhone 6+, 7+, 8+ */
-@media only screen and (width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
+@media only screen and (min-device-width: 400px) and (max-device-width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
     .FooterOneDiv {
         height: 32vh;
         background-color: #0B090B;
@@ -212,14 +214,14 @@
         height: 7vh;
     }
     .ContactButtonText {
-        padding-top: .8vh;
+        padding-top: .5vh;
     }
     .TeamButtonDiv {
         padding-top: 10vh;
         padding-left: 28vw;
     }
     .TeamButtonText {
-        padding-top: 1vh;
+        padding-top: .75vh;
         font-size: 18px;
     }
     .InstagramIcon {

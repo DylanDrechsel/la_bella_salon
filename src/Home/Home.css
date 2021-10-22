@@ -128,7 +128,7 @@
     } */
 }
 
-/* iPhone 11 Pro */
+/* iPhone 11 Pro, iPhone XS */
 @media only screen and (width: 375px) and (min-device-height: 812px) and (max-device-height: 896px) {
     .SlideOneDiv {
         height: 812px;
@@ -155,10 +155,10 @@
         top: 1vh;
     }
     .home-description-slide {
-        height: 120vh;
+        height: auto;
         width: 100vw;
         background-color: #F5F5F5;
-        /* padding-bottom: 5vh; */
+        padding-bottom: 5vh;
     }
     .home-picture-slide {
         height: 60vh;
@@ -381,7 +381,7 @@
 }
 
 /* iPhone 6+, 7+, 8+ */
-@media only screen and (width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
+@media only screen and (min-device-width: 400px) and (max-device-width: 414px) and (width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
     .SlideOneDiv {
         height: 100vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);

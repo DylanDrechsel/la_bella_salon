@@ -1525,8 +1525,8 @@
         text-align: center;
         /* padding-top: 2.5vh; */
         font-size: 24px;
-        margin-left: 1.25vw;
-        margin-right: 1.25vw;
+        margin-left: 15.25vw;
+        margin-right: 15.25vw;
     }
     .SpaSlideThreeDiv {
         height: auto;
@@ -1645,7 +1645,7 @@
         line-height: 10px !important;
     }
     .SpaSlideSixDiv {
-        height: 40vh;
+        height: 22vh;
         background-color: #0B090B;
     }
     .SpaSildeSixTitle {
@@ -1653,7 +1653,7 @@
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
-        font-size: 72px;
+        font-size: 60px;
     }
     .SpaSlideSevenDiv {
         height: auto;
@@ -1784,7 +1784,7 @@
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
-        font-size: 20px;
+        font-size: 16px;
         padding-right: 3vw;
         position: relative;
         bottom: 1vh;
@@ -1793,7 +1793,7 @@
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
-        font-size: 12px;
+        font-size: 14px;
         padding-left: 3vw;
         position: relative;
         bottom: 1vh;

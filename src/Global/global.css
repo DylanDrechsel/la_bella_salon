@@ -55,7 +55,54 @@
 
 /* iPhone 11 Pro */
 @media only screen and (width: 375px) and (min-device-height: 812px) and (max-device-height: 896px)  {
-
+    html:not([data-scroll='0']) .Navbar {
+        background-color: #b78d2a;
+        animation: fadeIn .5s ease-in;
+        height: 6vh;
+    }
+    html:not([data-scroll='0']) .NavbarTitle {
+        display: inline;
+        position: relative;
+    }
+    html:not([data-scroll='0']) .NavbarToggle {
+        display: inline;
+        position: relative;
+        bottom: .5vh;
+    }
+    html:not([data-scroll='0']) .MenuImageDiv {
+        height: .01px;
+        position: relative;
+        top: -1.5vh;
+    }
+    .Navbar {
+        background-color: #b78d2a00;
+    }
+    .NavbarTitle {
+        display: none;
+    }
+    .MenuImageDiv {
+        height: .01px;
+        position: relative;
+    }
+    .Modal {
+        margin-top: 10vh;
+    }
+    .MenuLink {
+        color: #F5F5F5;
+        text-decoration: none;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+    }
+    .MenuText {
+        font-size: 36px;
+    }
+    .ModalBody {
+        background-color: rgb(127, 79, 21);
+    }
+    .menu-button {
+        position: relative;
+        bottom: 1.25vh !important;
+    }
 }
 
 /* iPhoneXR / iPhone 11 Pro Max / iPhone Xs Max / iPhone 11 */
@@ -114,7 +161,7 @@
 }
 
 /* iPhone 6+, 7+, 8+ */
-@media only screen and (width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
+@media only screen and (min-device-width: 400px) and (max-device-width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
     html:not([data-scroll='0']) .Navbar {
         background-color: #b78d2a;
         animation: fadeIn .5s ease-in;

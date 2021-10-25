@@ -1,3 +1,84 @@
+@media only screen and (min-device-width: 739px) {
+    .SlideOneDiv {
+        /* background-color: black; */
+        width: 100vw;
+        height: 100vh;
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .LaBellaLogo {
+        position: relative;
+        width: 50vw;
+        margin-bottom: 10vh;
+        display: inline-block;
+        left: 25vw;
+    }
+    .SlideTwoDiv {
+        height: 115px;
+        background-color: #0B090B;
+    }
+    .SlideTwoText {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .home-description-slide {
+        height: auto;
+        width: 100vw;
+        background-color: #F5F5F5;
+        padding-bottom: 5vh;
+    }
+    .home-picture-slide {
+        height: 60vh;
+        width: 729px !important;
+        background-image: url(../assets/carousel-one.jpg);
+        background-position-y: center;
+        background-size: cover;
+        margin: auto;
+    }
+    .our-services-title-div {
+        height: 12vh;
+        background-color: #0B090B;
+    }
+    .our-services-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .description-title {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 36px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .description-text {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .home-main-div {
+        height: auto;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+}
+
 /* iPhone 12 Pro Max / iPhone 13 Pro Max */
 @media only screen and (min-device-width: 415px) and (max-device-width: 430px) and (min-device-height: 897px) and (max-device-height: 940px) {
     .SlideOneDiv {

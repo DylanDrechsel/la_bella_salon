@@ -1,3 +1,17 @@
+@media only screen and (min-device-width: 739px) {
+    .contact-us-title {
+        height: 30vh;
+        background-color: #0B090B;
+    }
+    .contact-us-title-text {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5 ;
+        padding-top: 13vh;
+        text-align: center;
+        font-size: 72px;
+    }
+}
+
 /* iPhone 12 Pro Max / iPhone 13 Pro Max */
 @media only screen and (min-device-width: 415px) and (max-device-width: 430px) and (min-device-height: 897px) and (max-device-height: 940px) {
     .contact-us-title {

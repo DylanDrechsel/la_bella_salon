@@ -12,7 +12,8 @@
         margin-right: 2vw;
     }
     .FooterTwoDiv {
-        height: 60vh;
+        margin: 0 auto;
+        height: 50vh;
         background-color: #F5F5F5 ;
     }
     .FooterTwoText {
@@ -46,7 +47,7 @@
     .InstagramIcon {
         height: 5vh;
         position: relative;
-        left: 15vw;
+        left: 22vw;
     }
     .FacebookIcon {
         height: 5vh;

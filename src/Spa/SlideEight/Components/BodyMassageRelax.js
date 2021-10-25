@@ -36,7 +36,7 @@ const BodyMassageRelax = () => {
 
                     <Col className='SpaServicesCol' xs={4}>
                         <p className='SpaServicesTextMiddle' style={{ paddingRight: '35.5px' }}>
-                            <b> 1/2 Hr. </b>
+                            <b> <span className='body-massage-middle-text-change'> 1/2 Hr. </span>  </b>
                         </p>
                     </Col>
 

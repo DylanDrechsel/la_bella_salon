@@ -33,8 +33,8 @@
         padding-bottom: 5vh;
     }
     .home-picture-slide {
-        height: 60vh;
-        width: 729px !important;
+        height: 900px;
+        width: 739px !important;
         background-image: url(../assets/carousel-one.jpg);
         background-position-y: center;
         background-size: cover;
@@ -76,6 +76,51 @@
         height: auto;
         overflow-y: hidden;
         overflow-x: hidden;
+    }
+    .home-hair-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-hair-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-mani-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/mani-pedi-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-spa-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-spa-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-photo-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 15vh;
+    }
+    .home-mani-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 6vh;
+    }
+    .marker {
+        color: #F5F5F5;
+    }
+    .map-pin {
+        /* position: absolute; */
+        height: 5vh;
+        margin-left: 50px;
     }
 }
 

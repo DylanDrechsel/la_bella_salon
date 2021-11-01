@@ -134,11 +134,11 @@
     }
     .LaBellaLogo {
         position: relative;
-        right: 20vw;
+        right: 75px;
         margin-bottom: 10vh;
     }
     .SlideTwoDiv {
-        height: 25vh;
+        height: 23vh;
         background-color: #0B090B;
     }
     .SlideTwoText {
@@ -162,7 +162,7 @@
         background-size: cover;
     }
     .our-services-title-div {
-        height: 12vh;
+        height: 11.5vh;
         background-color: #0B090B;
     }
     .our-services-title {

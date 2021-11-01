@@ -13,11 +13,11 @@ const SlideThree = () => {
                 <h1 className='FooterThreeHours'> <b> Hours </b> </h1>
 
                 <p className='HoursText'> Sunday & Monday: CLOSED</p>
-                <p className='HoursText'> Tuesday: 9:00am - 8:00pm </p>
+                <p className='HoursText'> Tuesday: 9:00am - 6:00pm </p>
                 <p className='HoursText'> Wednesday: 9:00am - 8:00pm </p>
-                <p className='HoursText'> Thursday: 9:00am - 10:00pm </p>
-                <p className='HoursText'> Friday: 9:00am - 6:00pm </p>
-                <p className='HoursText'> Saturday: 8:00am - 5:00pm</p>
+                <p className='HoursText'> Thursday: 9:00am - 8:00pm </p>
+                <p className='HoursText'> Friday: 9:00am - 5:00pm </p>
+                <p className='HoursText'> Saturday: 9:00am - 5:00pm</p>
             </div>
 
             <div className='VisitUsDiv'>
@@ -39,7 +39,7 @@ const SlideThree = () => {
                     </Col>
 
                     <Col xs={7}>
-                        <p className='VisitUsText'> 1237 US-22, Lebanon, NJ 08833 </p>
+                        <p className='VisitUsText'> LaBellaSalonandSpaNj@gmail.com </p>
                     </Col>
                 </Row>
 
@@ -64,7 +64,7 @@ const SlideThree = () => {
                         </Col>
 
                         <Col xs={9}>
-                            <a href=''>
+                            <a href='https://www.facebook.com/labellasalonandspa/'>
                                 <img className='FacebookIcon' src={FacebookLogo}/>
                             </a>
                         </Col>

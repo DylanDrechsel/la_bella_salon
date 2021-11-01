@@ -124,6 +124,367 @@
     }
 }
 
+/* iPhone 13 Pro Max and iPhone 12 Pro Max */
+@media only screen and (device-width: 428px) and (device-height: 926px) {
+    .SlideOneDiv {
+        height: 100vh;
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .LaBellaLogo {
+        position: relative;
+        right: 20vw;
+        margin-bottom: 10vh;
+    }
+    .SlideTwoDiv {
+        height: 25vh;
+        background-color: #0B090B;
+    }
+    .SlideTwoText {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .home-description-slide {
+        height: auto;
+        width: 100vw;
+        background-color: #F5F5F5;
+        padding-bottom: 5vh;
+    }
+    .home-picture-slide {
+        height: 60vh;
+        background-image: url(../assets/carousel-one.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .our-services-title-div {
+        height: 12vh;
+        background-color: #0B090B;
+    }
+    .our-services-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .home-hair-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-hair-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-mani-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/mani-pedi-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-spa-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-spa-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-photo-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 15vh;
+    }
+    .home-mani-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 6vh;
+    }
+    .marker {
+        color: #F5F5F5;
+    }
+    .map-pin {
+        height: 5vh;
+        margin-left: 50px;
+    }
+    .description-title {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 36px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .description-text {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .home-main-div {
+        height: auto;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+}
+
+/* iPhone 11, iPhone XR, iPhone 11 Pro Max and iPhone Xs Max */
+@media only screen and (device-width: 414px) and (device-height: 896px) {
+    .SlideOneDiv {
+        height: 100vh;
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .LaBellaLogo {
+        position: relative;
+        right: 20vw;
+        margin-bottom: 10vh;
+    }
+    .SlideTwoDiv {
+        height: 25vh;
+        background-color: #0B090B;
+    }
+    .SlideTwoText {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .home-description-slide {
+        height: auto;
+        width: 100vw;
+        background-color: #F5F5F5;
+        padding-bottom: 5vh;
+    }
+    .home-picture-slide {
+        height: 60vh;
+        background-image: url(../assets/carousel-one.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .our-services-title-div {
+        height: 12vh;
+        background-color: #0B090B;
+    }
+    .our-services-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .home-hair-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-hair-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-mani-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/mani-pedi-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-spa-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-spa-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-photo-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 15vh;
+    }
+    .home-mani-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 6vh;
+    }
+    .marker {
+        color: #F5F5F5;
+    }
+    .map-pin {
+        height: 5vh;
+        margin-left: 50px;
+    }
+    .description-title {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 36px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .description-text {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .home-main-div {
+        height: auto;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+}
+
+/* iPhone 13, iPhone 12 and iPhone 12 Pro */
+@media only screen and (device-width: 390px) and (device-height: 844px) {
+    .SlideOneDiv {
+        height: 844px;
+        background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/bayalage-windowwall-salon-services.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .LaBellaLogo {
+        position: relative;
+        right: 23vw;
+        margin-bottom: 10vh;
+    }
+    .SlideTwoDiv {
+        height: auto;
+        background-color: #0B090B;
+        padding-bottom: 3vh;
+    }
+    .SlideTwoText {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .home-description-slide {
+        height: auto;
+        width: 100vw;
+        background-color: #F5F5F5;
+        padding-bottom: 5vh;
+    }
+    .home-picture-slide {
+        height: 60vh;
+        background-image: url(../assets/carousel-one.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .our-services-title-div {
+        height: 12vh;
+        background-color: #0B090B;
+    }
+    .our-services-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 72px;
+        position: relative;
+        top: 1vh;
+    }
+    .home-hair-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-hair-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-mani-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/mani-pedi-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-spa-photo {
+        height: 40vh;
+        background: rgb(0, 0, 0);
+        background-image: linear-gradient(rgba(0,0,0, 0.35), rgba(0, 0, 0, 0.35)), url(../assets/home-spa-photo.jpg);
+        background-position-y: center;
+        background-size: cover;
+    }
+    .home-photo-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 15vh;
+    }
+    .home-mani-title {
+        color: #F5F5F5;
+        font-family: 'Cookie', cursive;
+        text-align: center;
+        font-size: 60px;
+        position: relative;
+        top: 6vh;
+    }
+    .marker {
+        color: #F5F5F5;
+    }
+    .map-pin {
+        height: 5vh;
+        margin-left: 50px;
+    }
+    .description-title {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 36px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .description-text {
+        color: #0B090B;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 5vh;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+    }
+    .home-main-div {
+        height: auto;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+}
+
 /* iPhone 13 mini, iPhone 12 mini, iPhone 11 Pro, iPhone Xs, and iPhone X */
 @media only screen and (device-width: 375px) and (device-height: 812px) { 
     .SlideOneDiv {

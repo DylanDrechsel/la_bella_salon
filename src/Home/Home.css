@@ -736,11 +736,10 @@
     .LaBellaLogo {
         width: 150vw;
         position: relative;
-        right: 26vw;
-        margin-bottom: 10vh;
+        right: 25vw;
     }
     .SlideTwoDiv {
-        height: 28vh;
+        height: 27vh;
         background-color: #0B090B;
     }
     .SlideTwoText {

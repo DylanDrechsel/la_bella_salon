@@ -617,10 +617,9 @@
     .LaBellaLogo {
         position: relative;
         right: 20vw;
-        margin-bottom: 10vh;
     }
     .SlideTwoDiv {
-        height: 27vh;
+        height: 28vh;
         background-color: #0B090B;
     }
     .SlideTwoText {
@@ -635,6 +634,7 @@
         height: auto;
         width: 100vw;
         background-color: #F5F5F5;
+        padding-bottom: 5vh;
     }
     .home-picture-slide {
         height: 60vh;
@@ -643,7 +643,7 @@
         background-size: cover;
     }
     .our-services-title-div {
-        height: 12vh;
+        height: 14vh;
         background-color: #0B090B;
     }
     .our-services-title {
@@ -713,7 +713,6 @@
         padding-left: 5vw;
         padding-right: 5vw;
         padding-top: 5vh;
-        padding-bottom: 50px;
         font-size: 18px;
         text-align: center;
         font-weight: 700;

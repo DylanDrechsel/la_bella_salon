@@ -4,7 +4,7 @@ import { Row, Col } from 'react-bootstrap'
 const SkinCare = () => {
     return (
         <div className='SkinCareDiv'>
-            <h1 className='SpaServiceTitle'> <b> ~Skin Care~ from...</b> </h1>
+            <h1 className='SpaServiceTitle'> <b> ~Skin Care~</b> </h1>
 
             <div className='Prices'>
                 <Row>
@@ -22,7 +22,7 @@ const SkinCare = () => {
 
                     <Col xs={4} className='SpaServicesCol'>
                         <p className='SpaServicesTextRight'>
-                            <b> $18 </b>
+                            <b> $58 </b>
                         </p>
                     </Col>
                 </Row>

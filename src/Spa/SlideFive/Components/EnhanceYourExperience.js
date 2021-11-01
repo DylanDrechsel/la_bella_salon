@@ -25,7 +25,7 @@ const EnhanceYourExperience = () => {
                 <Row>
                     <Col className='SpaServicesCol'>
                         <p className='SpaServicesTextLeft'>
-                            <b> Eyebrows </b>
+                            <b> Eyebrow Tint </b>
                         </p>
                     </Col>
 
@@ -39,7 +39,7 @@ const EnhanceYourExperience = () => {
                 <Row>
                     <Col className='SpaServicesCol'>
                         <p className='SpaServicesTextLeft'>
-                            <b> Eyebrow With Lash Tint </b>
+                            <b> Eyebrow with Lash Tint </b>
                         </p>
                     </Col>
 

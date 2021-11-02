@@ -381,6 +381,7 @@
         background-color: #b78d2a;
         animation: fadeIn .5s ease-in;
         height: 50px;
+        position: absolute;
         /* overflow: hidden; */
     }
     html:not([data-scroll='0']) .navbar-title {

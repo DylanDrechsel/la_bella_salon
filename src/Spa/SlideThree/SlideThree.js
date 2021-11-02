@@ -1,11 +1,11 @@
 import React from 'react';
-import SpaRoom from '../../assets/spa_room_la_bella.jpg'
+import SpaRoomPicture from '../../assets/spa_room_la_bella.jpg'
 
 const SlideThree = () => {
     return (
         // Picture of Spa Room
-        <div className='SpaSlideThreeDiv'>
-            <img className='SpaRoomPicture' src={SpaRoom} />
+        <div className='spa-slide-three-div'>
+            <img className='spa-room-picture' src={SpaRoomPicture} />
         </div>
     );
 };

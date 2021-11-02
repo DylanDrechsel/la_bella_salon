@@ -7,8 +7,8 @@ import EnhanceYourExperience from './Components/EnhanceYourExperience';
 
 const SlideFive = () => {
     return (
-        <div className='SpaSlideFiveDiv'>
-            <div className="SpaServiceDiv">
+        <div className='spa-slide-five-div'>
+            <div className="spa-service-div">
                 <Waxing />
                 <SkinCare />
                 <CustomFacial />

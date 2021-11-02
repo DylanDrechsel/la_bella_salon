@@ -2,8 +2,8 @@ import React from 'react';
 
 const SlideOne = () => {
     return (
-        <div className='Spaslide-one-div'>
-            <h1 className='SpaSlideOneTitle'> <b> Spa </b> </h1>
+        <div className='spa-slide-one-div'>
+            <h1 className='spa-slide-one-title'> <b> Spa </b> </h1>
         </div>
     );
 };

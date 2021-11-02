@@ -3,8 +3,8 @@ import Swedish from './Components/Swedish';
 
 const SlideNine = () => {
     return (
-        <div className='SpaSlideSevenDiv' style={{ paddingTop: '10px'}}>
-            <div className="SpaServiceDiv">
+        <div className='spa-slide-seven-div' style={{ paddingTop: '10px'}}>
+            <div className="spa-service-div">
                 <Swedish />
             </div>
         </div>

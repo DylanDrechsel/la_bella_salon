@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button, Row } from 'react-bootstrap'
 
-const contact-button = () => {
+const ContactButton = () => {
     return (
         <div className='contact-button-div'>
            
@@ -11,4 +11,4 @@ const contact-button = () => {
     );
 };
 
-export default contact-button;
+export default ContactButton;

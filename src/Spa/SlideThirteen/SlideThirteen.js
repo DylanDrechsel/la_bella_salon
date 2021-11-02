@@ -3,8 +3,8 @@ import Reflexology from './Components/Reflexology';
 
 const SlideThirteen = () => {
     return (
-        <div className='SpaSlideSevenDiv' style={{ paddingTop: '10px', paddingBottom: '5vh'}}>
-            <div className="SpaServiceDiv">
+        <div className='spa-slide-seven-div' style={{ paddingTop: '10px', paddingBottom: '5vh'}}>
+            <div className="spa-service-div">
                 <Reflexology />
             </div>
         </div>

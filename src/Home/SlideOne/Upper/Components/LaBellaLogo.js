@@ -4,8 +4,8 @@ import ContactButton from '../../../../Footer/Components/ContactButton';
 
 const LaBellaLogo = () => {
     return (
-        <div className='LaBellaLogoDiv'>
-            <img className='LaBellaLogo' src={Logo} alt="La Bella Salon and Spa" width="575px" height="600px"></img>
+        <div className='la-bella-logoDiv'>
+            <img className='la-bella-logo' src={Logo} alt="La Bella Salon and Spa" width="575px" height="600px"></img>
 
             <div className='home-contact-button'>
                 <ContactButton />

@@ -5,7 +5,7 @@ import LaBellaLogo from './Upper/Components/LaBellaLogo';
 
 const SlideOne = () => {
     return (
-        <div className='SlideOneDiv'>
+        <div className='slide-one-div'>
             <LaBellaLogo />
         </div>
     );

@@ -2,8 +2,8 @@ import React from 'react';
 
 const SlideTwo = () => {
     return (
-        <div className='SlideTwoDiv'>
-            <h1 className='SlideTwoText'> We Specialize in You!</h1>
+        <div className='slide-two-div'>
+            <h1 className='slide-two-text'> We Specialize in You!</h1>
         </div>
     );
 };

@@ -59,13 +59,13 @@ const SlideThree = () => {
                     <Row style={{ paddingLeft: '22vw'}}>
                         <Col xs={2}>
                             <a href=''>
-                                <img className='InstagramIcon' src={InstagramLogo}/>
+                                <img className='instagram-icon' src={InstagramLogo}/>
                             </a>
                         </Col>
 
                         <Col xs={9}>
                             <a href='https://www.facebook.com/labellasalonandspa/'>
-                                <img className='FacebookIcon' src={FacebookLogo}/>
+                                <img className='facebook-icon' src={FacebookLogo}/>
                             </a>
                         </Col>
                     </Row>

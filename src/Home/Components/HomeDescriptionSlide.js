@@ -1,5 +1,5 @@
 import React from 'react';
-import ContactButton from '../../Footer/Components/ContactButton';
+import contact-button from '../../Footer/Components/contact-button';
 import TeamButton from '../../Footer/Components/TeamButton';
 
 const HomeDescriptionSlide = () => {
@@ -19,7 +19,7 @@ const HomeDescriptionSlide = () => {
 
 
             <TeamButton />
-            <ContactButton />
+            <contact-button />
         </div>
     );
 };

@@ -648,7 +648,7 @@
 /* iPhone 13 mini, iPhone 12 mini, iPhone 11 Pro, iPhone Xs, and iPhone X */
 @media only screen and (device-width: 375px) and (device-height: 812px) {
     .FooterOneDiv {
-        height: 32vh;
+        height: 30vh;
         background-color: #0B090B;
     }
     .FooterOneTitle {
@@ -667,24 +667,25 @@
         color: #0B090B;
         text-align: center;
         padding-top: 10vh;
+        padding-bottom: 10vh;
         font-size: 24px;
         font-family: 'Raleway', sans-serif;
         margin-left: 6vw;
         margin-right: 6vw;
     }
     .ContactButtonDiv {
-        padding-left: 5vw;
+        padding-left: 10vw;
     }
     .ContactButton {
         height: 7vh;
     }
     .ContactButtonText {
-        padding-top: 4px;
+        padding-top: 7px;
     }
     .TeamButtonDiv {
         padding-top: 5vh;
         padding-bottom: 2vh;
-        padding-left: 26.5vw;
+        padding-left: 10vw;
     }
     .TeamButtonText {
         padding-top: 5px;

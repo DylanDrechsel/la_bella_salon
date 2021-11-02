@@ -1214,7 +1214,7 @@
     }
     .LaBellaLogo {
         position: relative;
-        right: 27vw;
+        right: 25vw;
         margin-bottom: 10vh;
     }
     .SlideTwoDiv {
@@ -1313,6 +1313,7 @@
         padding-left: 5vw;
         padding-right: 5vw;
         padding-top: 5vh;
+        padding-bottom: 10vh;
         font-size: 18px;
         text-align: center;
         font-weight: 700;

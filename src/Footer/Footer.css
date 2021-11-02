@@ -405,7 +405,8 @@
         position: relative;
         left: 19vw;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: auto !important;
         padding-bottom: 5vh;
     }

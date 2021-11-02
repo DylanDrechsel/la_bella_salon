@@ -1,12 +1,12 @@
 @media only screen and (min-device-width: 739px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -14,18 +14,18 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: .5vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -34,14 +34,14 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -50,20 +50,20 @@
         height: 15vh;
         background-color: #0B090B;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -74,10 +74,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -85,7 +85,7 @@
         font-size: 60px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -95,7 +95,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -104,7 +104,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -112,7 +112,7 @@
         text-align:right;
         font-size: 24px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -122,7 +122,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -131,7 +131,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -139,7 +139,7 @@
         text-align:right;
         font-size: 24px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 24px; 
@@ -147,25 +147,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -176,7 +176,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -185,19 +185,19 @@
         font-size: 60px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 24px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 24px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -207,7 +207,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -217,7 +217,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -226,7 +226,8 @@
         font-size: 24px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -234,7 +235,8 @@
         font-size: 60px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -244,7 +246,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -253,7 +256,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -262,7 +266,8 @@
         font-size: 24px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -270,7 +275,8 @@
         font-size: 60px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -278,7 +284,8 @@
         font-size: 60px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -290,7 +297,8 @@
     .body-massage-middle-text-change {
         padding-right: 5vw !important;
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -299,7 +307,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -309,7 +318,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -317,7 +327,8 @@
         font-size: 60px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -325,7 +336,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -333,45 +345,49 @@
         font-size: 60px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: 100vh;
         background-color: #0B090B;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
     }
-    .LocationPin {
+    .location-pin
+ {
         position: relative;
         height: 5vh;
         left: 17.5vw;
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         left: 17vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         left: 17vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
         text-align: center;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -382,14 +398,14 @@
 
 /* Andriod */
 @media only screen and (min-width: 415px) and (max-width: 430px) and (min-height: 897px) and (max-height: 940px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -397,18 +413,18 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 25vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -417,14 +433,14 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -433,20 +449,20 @@
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -457,10 +473,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -468,7 +484,7 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -478,7 +494,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -487,7 +503,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -495,7 +511,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -505,7 +521,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -514,7 +530,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -522,7 +538,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -530,25 +546,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -559,7 +575,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -568,19 +584,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -590,7 +606,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -600,7 +616,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -609,7 +625,7 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -617,7 +633,7 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -627,7 +643,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -636,7 +652,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -645,7 +661,7 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -653,7 +669,7 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -661,7 +677,7 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -669,7 +685,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -678,7 +694,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -688,7 +704,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -696,7 +712,7 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -704,7 +720,7 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -712,44 +728,44 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div {
         height: 95vh;
         background-color: #0B090B;
     }
-    .FooterThreeHours {
+    .footer-three-hours {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -758,14 +774,14 @@
 }
 
 @media only screen and (min-width: 389px) and (max-width: 399px) and (min-height: 801px) and (max-height: 896px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -773,18 +789,18 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 25vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -793,14 +809,14 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -810,20 +826,20 @@
         background-color: #0B090B;
         padding-bottom: 1vh;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -834,10 +850,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -845,7 +861,7 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -855,7 +871,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -864,7 +880,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -872,7 +888,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -882,7 +898,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -891,7 +907,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -899,7 +915,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -907,25 +923,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -936,7 +952,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -945,19 +961,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -967,7 +983,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -977,7 +993,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -986,7 +1002,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -994,7 +1011,8 @@
         font-size: 36px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1004,7 +1022,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1013,7 +1032,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1022,7 +1042,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1030,7 +1051,8 @@
         font-size: 26px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1038,7 +1060,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1046,7 +1069,8 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1055,7 +1079,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1065,7 +1090,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1073,7 +1099,8 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1081,7 +1108,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1089,45 +1117,49 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: auto;
         background-color: #0B090B;
         padding-bottom: 5vh;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -1136,14 +1168,14 @@
 }
 
 @media only screen and (min-width: 375px) and (max-width: 389px) and (min-height: 801px) and (max-height: 896px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -1151,19 +1183,19 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: auto;
         background-color: #0B090B;
         padding-bottom: 20px;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -1172,14 +1204,14 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -1189,20 +1221,20 @@
         background-color: #0B090B;
         padding-bottom: 20px;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -1213,10 +1245,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1224,10 +1256,10 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaServiceTitleCustomFacial {
+    .spa-service-titleCustomFacial {
         font-size: 40px;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1237,7 +1269,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1246,7 +1278,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -1254,7 +1286,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1264,7 +1296,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1273,7 +1305,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1281,7 +1313,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -1289,25 +1321,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -1318,7 +1350,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -1327,19 +1359,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1349,7 +1381,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1359,7 +1391,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1368,7 +1400,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1376,7 +1409,8 @@
         font-size: 36px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1386,7 +1420,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1395,7 +1430,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1404,7 +1440,8 @@
         font-size: 13px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1412,7 +1449,8 @@
         font-size: 24px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1420,7 +1458,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1428,7 +1467,8 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1437,7 +1477,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1447,7 +1488,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1455,7 +1497,8 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1463,7 +1506,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1471,45 +1515,49 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: auto;
         background-color: #0B090B;
         padding-bottom: 20px;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -1518,14 +1566,14 @@
 }
 
 @media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 801px) and (max-height: 896px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -1533,18 +1581,18 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 25vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -1553,14 +1601,14 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -1569,20 +1617,20 @@
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -1593,10 +1641,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1604,7 +1652,7 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1614,7 +1662,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1623,7 +1671,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -1631,7 +1679,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1641,7 +1689,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1650,7 +1698,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1658,7 +1706,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -1666,25 +1714,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -1695,7 +1743,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -1704,19 +1752,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1726,7 +1774,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1736,7 +1784,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1745,7 +1793,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1753,7 +1802,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1763,7 +1813,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1772,7 +1823,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1781,7 +1833,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1789,7 +1842,8 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1797,7 +1851,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -1805,7 +1860,8 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1814,7 +1870,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1824,7 +1881,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1832,7 +1890,8 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1840,7 +1899,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1848,44 +1908,48 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: 95vh;
         background-color: #0B090B;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -1894,31 +1958,31 @@
 }
 
 @media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 700px) and (max-height: 800px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         padding-top: 27.5vh;
         text-align: center;
         font-family: 'Cookie', cursive;
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 25vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 3vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -1926,11 +1990,11 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -1939,30 +2003,30 @@
         height: 24vh;
         background-color: #0B090B;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         margin-left: 1.5vw;
         background-color: #221f22;
         height: auto;
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -1970,7 +2034,7 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -1980,7 +2044,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -1989,7 +2053,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -1997,7 +2061,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2007,7 +2071,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2016,7 +2080,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2024,7 +2088,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -2032,32 +2096,32 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        margin-left: 1.5vw;
        background-color: #221f22;
        height: auto;
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2065,19 +2129,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2087,7 +2151,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2096,7 +2160,7 @@
         position: relative;
         bottom: 1vh; 
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2105,7 +2169,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2113,7 +2178,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2123,7 +2189,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2132,7 +2199,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2141,7 +2209,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2149,7 +2218,8 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2157,7 +2227,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2165,7 +2236,8 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2174,7 +2246,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2184,7 +2257,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2192,7 +2266,8 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2200,7 +2275,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2208,43 +2284,47 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: auto;
         background-color: #0B090B;
         padding-bottom: 25px;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -2253,14 +2333,14 @@
 }
 
 @media only screen and (min-width: 300px) and (max-width: 399px) and (min-height: 600px) and (max-height: 700px) { 
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -2268,18 +2348,18 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 30vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 3vh;
         font-size: 48px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -2288,14 +2368,14 @@
         margin-left: 15.25vw;
         margin-right: 15.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -2304,20 +2384,20 @@
         height: 30vh;
         background-color: #0B090B;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -2328,10 +2408,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2339,7 +2419,7 @@
         font-size: 36px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2349,7 +2429,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2358,7 +2438,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -2366,7 +2446,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2376,7 +2456,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2385,7 +2465,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2393,7 +2473,7 @@
         text-align:right;
         font-size: 15px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 16px; 
@@ -2401,25 +2481,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 22vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 60px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -2430,7 +2510,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -2439,19 +2519,19 @@
         font-size: 40px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 16px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2461,7 +2541,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2471,7 +2551,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2480,7 +2560,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2488,7 +2569,8 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2498,7 +2580,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2507,7 +2590,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2516,7 +2600,8 @@
         font-size: 12px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2524,7 +2609,8 @@
         font-size: 24px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2532,7 +2618,8 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2540,7 +2627,8 @@
         text-align:right;
         font-size: 16px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2549,7 +2637,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2559,7 +2648,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2567,7 +2657,8 @@
         font-size: 36px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2575,7 +2666,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2583,44 +2675,48 @@
         font-size: 40px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: 100vh;
         background-color: #0B090B;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -2631,14 +2727,14 @@
 /* iPhones */
 /* iPhone 13 Pro Max and iPhone 12 Pro Max */
 @media only screen and (device-width: 428px) and (device-height: 926px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -2646,18 +2742,18 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 25vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -2666,14 +2762,14 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -2682,20 +2778,20 @@
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -2706,10 +2802,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2717,7 +2813,7 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2727,7 +2823,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2736,7 +2832,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -2744,7 +2840,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2754,7 +2850,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2763,7 +2859,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2771,7 +2867,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -2779,25 +2875,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -2808,7 +2904,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -2817,19 +2913,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2839,7 +2935,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2849,7 +2945,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2858,7 +2954,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2866,7 +2963,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2876,7 +2974,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2885,7 +2984,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2894,7 +2994,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2902,7 +3003,8 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2910,7 +3012,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -2918,7 +3021,8 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -2927,7 +3031,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -2937,7 +3042,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2945,7 +3051,8 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2953,7 +3060,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -2961,44 +3069,48 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: 95vh;
         background-color: #0B090B;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -3008,14 +3120,14 @@
 
 /* iPhone 13, iPhone 12 and iPhone 12 Pro */
 @media only screen and (device-width: 390px) and (device-height: 844px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -3023,18 +3135,18 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 25vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -3043,14 +3155,14 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -3060,20 +3172,20 @@
         background-color: #0B090B;
         padding-bottom: 1vh;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -3084,10 +3196,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3095,7 +3207,7 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3105,7 +3217,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3114,7 +3226,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -3122,7 +3234,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3132,7 +3244,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3141,7 +3253,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3149,7 +3261,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -3157,25 +3269,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -3186,7 +3298,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -3195,19 +3307,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3217,7 +3329,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3227,7 +3339,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3236,7 +3348,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3244,7 +3357,8 @@
         font-size: 36px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3254,7 +3368,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3263,7 +3378,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3272,7 +3388,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3280,7 +3397,8 @@
         font-size: 26px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3288,7 +3406,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3296,7 +3415,8 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3305,7 +3425,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3315,7 +3436,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3323,7 +3445,8 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3331,7 +3454,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3339,45 +3463,49 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: auto;
         background-color: #0B090B;
         padding-bottom: 5vh;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -3387,14 +3515,14 @@
 
 /* iPhone 13 mini, iPhone 12 mini, iPhone 11 Pro, iPhone Xs, and iPhone X */
 @media only screen and (device-width: 375px) and (device-height: 812px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -3402,19 +3530,19 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: auto;
         background-color: #0B090B;
         padding-bottom: 20px;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -3423,14 +3551,14 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -3440,20 +3568,20 @@
         background-color: #0B090B;
         padding-bottom: 20px;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -3464,10 +3592,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3475,10 +3603,10 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaServiceTitleCustomFacial {
+    .spa-service-titleCustomFacial {
         font-size: 40px;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3488,7 +3616,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3497,7 +3625,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -3505,7 +3633,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3515,7 +3643,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3524,7 +3652,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3532,7 +3660,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -3540,25 +3668,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -3569,7 +3697,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -3578,19 +3706,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3600,7 +3728,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3610,7 +3738,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3619,7 +3747,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3627,7 +3756,8 @@
         font-size: 36px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3637,7 +3767,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3646,7 +3777,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3655,7 +3787,8 @@
         font-size: 13px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3663,7 +3796,8 @@
         font-size: 24px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3671,7 +3805,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3679,7 +3814,8 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3688,7 +3824,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3698,7 +3835,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3706,7 +3844,8 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3714,7 +3853,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3722,45 +3862,49 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: auto;
         background-color: #0B090B;
         padding-bottom: 20px;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -3770,14 +3914,14 @@
 
 /* iPhone 11, iPhone XR, iPhone 11 Pro Max and iPhone Xs Max */
 @media only screen and (device-width: 414px) and (device-height: 896px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -3785,18 +3929,18 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 25vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -3805,14 +3949,14 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -3821,20 +3965,20 @@
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -3845,10 +3989,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -3856,7 +4000,7 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3866,7 +4010,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3875,7 +4019,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -3883,7 +4027,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3893,7 +4037,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3902,7 +4046,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3910,7 +4054,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -3918,25 +4062,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -3947,7 +4091,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -3956,19 +4100,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -3978,7 +4122,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -3988,7 +4132,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -3997,7 +4141,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4005,7 +4150,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4015,7 +4161,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4024,7 +4171,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4033,7 +4181,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4041,7 +4190,8 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4049,7 +4199,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4057,7 +4208,8 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4066,7 +4218,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4076,7 +4229,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4084,7 +4238,8 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4092,7 +4247,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4100,44 +4256,48 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: 95vh;
         background-color: #0B090B;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -4147,31 +4307,31 @@
 
 /* iPhone 6+/6s+/7+/8 */
 @media only screen and (device-width : 414px) and (device-height : 736px) {
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         padding-top: 27.5vh;
         text-align: center;
         font-family: 'Cookie', cursive;
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 25vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 3vh;
         font-size: 72px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -4179,11 +4339,11 @@
         margin-left: 1.25vw;
         margin-right: 1.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -4192,30 +4352,30 @@
         height: 24vh;
         background-color: #0B090B;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         margin-left: 1.5vw;
         background-color: #221f22;
         height: auto;
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4223,7 +4383,7 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4233,7 +4393,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4242,7 +4402,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -4250,7 +4410,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4260,7 +4420,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4269,7 +4429,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4277,7 +4437,7 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 20px; 
@@ -4285,32 +4445,32 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 20vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 72px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        margin-left: 1.5vw;
        background-color: #221f22;
        height: auto;
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4318,19 +4478,19 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4340,7 +4500,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4349,7 +4509,7 @@
         position: relative;
         bottom: 1vh; 
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4358,7 +4518,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4366,7 +4527,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4376,7 +4538,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4385,7 +4548,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4394,7 +4558,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4402,7 +4567,8 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4410,7 +4576,8 @@
         font-size: 42px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4418,7 +4585,8 @@
         text-align:right;
         font-size: 20px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4427,7 +4595,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4437,7 +4606,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4445,7 +4615,8 @@
         font-size: 46px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4453,7 +4624,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4461,43 +4633,47 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: auto;
         background-color: #0B090B;
         padding-bottom: 25px;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
@@ -4507,14 +4683,14 @@
 
 /* iPhone 7, iPhone 8 and iPhone SE */
 @media only screen and (device-width : 375px) and (device-height : 667px) { 
-    .Spaslide-one-div {
+    .spa-slide-one-div {
         /* background-color: black; */
         height: 75vh;
         background-image: linear-gradient(#b78d2a7a, rgba(255, 255, 255, 0.5)), url(../assets/stock-photo-spa-treatment-process.jpg);
         background-position-y: center;
         background-size: cover;
     }
-    .SpaSlideOneTitle {
+    .spa-slide-one-title {
         /* position: relative; */
         padding-top: 27.5vh;
         text-align: center;
@@ -4522,18 +4698,18 @@
         color: #0B090B;
         font-size: 96px;
     }
-    .Spaslide-two-div {
+    .spa-slide-two-div {
         height: 30vh;
         background-color: #0B090B;
     }
-    .SpaSildeTwoTitle {
+    .spa-slide-two-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 3vh;
         font-size: 48px;
     }
-    .Spaslide-two-text {
+    .spa-slide-two-text {
         font-family: 'Raleway', sans-serif;
         color: #F5F5F5;
         text-align: center;
@@ -4542,14 +4718,14 @@
         margin-left: 15.25vw;
         margin-right: 15.25vw;
     }
-    .SpaSlideThreeDiv {
+    .spa-slide-three-div {
         height: auto;
         width: 100%;
         /* background-image: url(../assets/spa_room_la_bella.jpg);
         background-position-y: center;
         background-size: contain; */
     }
-    .SpaRoomPicture {
+    .spa-room-picture {
         background-position-y: center;
         background-size: contain;
         width: 100%;
@@ -4558,20 +4734,20 @@
         height: 30vh;
         background-color: #0B090B;
     }
-    .SpaSildeFourTitle {
+    .spa-slide-four-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 1vh;
         font-size: 72px;
     }
-    .SpaSlideFiveDiv {
+    .spa-slide-five-div {
         background-color: #0B090B;
         height: auto;
         width:  100vw;
         padding-top: 1vh;
     }
-    .SpaServiceDiv {
+    .spa-service-div {
         /* margin-top: 10vh; */
         margin-left: 1.5vw;
 
@@ -4582,10 +4758,10 @@
         width:  97vw;
         border: 1px #B78C2A solid;
     }
-    .WaxingCol {
+    .waxing-col {
         line-height: 10px !important;
     }
-    .SpaServiceTitle {
+    .spa-service-title {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4593,7 +4769,7 @@
         font-size: 36px;
         text-decoration: underline;
     }
-    .WaxingTextLeft {
+    .waxing-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4603,7 +4779,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .WaxingTextRight {
+    .waxing-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4612,7 +4788,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .WaxingTextMiddle {
+    .waxing-text-middle {
         position: relative;
         bottom: 2vh;
         color: rgb(127, 79, 21);
@@ -4620,7 +4796,7 @@
         text-align:right;
         font-size: 20px;  
     }
-    .SpaServicesTextLeft {
+    .spa-service-text-left {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4630,7 +4806,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRight {
+    .spa-service-text-right {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4639,7 +4815,7 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddle {
+    .spa-service-text-middle {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4647,7 +4823,7 @@
         text-align:right;
         font-size: 15px; 
     }
-    .SpaServiceSubTitle {
+    .spa-service-sub-title {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         font-size: 16px; 
@@ -4655,25 +4831,25 @@
         position: relative;
         bottom: 1.5vh
     }
-    .SpaServicesCol {
+    .spa-service-col {
         line-height: 10px !important;
     }
-    .SpaSlideSixDiv {
+    .spa-slide-six-div {
         height: 22vh;
         background-color: #0B090B;
     }
-    .SpaSildeSixTitle {
+    .spa-slide-six-title {
         font-family: 'Cookie', cursive;
         color: #F5F5F5;
         text-align: center;
         padding-top: 4.5vh;
         font-size: 60px;
     }
-    .SpaSlideSevenDiv {
+    .spa-slide-seven-div {
         height: auto;
         background-color: #0B090B;
     }
-    .UltimateSpaFacialDiv {
+    .ultimate-spa-facial-div {
        /* margin-top: 10vh; */
        margin-left: 1.5vw;
 
@@ -4684,7 +4860,7 @@
        width:  97vw;
        border: 1px #B78C2A solid; 
     }
-    .SpaSildeSevenTitle {
+    .spa-slide-seven-title {
         /* font-family: 'Raleway', sans-serif; */
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
@@ -4693,19 +4869,19 @@
         font-size: 40px;
         text-decoration: underline;
     }
-    .SpaSildeSevenText {
+    .spa-slide-seven-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 16px;
     }
-    .SpaSildeSevenInfoText {
+    .spa-slide-seven-info-text {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
         font-size: 20px;
     }
-    .SpaServicesTextLeftCustomFacials {
+    .spa-service-text-left-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4715,7 +4891,7 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightCustomFacials {
+    .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4725,7 +4901,7 @@
         bottom: 1vh;
         
     }
-    .SpaServicesTextMiddleCustomFacials {
+    .spa-service-text-middle-custom-facials {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4734,7 +4910,8 @@
         font-size: 16px; 
         padding-right: 34px
     }
-    .SpaServiceTitleFacialTreatment {
+    .spa-service-title-facial-treatment
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4742,7 +4919,8 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServicesTextLeftFacialTreatment {
+    .spa-service-text-left-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4752,7 +4930,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServicesTextRightFacialTreatment {
+    .spa-service-text-right-facial-treatment
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4761,7 +4940,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextMiddleFacialTreatment {
+    .spa-service-text-middle-facial-treatment
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4770,7 +4950,8 @@
         font-size: 12px; 
         padding-right: 34px
     }
-    .SpaServiceTitleEnhance {
+    .spa-service-title-enhance
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4778,7 +4959,8 @@
         font-size: 24px;
         text-decoration: underline;
     }
-    .SpaServiceTitleBodyMassage {
+    .spa-service-title-body-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4786,7 +4968,8 @@
         font-size: 30px;
         text-decoration: underline;
     }
-    .SpaServicesTextMiddleBodyMassage {
+    .spa-service-text-middle-body-massage
+ {
         position: relative;
         bottom: 1vh;
         color: rgb(127, 79, 21);
@@ -4794,7 +4977,8 @@
         text-align:right;
         font-size: 16px; 
     }
-    .SpaServicesTextRightBodyMassage {
+    .spa-service-text-right-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align:right;
@@ -4803,7 +4987,8 @@
         position: relative;
         bottom: 1vh;
     }
-    .SpaServicesTextLeftBodyMassage {
+    .spa-service-text-left-body-massage
+ {
         color: rgb(127, 79, 21);
         font-family: 'Raleway', sans-serif;
         text-align: left;
@@ -4813,7 +4998,8 @@
         bottom: 1vh;
         margin-bottom: 0;
     }
-    .SpaServiceTitleSwedishMassage {
+    .spa-service-title-swedish-massage
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4821,7 +5007,8 @@
         font-size: 36px;
         text-decoration: underline;
     }
-    .SpaSildeSevenTextSwedishMassage {
+    .spa-slide-seven-text-swedish-massage
+ {
         font-family: 'Raleway', sans-serif;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4829,7 +5016,8 @@
         margin-left: 1vw;
         margin-right: 1vw;
     }
-    .SpaServiceTitleDeepTissue {
+    .spa-service-title-deep-tissue
+ {
         font-family: 'Cookie', cursive;
         color: rgb(127, 79, 21);
         text-align: center;
@@ -4837,44 +5025,48 @@
         font-size: 40px;
         text-decoration: underline;
     }
-    .FooterThreeDiv {
+    .footer-three-div
+ {
         height: 110vh;
         background-color: #0B090B;
     }
-    .FooterThreeHours {
+    .footer-three-hours
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         text-align: center;
         padding-top: 5vh;
         padding-bottom: 2vh;
     }
-    .HoursText {
+    .hours-text
+ {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         padding-left: 22.5vw;
     }
-    .LocationPin {
+    .location-pin
+ {
         height: 5vh;
         /* padding-top: 1vh; */
         /* padding-left: 15vw !important; */
     }
-    .EmailIcon {
+    .email-icon {
         height: 3vh;
         position: relative;
         right: 1.5vw;
     }
-    .PhoneIcon {
+    .phone-icon {
         height: 5vh;
         position: relative;
         right: 1.5vw;
     }
-    .VisitUsText {
+    .visit-us-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
     }
-    .PhoneText {
+    .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;

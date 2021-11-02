@@ -63,7 +63,7 @@
     html:not([data-scroll='0']) .NavbarTitle {
         display: inline;
         position: relative;
-        /* bottom: 50px */
+        bottom: 4px
     }
     html:not([data-scroll='0']) .NavbarToggle {
         display: inline;
@@ -73,7 +73,7 @@
     html:not([data-scroll='0']) .MenuImageDiv {
         height: .01px;
         position: relative;
-        bottom: 18px !important;
+        bottom: 25px !important;
     }
     .Navbar {
         background-color: #b78d2a00;

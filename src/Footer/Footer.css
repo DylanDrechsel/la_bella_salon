@@ -56,713 +56,8 @@
     }
 }
 
-/* iPhone 13 Pro Max and iPhone 12 Pro Max */
-@media only screen and (device-width: 428px) and (device-height: 926px) {
-    .FooterOneDiv {
-        height: 26.5vh;
-        background-color: #0B090B;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 60vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-left: 10vw;
-    }
-    .ContactButton {
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: 8px;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh;
-        padding-bottom: 2vh;
-        padding-left: 28vw;
-    }
-    .TeamButtonText {
-        padding-top: 10px;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    } 
-}
-
-/* iPhone 11, iPhone XR, iPhone 11 Pro Max and iPhone Xs Max */
-@media only screen and (device-width: 414px) and (device-height: 896px) {
-    .FooterOneDiv {
-        height: 27.5vh;
-        background-color: #0B090B;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 60vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-left: 9.25vw;
-    }
-    .ContactButton {
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: 8px;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh;
-        padding-bottom: 2vh;
-        padding-left: 28vw;
-    }
-    .TeamButtonText {
-        padding-top: 10px;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    } 
-}
-
-/* iPhone 13, iPhone 12 and iPhone 12 Pro */
-@media only screen and (device-width: 390px) and (device-height: 844px) {
-    .FooterOneDiv {
-        height: 29vh;
-        background-color: #0B090B;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 60vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-left: 6vw;
-    }
-    .ContactButton {
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: 6px;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh;
-        padding-bottom: 2vh;
-        padding-left: 26.5vw;
-    }
-    .TeamButtonText {
-        padding-top: 8px;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    } 
-}
-
-/* iPhone 7, iPhone 8 and iPhone SE */
-@media only screen and (device-width : 375px) and (device-height : 667px) {
-    .FooterOneDiv {
-        height: auto;
-        background-color: #0B090B;
-        padding-bottom: 2vh;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 65vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        position: relative;
-        padding-left: 4vw;
-        bottom: 20px;
-    }
-    .ContactButton {
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: 1px;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh;
-        padding-bottom: 7vh;
-        padding-left: 26.5vw;
-    }
-    .TeamButtonText {
-        padding-top: 2px;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    } 
-}
-
-/* iPhone 13 mini, iPhone 12 mini, iPhone 11 Pro, iPhone Xs, and iPhone X */
-@media only screen and (device-width: 375px) and (device-height: 812px) {
-    .FooterOneDiv {
-        height: 32vh;
-        background-color: #0B090B;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 60vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-left: 5vw;
-    }
-    .ContactButton {
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: 4px;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh;
-        padding-bottom: 2vh;
-        padding-left: 26.5vw;
-    }
-    .TeamButtonText {
-        padding-top: 5px;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    }  
-}
-
-/* iPhone 6+/6s+/7+/8 */
-@media only screen and (device-width : 414px) and (device-height : 736px) {
-    .FooterOneDiv {
-        height: 33vh;
-        background-color: #0B090B;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 60vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-left: 8.5vw;
-    }
-    .ContactButton {
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: 3px;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh;
-        padding-bottom: 5vh;
-        padding-left: 28vw;
-    }
-    .TeamButtonText {
-        padding-top: 5px;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    }
-}
-
-/* iPhone 12 Pro Max / iPhone 13 Pro Max */
-/* @media only screen and (min-device-width: 415px) and (max-device-width: 430px) and (min-device-height: 897px) and (max-device-height: 940px) {
-    .FooterOneDiv {
-        height: 27.75vh;
-        background-color: #0B090B;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 60vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-top: 5vh;
-        padding-left: 9vw;
-    }
-    .ContactButton {
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: .8vh;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh;
-        padding-left: 28vw;
-    }
-    .TeamButtonText {
-        padding-top: 1vh;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    }
-} */
-
-/* iPhone 12 Pro / iPhone 12 / iPhone 13 */
-/* @media only screen and (min-device-width: 389px) and (max-device-width: 399px) and (min-device-height: 801px) and (max-device-height: 896px) {
-    .FooterOneDiv {
-        height: auto;
-        background-color: #0B090B;
-        padding-bottom: 2vh;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 60vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-top: 5vh;
-        padding-left: 7vw;
-    }
-    .ContactButton {
-        height: 50px;
-    }
-    .ContactButtonText {
-        padding-top: 3px;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh;
-        padding-left: 28vw;
-    }
-    .TeamButtonText {
-        padding-top: 5px;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    }
-} */
-
-/* iPhone 11 Pro */
-/* @media only screen and (min-device-width: 375px) and (max-device-width: 389px) and (min-device-height: 801px) and (max-device-height: 896px) {
-    .FooterOneDiv {
-        height: auto;
-        background-color: #0B090B;
-        padding-bottom: 20px;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 66px !important;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: auto !important;
-        background-color: #F5F5F5;
-        padding-bottom: 20px;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        position: relative;
-        right: 5.5vw;
-        padding-left: 13.5vw !important;
-    }
-    .ContactButton {
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: .8vh;
-        font-size: 18px !important;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh !important;
-        padding-left: 25vw !important;
-        padding-bottom: 5vh !important;
-    }
-    .TeamButtonText {
-        padding-top: 1vh !important;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    }
-} */
-
-/* iPhoneXR / iPhone 11 Pro Max / iPhone Xs Max / iPhone 11 */
-/* @media only screen and (min-device-width: 400px) and (max-device-width: 414px) and (min-device-height: 801px) and (max-device-height: 896px) {
-    .FooterOneDiv {
-        height: 27.75vh;
-        background-color: #0B090B;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 60vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-top: 5vh;
-        padding-left: 9vw;
-    }
-    .ContactButton {
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: .8vh;
-    }
-    .TeamButtonDiv {
-        padding-top: 5vh;
-        padding-left: 28vw;
-    }
-    .TeamButtonText {
-        padding-top: 1vh;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    }
-} */
-
-/* iPhone 6+, 7+, 8+ */
-/* @media only screen and (min-device-width: 400px) and (max-device-width: 414px) and (min-device-height: 700px) and (max-device-height: 800px) {
-    .FooterOneDiv {
-        height: 32vh;
-        background-color: #0B090B;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 60px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 60vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        padding-bottom: 25px;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-top: 5vh;
-        padding-left: 9.5vw;
-    }
-    .ContactButton {
-        position: relative;
-        bottom: 10vh;
-        height: 7vh;
-    }
-    .ContactButtonText {
-        padding-top: .5vh;
-    }
-    .TeamButtonDiv {
-        padding-top: 10vh;
-        padding-left: 28vw;
-    }
-    .TeamButtonText {
-        padding-top: .75vh;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    }
-} */
-
-/* iPhone 6, 6S, 7, and 8 (Small Cell Phone) */
-/* @media only screen and (min-device-width: 300px) and (max-device-width: 399px) and (min-device-height: 600px) and (max-device-height: 700px) { 
-    .FooterOneDiv {
-        height: 32vh;
-        background-color: #0B090B;
-    }
-    .FooterOneTitle {
-        font-family: 'Cookie', cursive;
-        color: #F5F5F5;
-        text-align: center;
-        font-size: 52px;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    }
-    .FooterTwoDiv {
-        height: 70vh;
-        background-color: #F5F5F5 ;
-    }
-    .FooterTwoText {
-        color: #0B090B;
-        text-align: center;
-        padding-top: 10vh;
-        font-size: 24px;
-        font-family: 'Raleway', sans-serif;
-        margin-left: 6vw;
-        margin-right: 6vw;
-    }
-    .ContactButtonDiv {
-        padding-left: 10vw;
-    }
-    .ContactButton {
-        position: relative;
-        bottom: 20vh;
-        height: 7vh;
-        width: 300px
-    }
-    .ContactButtonText {
-        padding-top: .5vh;
-        font-size: 16px;
-    }
-    .TeamButtonDiv {
-        position: relative;
-        top: 20vh;
-        padding-top: 20vh;
-        padding-left: 10vw;
-    }
-    .TeamButtonText {
-        padding-top: .5vh;
-        font-size: 18px;
-    }
-    .InstagramIcon {
-        height: 5vh;
-        position: relative;
-        left: 15vw;
-    }
-    .FacebookIcon {
-        height: 5vh;
-        position: relative;
-        left: 19vw;
-    }
-    .FooterThreeDiv {
-        height: auto !important;
-        padding-bottom: 5vh;
-    }
-} */
-
 /* Andriod */
-/* @media only screen and (min-width: 415px) and (max-width: 430px) and (min-height: 897px) and (max-height: 940px) {
+@media only screen and (min-width: 415px) and (max-width: 430px) and (min-height: 897px) and (max-height: 940px) {
     .FooterOneDiv {
         height: 27.75vh;
         background-color: #0B090B;
@@ -906,17 +201,17 @@
     .ContactButtonDiv {
         position: relative;
         right: 5.5vw;
-        padding-left: 13.5vw !important;
+        padding-left: 13.5vw;
     }
     .ContactButton {
         height: 7vh;
     }
     .ContactButtonText {
         padding-top: .8vh;
-        font-size: 18px !important;
+        font-size: 18px;
     }
     .TeamButtonDiv {
-        padding-top: 5vh !important;
+        padding-top: 5vh;
         padding-left: 25vw !important;
         padding-bottom: 5vh !important;
     }
@@ -1114,4 +409,353 @@
         height: auto !important;
         padding-bottom: 5vh;
     }
-} */
+}
+
+/* iPhone */
+/* iPhone 13 Pro Max and iPhone 12 Pro Max */
+@media only screen and (device-width: 428px) and (device-height: 926px) {
+    .FooterOneDiv {
+        height: 26.5vh;
+        background-color: #0B090B;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 60vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        padding-left: 10vw;
+    }
+    .ContactButton {
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: 8px;
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-bottom: 2vh;
+        padding-left: 28vw;
+    }
+    .TeamButtonText {
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    } 
+}
+
+/* iPhone 11, iPhone XR, iPhone 11 Pro Max and iPhone Xs Max */
+@media only screen and (device-width: 414px) and (device-height: 896px) {
+    .FooterOneDiv {
+        height: 27.5vh;
+        background-color: #0B090B;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 60vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        padding-left: 9.25vw;
+    }
+    .ContactButton {
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: 8px;
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-bottom: 2vh;
+        padding-left: 28vw;
+    }
+    .TeamButtonText {
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    } 
+}
+
+/* iPhone 13, iPhone 12 and iPhone 12 Pro */
+@media only screen and (device-width: 390px) and (device-height: 844px) {
+    .FooterOneDiv {
+        height: 29vh;
+        background-color: #0B090B;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 60vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        padding-left: 12vw;
+    }
+    .ContactButton {
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: 10px;
+        font-size: 16px
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-bottom: 2vh;
+        padding-left: 12vw;
+    }
+    .TeamButtonText {
+        padding-top: 8px;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    } 
+}
+
+/* iPhone 7, iPhone 8 and iPhone SE */
+@media only screen and (device-width : 375px) and (device-height : 667px) {
+    .FooterOneDiv {
+        height: auto;
+        background-color: #0B090B;
+        padding-bottom: 2vh;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 65vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        position: relative;
+        padding-left: 4vw;
+        bottom: 20px;
+    }
+    .ContactButton {
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: 1px;
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-bottom: 7vh;
+        padding-left: 26.5vw;
+    }
+    .TeamButtonText {
+        padding-top: 2px;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    } 
+}
+
+/* iPhone 13 mini, iPhone 12 mini, iPhone 11 Pro, iPhone Xs, and iPhone X */
+@media only screen and (device-width: 375px) and (device-height: 812px) {
+    .FooterOneDiv {
+        height: 32vh;
+        background-color: #0B090B;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 60vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        padding-left: 5vw;
+    }
+    .ContactButton {
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: 4px;
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-bottom: 2vh;
+        padding-left: 26.5vw;
+    }
+    .TeamButtonText {
+        padding-top: 5px;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    }  
+}
+
+/* iPhone 6+/6s+/7+/8 */
+@media only screen and (device-width : 414px) and (device-height : 736px) {
+    .FooterOneDiv {
+        height: 33vh;
+        background-color: #0B090B;
+    }
+    .FooterOneTitle {
+        font-family: 'Cookie', cursive;
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 60px;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+    .FooterTwoDiv {
+        height: 60vh;
+        background-color: #F5F5F5 ;
+    }
+    .FooterTwoText {
+        color: #0B090B;
+        text-align: center;
+        padding-top: 10vh;
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+    .ContactButtonDiv {
+        padding-left: 8.5vw;
+    }
+    .ContactButton {
+        height: 7vh;
+    }
+    .ContactButtonText {
+        padding-top: 3px;
+    }
+    .TeamButtonDiv {
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+        padding-left: 28vw;
+    }
+    .TeamButtonText {
+        padding-top: 5px;
+        font-size: 18px;
+    }
+    .InstagramIcon {
+        height: 5vh;
+        position: relative;
+        left: 15vw;
+    }
+    .FacebookIcon {
+        height: 5vh;
+        position: relative;
+        left: 19vw;
+    }
+}
+

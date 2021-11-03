@@ -34,12 +34,12 @@ const Navigation = () => {
 
     return (
         <div>
-            <Navbar className='Navbar' expand="sm" fixed="top">
+            <Navbar className='navbar' expand="sm" fixed="top">
                 <Container>
                     <Navbar.Brand>
                         <Link 
                             to={'/'}
-                            className='NavbarTitle'
+                            className='navbar-title'
                             style={{
                                 color: '#F5F5F5',
                                 textDecoration: 'none',

@@ -544,7 +544,7 @@
     html:not([data-scroll='0']) .navbar {
         background-color: #b78d2a;
         animation: fadeIn .5s ease-in;
-        height: 50px;
+        height: 40px;
         /* overflow: hidden; */
     }
     html:not([data-scroll='0']) .navbar-title {
@@ -560,7 +560,7 @@
     html:not([data-scroll='0']) .menu-image-div {
         height: .01px;
         position: relative;
-        top: -20px;
+        top: -18px;
     }
     .navbar {
         background-color: #b78d2a00;

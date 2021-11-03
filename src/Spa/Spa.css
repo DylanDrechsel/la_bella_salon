@@ -3204,7 +3204,7 @@
         color: rgb(127, 79, 21);
         text-align: center;
         padding-top: 1vh;
-        font-size: 42px;
+        font-size: 38px;
         text-decoration: underline;
     }
     .waxing-text-left {
@@ -3354,7 +3354,7 @@
         color: rgb(127, 79, 21);
         text-align: center;
         padding-top: 1vh;
-        font-size: 36px;
+        font-size: 32px;
         text-decoration: underline;
     }
     .spa-service-text-left-facial-treatment
@@ -3504,12 +3504,14 @@
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
+        font-size: 14px;
     }
     .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         top: 1vh;
+        font-size: 14px;
     }
 }
 
@@ -3603,8 +3605,8 @@
         font-size: 48px;
         text-decoration: underline;
     }
-    .spa-service-titleCustomFacial {
-        font-size: 40px;
+    .spa-service-title-custom-facial {
+        font-size: 36px;
     }
     .waxing-text-left {
         color: rgb(127, 79, 21);
@@ -3903,12 +3905,14 @@
         font-family: 'Raleway', sans-serif;
         position: relative;
         bottom: .5vh;
+        font-size: 14px;
     }
     .phone-text {
         color: #F5F5F5;
         font-family: 'Raleway', sans-serif;
         position: relative;
         top: 1vh;
+        font-size: 14px;
     }
 }
 
@@ -4120,7 +4124,7 @@
         padding-left: 3vw;
         position: relative;
         bottom: 1vh;
-        margin-bottom: 0;
+        margin-bottom: 0 !important;
     }
     .spa-service-text-right-custom-facials {
         color: rgb(127, 79, 21);

@@ -492,6 +492,7 @@
         color: #0B090B;
         text-align: center;
         padding-top: 10vh;
+        margin-bottom: 5vh !important;
         font-size: 24px;
         font-family: 'Raleway', sans-serif;
         margin-left: 6vw;
@@ -649,7 +650,7 @@
 /* iPhone 13 mini, iPhone 12 mini, iPhone 11 Pro, iPhone Xs, and iPhone X */
 @media only screen and (device-width: 375px) and (device-height: 812px) {
     .footer-one-div {
-        height: 30vh;
+        height: 35vh;
         background-color: #0B090B;
     }
     .footer-one-title {

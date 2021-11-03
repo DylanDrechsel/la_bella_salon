@@ -78,7 +78,7 @@
     html:not([data-scroll='0']) .menu-image-div {
         height: .01px;
         position: relative;
-        bottom: 18px !important;
+        bottom: 18px;
     }
     .navbar {
         background-color: #b78d2a00;
@@ -185,7 +185,7 @@
     html:not([data-scroll='0']) .menu-image-div {
         height: .01px;
         position: relative;
-        top: -10px !important;
+        top: -10px;
     }
     .navbar {
         background-color: #b78d2a00;
@@ -238,7 +238,7 @@
     html:not([data-scroll='0']) .menu-image-div {
         height: .01px;
         position: relative;
-        bottom: 18px !important;
+        bottom: 18px;
     }
     .navbar {
         background-color: #b78d2a00;
@@ -544,13 +544,13 @@
     html:not([data-scroll='0']) .navbar {
         background-color: #b78d2a;
         animation: fadeIn .5s ease-in;
-        height: 50px;
+        height: 40px;
         /* overflow: hidden; */
     }
     html:not([data-scroll='0']) .navbar-title {
         display: inline;
         position: relative;
-        /* bottom: 50px */
+        bottom: 8px;
     }
     html:not([data-scroll='0']) .navbar-toggle {
         display: inline;
@@ -560,7 +560,7 @@
     html:not([data-scroll='0']) .menu-image-div {
         height: .01px;
         position: relative;
-        bottom: 18px !important;
+        top: -30px;
     }
     .navbar {
         background-color: #b78d2a00;

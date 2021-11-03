@@ -560,7 +560,7 @@
     html:not([data-scroll='0']) .menu-image-div {
         height: .01px;
         position: relative;
-        top: -24px;
+        top: -30px;
     }
     .navbar {
         background-color: #b78d2a00;

@@ -3,11 +3,11 @@ import { Row, Col } from 'react-bootstrap'
 
 const DescriptionSlide = () => {
     return (
-        <div className='DescriptionSlide'>
+        <div className='description-slide'>
             
             <Row>
                 <Col>
-                    <h2 className='DescriptionText'>
+                    <h2 className='description-text'>
                         <b> 
                             At La Bella Salon & Spa we offer everything you need to keep you looking your best. 
                             We'll give you the makeover you desire that's sure to make you the center of attention!
@@ -19,7 +19,7 @@ const DescriptionSlide = () => {
             <div>
                 <Row>
                     <Col>
-                        <b className='DescriptionSubText'>
+                        <b className='description-sub-text'>
                             <ul className="ulist"> 
                                 <li> <l> Cutting & Styling </l> </li>
                                 <li> <l> Hair Dying </l> </li>

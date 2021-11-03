@@ -4,7 +4,7 @@ import { Row, Col } from 'react-bootstrap'
 const MenuSlide = () => {
     return (
         
-        <div className='SpaSlideFiveDiv'>
+        <div className='spa-slide-five-div'>
             <div className="spa-service-div">
 
             <div className='haircut-div'>

@@ -550,7 +550,7 @@
     html:not([data-scroll='0']) .navbar-title {
         display: inline;
         position: relative;
-        bottom: 4px;
+        bottom: 14px;
     }
     html:not([data-scroll='0']) .navbar-toggle {
         display: inline;

@@ -19,10 +19,10 @@ const SalonEtiquette = () => {
     window.scrollY = 1;
     
     return (
-        <div className='EtiquetteMainDiv'>
+        <div className='etiquette-main-div'>
             <Title />
             
-            <div className='SalonEtiquetteDiv'>
+            <div className='salon-etiquette-div'>
                 <Arrival />
                 <Cancellations />
                 <Children />

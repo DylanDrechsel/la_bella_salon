@@ -2,10 +2,10 @@ import React from 'react';
 
 const GiftCertificates = () => {
     return (
-        <div className='GiftCertificatesDiv'>
-            <h1 className='GiftCertificatesTitle'> Gift Certificates </h1>
+        <div className='gift-certificates-div'>
+            <h1 className='gift-certificates-title'> Gift Certificates </h1>
             
-            <p className='GiftCertificatesText'> 
+            <p className='gift-certificates-text'> 
                 <b>
                     Always available for all occasions or someone special!
                 </b>

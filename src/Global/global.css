@@ -550,7 +550,7 @@
     html:not([data-scroll='0']) .navbar-title {
         display: inline;
         position: relative;
-        bottom: 0px;
+        bottom: 4px;
     }
     html:not([data-scroll='0']) .navbar-toggle {
         display: inline;
@@ -560,7 +560,7 @@
     html:not([data-scroll='0']) .menu-image-div {
         height: .01px;
         position: relative;
-        top: -18px;
+        top: -24px;
     }
     .navbar {
         background-color: #b78d2a00;

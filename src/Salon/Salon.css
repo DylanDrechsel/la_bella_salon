@@ -821,7 +821,7 @@
         color: rgb(127, 79, 21);
         text-align: center;
         padding-top: 1vh;
-        font-size: 48px;
+        font-size: 40px;
         text-decoration: underline;
     }
     .color-highlight-text {
@@ -883,7 +883,7 @@
         font-size: 96px;
     }
     .description-slide {
-        height: auto;
+        height: 35vh;
         background-color: #F5F5F5
     }
     .description-text {
@@ -902,6 +902,8 @@
         font-size: 18px;
     }
     .ulist {
+        position: relative;
+        bottom: 10vh;
         display: table;
         margin: 0 auto;
     }
@@ -1129,7 +1131,7 @@
         color: rgb(127, 79, 21);
         text-align: center;
         padding-top: 1vh;
-        font-size: 36px;
+        font-size: 32px;
         text-decoration: underline;
     }
     .color-highlight-title {
@@ -1137,7 +1139,7 @@
         color: rgb(127, 79, 21);
         text-align: center;
         padding-top: 1vh;
-        font-size: 48px;
+        font-size: 40px;
         text-decoration: underline;
     }
     .color-highlight-text {

@@ -6,64 +6,61 @@ const MenuModal = ({ handleShow, show, handleClose }) => {
     return (
         <>
             <Modal
-                className='Modal'
+                className='modal'
                 show={show}
                 onHide={handleClose}
                 // backdrop="static"
                 keyboard={false}
             >
-                {/* <Modal.Header closeButton >
-                    <Modal.Title>Modal title</Modal.Title>
-                </Modal.Header> */}
 
-                <Modal.Body className='ModalBody'>
+                <Modal.Body className='modal-body'>
 
                     <Link 
                         to={'/'}
                         onClick={handleClose}
-                        className='MenuLink'   
+                        className='menu-link'   
                     >
-                        <h3 className='MenuText'> Home </h3> <br />
+                        <h3 className='menu-text'> Home </h3> <br />
                     </Link>
 
                     <Link 
                         to={'/salon'}
                         onClick={handleClose}
-                        className='MenuLink'   
+                        className='menu-link'   
                     >
-                        <h3 className='MenuText'> Salon </h3> <br />
+                        <h3 className='menu-text'> Salon </h3> <br />
                     </Link>
 
                     <Link 
                         to={'/spa'}
                         onClick={handleClose}
-                        className='MenuLink'   
+                        className='menu-link'   
                     >
-                        <h3 className='MenuText'> Spa </h3> <br />
+                        <h3 className='menu-text'> Spa </h3> <br />
                     </Link>
 
                     <Link 
                         to={'/salon-etiquette'}
                         onClick={handleClose}
-                        className='MenuLink'
+                        className='menu-link'
                     >
-                        <h3 className='MenuText'> Salon Etiquette </h3> <br />
+                        <h3 className='menu-text'> Salon Etiquette </h3> <br />
                     </Link>
 
                     <Link 
                         to={'/team'}
                         onClick={handleClose}
-                        className='MenuLink'
+                        className='menu-link'
                     >
-                        <h3 className='MenuText'> Team </h3> <br />
+                        <h3 className='menu-text'> Team </h3> <br />
                     </Link>
 
                     <Link 
                         to={'/contact'}
                         onClick={handleClose}
-                        className='MenuLink'
+                        className='menu-link'
                     >
-                        <h3 className='MenuText'> Contact </h3> <br />
+                        <h3 className='menu-text'> Contact </h3> <br />
                     </Link>
 
                 </Modal.Body>

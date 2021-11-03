@@ -20,7 +20,7 @@ const CarouselSlide = () => {
                     <img
                         className="d-block w-100 carousel-image"
                         src={SecondPicture}
-                        alt="First slide"
+                        alt="Second slide"
                     />
                 </Carousel.Item>
 
@@ -28,7 +28,7 @@ const CarouselSlide = () => {
                     <img
                         className="d-block w-100 carousel-image"
                         src={ThirdPicture}
-                        alt="First slide"
+                        alt="Third slide"
                     />
                 </Carousel.Item>
 

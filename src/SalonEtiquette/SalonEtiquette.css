@@ -107,6 +107,661 @@
     }
 }
 
+/* Andriod */
+@media only screen and (min-width: 415px) and (max-width: 430px) and (min-height: 897px) and (max-height: 940px) {
+    .etiquette-main-div {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .salon-etiquette-div {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .etiquette-title {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 72px;
+    }
+    .arrival-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .arrival-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .cancellations-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cancellations-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .children-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .children-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .cell-phones-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cell-phones-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .gift-certificates-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .gift-certificates-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 389px) and (max-width: 399px) and (min-height: 801px) and (max-height: 896px) {
+    .etiquette-main-div {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .salon-etiquette-div {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .etiquette-title {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 72px;
+    }
+    .arrival-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .arrival-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .cancellations-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cancellations-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .children-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .children-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .cell-phones-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cell-phones-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .gift-certificates-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .gift-certificates-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 389px) and (min-height: 801px) and (max-height: 896px) {
+    .etiquette-main-div {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .salon-etiquette-div {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .etiquette-title {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 60px;
+        text-decoration: underline;
+    }
+    .arrival-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .arrival-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .cancellations-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cancellations-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .children-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .children-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .cell-phones-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cell-phones-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .gift-certificates-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .gift-certificates-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 801px) and (max-height: 896px)  {
+    .etiquette-main-div {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .salon-etiquette-div {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .etiquette-title {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 72px;
+    }
+    .arrival-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .arrival-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .cancellations-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cancellations-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .children-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .children-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .cell-phones-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cell-phones-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .gift-certificates-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .gift-certificates-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 700px) and (max-height: 800px) {
+    .etiquette-main-div {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .salon-etiquette-div {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+        background-color: #221f22;
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .etiquette-title {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 72px;
+    }
+    .arrival-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .arrival-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .cancellations-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cancellations-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .children-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .children-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .cell-phones-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cell-phones-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .gift-certificates-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .gift-certificates-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 399px)  and (min-height: 600px) and (max-height: 700px) {
+    .etiquette-main-div {
+        background-color: #0B090B;
+        height: auto;
+        width:  auto;
+        padding-bottom: 2vh;
+    }
+    .salon-etiquette-div {
+        margin-top: 10vh;
+        margin-left: 1.5vw;
+        padding-bottom: 1vh;
+
+        /* Testing with BackgroundColor Change */
+        background-color: #221f22;
+        
+        height: auto;
+        width:  97vw;
+        border: 1px #B78C2A solid;
+    }
+    .etiquette-title {
+        position: relative;
+        top: 8.5vh;
+        text-align: center;
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 60px;
+        text-decoration: underline;
+    }
+    .arrival-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .arrival-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .cancellations-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cancellations-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+    .children-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .children-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .cell-phones-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .cell-phones-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+    .gift-certificates-title {
+        color: rgb(127, 79, 21);
+        font-family: 'Cookie', cursive;
+        font-size: 42px;
+        letter-spacing: 2px;
+        text-decoration: underline;
+        margin-left: 12px;
+        margin-bottom: -8px;
+    }
+    .gift-certificates-text {
+        color: rgb(127, 79, 21);
+        font-family: 'Raleway', sans-serif;
+        margin-left: 18px;
+        margin-bottom: 0px;
+        font-size: 17px; 
+    }
+}
+
+/* iPhones */
 /* iPhone 13 Pro Max and iPhone 12 Pro Max */
 @media only screen and (device-width: 428px) and (device-height: 926px) {
     .etiquette-main-div {
@@ -657,660 +1312,6 @@
 
 /* iPhone 7, iPhone 8 and iPhone SE */
 @media only screen and (device-width : 375px) and (device-height : 667px) {
-    .etiquette-main-div {
-        background-color: #0B090B;
-        height: auto;
-        width:  auto;
-        padding-bottom: 2vh;
-    }
-    .salon-etiquette-div {
-        margin-top: 10vh;
-        margin-left: 1.5vw;
-        padding-bottom: 1vh;
-
-        /* Testing with BackgroundColor Change */
-        background-color: #221f22;
-        
-        height: auto;
-        width:  97vw;
-        border: 1px #B78C2A solid;
-    }
-    .etiquette-title {
-        position: relative;
-        top: 8.5vh;
-        text-align: center;
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 60px;
-        text-decoration: underline;
-    }
-    .arrival-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .arrival-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .cancellations-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cancellations-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .children-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .children-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .cell-phones-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cell-phones-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .gift-certificates-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .gift-certificates-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-}
-
-/* Andriod */
-@media only screen and (min-width: 415px) and (max-width: 430px) and (min-height: 897px) and (max-height: 940px) {
-    .etiquette-main-div {
-        background-color: #0B090B;
-        height: auto;
-        width:  auto;
-        padding-bottom: 2vh;
-    }
-    .salon-etiquette-div {
-        margin-top: 10vh;
-        margin-left: 1.5vw;
-        padding-bottom: 1vh;
-
-        /* Testing with BackgroundColor Change */
-        background-color: #221f22;
-        
-        height: auto;
-        width:  97vw;
-        border: 1px #B78C2A solid;
-    }
-    .etiquette-title {
-        position: relative;
-        top: 8.5vh;
-        text-align: center;
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 72px;
-    }
-    .arrival-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .arrival-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .cancellations-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cancellations-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .children-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .children-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .cell-phones-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cell-phones-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .gift-certificates-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .gift-certificates-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-}
-
-@media only screen and (min-width: 389px) and (max-width: 399px) and (min-height: 801px) and (max-height: 896px) {
-    .etiquette-main-div {
-        background-color: #0B090B;
-        height: auto;
-        width:  auto;
-        padding-bottom: 2vh;
-    }
-    .salon-etiquette-div {
-        margin-top: 10vh;
-        margin-left: 1.5vw;
-        padding-bottom: 1vh;
-
-        /* Testing with BackgroundColor Change */
-        background-color: #221f22;
-        
-        height: auto;
-        width:  97vw;
-        border: 1px #B78C2A solid;
-    }
-    .etiquette-title {
-        position: relative;
-        top: 8.5vh;
-        text-align: center;
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 72px;
-    }
-    .arrival-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .arrival-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .cancellations-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cancellations-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .children-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .children-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .cell-phones-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cell-phones-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .gift-certificates-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .gift-certificates-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-}
-
-@media only screen and (min-width: 375px) and (max-width: 389px) and (min-height: 801px) and (max-height: 896px) {
-    .etiquette-main-div {
-        background-color: #0B090B;
-        height: auto;
-        width:  auto;
-        padding-bottom: 2vh;
-    }
-    .salon-etiquette-div {
-        margin-top: 10vh;
-        margin-left: 1.5vw;
-        padding-bottom: 1vh;
-
-        /* Testing with BackgroundColor Change */
-        background-color: #221f22;
-        
-        height: auto;
-        width:  97vw;
-        border: 1px #B78C2A solid;
-    }
-    .etiquette-title {
-        position: relative;
-        top: 8.5vh;
-        text-align: center;
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 60px;
-        text-decoration: underline;
-    }
-    .arrival-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .arrival-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .cancellations-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cancellations-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .children-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .children-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .cell-phones-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cell-phones-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .gift-certificates-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .gift-certificates-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-}
-
-@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 801px) and (max-height: 896px)  {
-    .etiquette-main-div {
-        background-color: #0B090B;
-        height: auto;
-        width:  auto;
-        padding-bottom: 2vh;
-    }
-    .salon-etiquette-div {
-        margin-top: 10vh;
-        margin-left: 1.5vw;
-        padding-bottom: 1vh;
-
-        /* Testing with BackgroundColor Change */
-        background-color: #221f22;
-        
-        height: auto;
-        width:  97vw;
-        border: 1px #B78C2A solid;
-    }
-    .etiquette-title {
-        position: relative;
-        top: 8.5vh;
-        text-align: center;
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 72px;
-    }
-    .arrival-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .arrival-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .cancellations-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cancellations-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .children-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .children-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .cell-phones-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cell-phones-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .gift-certificates-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .gift-certificates-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-}
-
-@media only screen and (min-width: 400px) and (max-width: 414px) and (min-height: 700px) and (max-height: 800px) {
-    .etiquette-main-div {
-        background-color: #0B090B;
-        height: auto;
-        width:  auto;
-        padding-bottom: 2vh;
-    }
-    .salon-etiquette-div {
-        margin-top: 10vh;
-        margin-left: 1.5vw;
-        padding-bottom: 1vh;
-        background-color: #221f22;
-        height: auto;
-        width:  97vw;
-        border: 1px #B78C2A solid;
-    }
-    .etiquette-title {
-        position: relative;
-        top: 8.5vh;
-        text-align: center;
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 72px;
-    }
-    .arrival-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .arrival-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .cancellations-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cancellations-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px;
-    }
-    .children-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .children-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .cell-phones-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .cell-phones-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-    .gift-certificates-title {
-        color: rgb(127, 79, 21);
-        font-family: 'Cookie', cursive;
-        font-size: 42px;
-        letter-spacing: 2px;
-        text-decoration: underline;
-        margin-left: 12px;
-        margin-bottom: -8px;
-    }
-    .gift-certificates-text {
-        color: rgb(127, 79, 21);
-        font-family: 'Raleway', sans-serif;
-        margin-left: 18px;
-        margin-bottom: 0px;
-        font-size: 17px; 
-    }
-}
-
-@media only screen and (min-width: 300px) and (max-width: 399px)  and (min-height: 600px) and (max-height: 700px) {
     .etiquette-main-div {
         background-color: #0B090B;
         height: auto;

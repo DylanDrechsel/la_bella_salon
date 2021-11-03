@@ -3,8 +3,8 @@ import React from 'react';
 const LandingSlide = () => {
     return (
         <div>
-            <div className='Salonslide-one-div'>
-                <h1 className='SalonSlideOneTitle'> <b> Salon </b> </h1>
+            <div className='salon-slide-one-div'>
+                <h1 className='salon-slide-one-title'> <b> Salon </b> </h1>
             </div>
         </div>
     );

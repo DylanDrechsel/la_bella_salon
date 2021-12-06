@@ -62,6 +62,20 @@ const Waxing = () => {
                         </p>
                     </Col>
                 </Row>
+
+                <Row>
+                    <Col className='waxing-col'>
+                        <p className='waxing-text-left'>
+                            <b> Bikini (Extended) </b>
+                        </p>
+                    </Col>
+
+                    <Col className='waxing-col'>
+                        <p className='waxing-text-right'>
+                            <b> $35 </b>
+                        </p>
+                    </Col>
+                </Row>
             
                 <Row>
                     <Col className='waxing-col'>

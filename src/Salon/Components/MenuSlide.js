@@ -383,7 +383,7 @@ const MenuSlide = () => {
 
                     <Col className='waxing-col'>
                         <p className='waxing-text-right'>
-                            <b> $20 </b>
+                            <b> $25 </b>
                         </p>
                     </Col>
                 </Row>
@@ -425,7 +425,21 @@ const MenuSlide = () => {
 
                     <Col className='waxing-col'>
                         <p className='waxing-text-right'>
-                            <b> $18 </b>
+                            <b> $20 </b>
+                        </p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col className='waxing-col' xs={8}>
+                        <p className='color-highlight-text-18'>
+                            <b> Parafin Manicure </b>
+                        </p>
+                    </Col>
+
+                    <Col className='waxing-col'>
+                        <p className='waxing-text-right'>
+                            <b> $40 </b>
                         </p>
                     </Col>
                 </Row>
@@ -542,7 +556,7 @@ const MenuSlide = () => {
 
                     <Col className='waxing-col'>
                         <p className='waxing-text-right'>
-                            <b> $32 </b>
+                            <b> $35 </b>
                         </p>
                     </Col>
                 </Row>
@@ -556,7 +570,7 @@ const MenuSlide = () => {
 
                     <Col className='waxing-col'>
                         <p className='waxing-text-right'>
-                            <b> $42 </b>
+                            <b> $45 </b>
                         </p>
                     </Col>
                 </Row>
@@ -570,7 +584,7 @@ const MenuSlide = () => {
 
                     <Col className='waxing-col'>
                         <p className='waxing-text-right'>
-                            <b> $14 </b>
+                            <b> $15 </b>
                         </p>
                     </Col>
                 </Row>
@@ -584,7 +598,7 @@ const MenuSlide = () => {
 
                     <Col className='waxing-col'>
                         <p className='waxing-text-right'>
-                            <b> $52 </b>
+                            <b> $60 </b>
                         </p>
                     </Col>
                 </Row>
@@ -592,13 +606,13 @@ const MenuSlide = () => {
                 <Row>
                     <Col className='waxing-col' xs={8}>
                         <p className='color-highlight-text'>
-                            <b> Jelli-Pedi (Detox or Hydrate) </b>
+                            <b> Parafin Pedicure </b>
                         </p>
                     </Col>
 
                     <Col className='waxing-col'>
                         <p className='waxing-text-right'>
-                            <b> $52 </b>
+                            <b> $55 </b>
                         </p>
                     </Col>
                 </Row>
